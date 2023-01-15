@@ -1,0 +1,75 @@
+[Our side life]
+ON=11C98,64
+
+[Our side energy]
+ON=11C9A,64
+
+[Our side capabilities]
+ON=11C9E,64
+
+[Our side angry]
+ON=11CC4,64
+
+[The opposite side life]
+ON=11F20,0
+
+[The opposite side energy]
+ON=11F22,0
+
+[The opposite side capabilities]
+ON=11F26,0
+
+[The opposite side angry]
+ON=11F4C,0
+
+[Perfect person]
+ON=130B2,FF,FF
+
+[Entire small game]
+ON=130B6,FF
+
+[Entire mode]
+ON=130B7,1
+
+[Slight difficulty of playing small game]
+ON=130B4,FF
+
+[Collections]
+ON=1319C,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1850 - Konjiki no Gashbell Unare Yuujou no Zakeru 2 (J)（金色的卡修-友情的电击2 ）（J）FTG 128
+System=GBA
+Text=vicente
+---------------------------------------------------------------------------------------------------
+[1P HP]
+FULL=11C98,64
+
+[1P  Energy]
+FULL=11C9E,64
+
+[2P HP must die as soon as  kills ]
+RED=11F20,1
+
+[2P lock energy]
+ON=11F26,0
+
+[Infinite time]
+ON=12255,FF
+
+[Entire role usage open]
+ON=130B2,FF,FF
+
+[Entire MINI GAME+The survival pattern open]
+ON=130B6,FF,1
+
+[All MINI GAME entire difficulty open]
+ON=130B4,FF,FF
+
+[Entire collection100% obtain]
+ON=1319C,FF,FF,FF,FF,FF,FF,FF
+
+[GAMEINFO]
+NAME=1849 - Konjiki no Gashbell Unare Yuujou no Zakeru 2 (J)（金色的卡修-友情的电击2 ）（J）FTG 128
+SYSTEM=GBA
+TEXT=KRIZAL

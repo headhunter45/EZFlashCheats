@@ -1,0 +1,19 @@
+[Time]
+ON=40AB4,0,0
+
+[Life]
+ON=40674,A
+
+[Number of elements]
+ON=40680,63
+
+[Invisible]
+ON=40779,FF
+
+[Auxiliary armament]
+ON=40748,63,63
+
+[GameInfo]
+Name=1854 - Extreme Ghostbusters - Code Ecto-1 (U)（捉鬼特工队-Ecto-1行动）（E）ACT 32
+System=GBA
+Text=vicente

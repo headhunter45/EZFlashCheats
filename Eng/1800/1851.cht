@@ -1,0 +1,19 @@
+[Life]
+ON=39268,0,0,0,0
+
+[Racing durability]
+ON=392D2,0;392D5,0;392D8,0;392DB,0;392DE,0
+
+[Entire racing]
+ON=392AB,0,0,0,0,0,0,0,0
+
+[Time entire racetrack]
+ON=39A9A,0,0,0,0,0,0,0,0
+
+[Cross entire racetrack]
+ON=3930A,0,0,0,0
+
+[GameInfo]
+Name=1851 - V-Rally 3 (U)£¨VÀ­Á¦3£©£¨E£©RCG 32
+System=GBA
+Text=vicente

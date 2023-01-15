@@ -1,0 +1,31 @@
+[Out (Both Player and Comp£©]
+0=44F90,0
+1=44F90,1
+2=44F90,2
+3=44F90,3
+
+[Foul (Both Player and Comp£©]
+0=45054,0
+1=45054,1
+2=45054,2
+3=45054,3
+ÀÕ∂‘ ÷…œ¿›=45054,4
+
+[Strike (Both Player and Comp£©]
+0=45034,0
+1=45034,1
+2=45034,2
+3=45034,3
+
+[Player Score]
+99=44FF4,63
+0=44FF4,0
+
+[Opponent/Comp Score]
+0=45058,0
+99=45058,63
+
+[GameInfo]
+Name=0134 - Sports Illustrated For Kids - Baseball (U)
+System=GBA
+Text=

@@ -1,0 +1,10 @@
+[Lives]
+ON=8AA0,5
+
+[Invicible]
+ON=40788,0,0,0,0;407B4,0,0,0,0;407E0,0,0,0,0;4080C,0,0,0,0
+
+[GameInfo]
+Name=1198 - Namco Museum (E)
+System=GBA
+Text=

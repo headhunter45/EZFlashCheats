@@ -1,0 +1,19 @@
+[Gold coin]
+ON=3E970,E,37
+
+[Full heart of a dog]
+ON=3EDC0,C8
+
+[Entire feeding service tool]
+ON=3E981,09;3E982,09,09;3E984,09,09;
+
+[Entire game tool]
+ON=3E9B0,09,09,09,09
+
+[Entire question collection]
+ON=3E9D0,FF,FF,FF,FF;3E9D4,FF,FF,FF,FF;3E9D8,FF,FF;3E9DA,FF
+
+[GameInfo]
+Name=1552 - Oshare Wanko (J)£¨ÇÎÆ¤³èÎï£©£¨J£©TCG 64
+System=GBA
+Text=vicente

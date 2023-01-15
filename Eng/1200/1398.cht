@@ -1,0 +1,16 @@
+[The note number (use up to lock)]
+ON=FD2,63
+
+[Blood]
+ON=1057,4
+
+[Invisible]
+ON=108D,1;1090,45
+
+[Unable to start to play]
+ON=3EA90,FF
+
+[GameInfo]
+Name=1398 - Banjo Kazooie La Vendetta Di Grunty (I)（琴音笛声-格兰蒂的复仇）（I）AVG 64
+System=GBA
+Text=大胖子 整理提供

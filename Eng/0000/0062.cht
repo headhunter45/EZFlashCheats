@@ -1,0 +1,33 @@
+[Unlock All]
+ON=6E68,0f,27
+
+[Inifinite time(Disable for Car Stage)]
+ON=42254,63
+OFF=0000,0
+
+[P1 Infinite Health]
+ON=464C2,B0;464C4,B0;465D8,B0
+
+[P1 Energy Gauge Full]
+ON=466D4,30
+
+[P1 Attack In Air]
+OFF=4659C,1
+ON=4659C,0
+
+[P1 Simple Attack (Light Kick, Heavy Punch)]
+ON=46714,03
+
+[P1 Simple Attack (Heavy Punch)]
+ON=46714,04
+
+[P2 Infinite health]
+ON=468D2,b0;468D4,b0;469E8,b0
+
+[P2 Instant kill (Press L+R+A)]
+ON=400130,fe;468D2,0;468D4,0;469E8,0
+
+[GameInfo]
+Name=0062 - Super Street Fighter II X Revival (J)
+System=GBA
+Text=0062 - Super Street Fighter II X Revival (J)

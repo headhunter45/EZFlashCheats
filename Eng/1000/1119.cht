@@ -1,0 +1,26 @@
+[Lives]
+ON=42C30,5
+
+[Time Never Decrease Tunnel]
+ON=42C12,0,0,0,3C
+
+[Complete Cards]
+ON=1D6E4,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,3F
+
+[Answers to All Cards]
+All=1D6F4,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,3F
+None (Unlock after Use£©=1D6F4,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[All CG]
+ON=1D714,FF,F
+
+[All Minigame]
+ON=1D704,DE
+
+[Clear All Minigame]
+ON=1D709,5,5,5,5;1D70E,5,5,5,5
+
+[GameInfo]
+Name=1119 - Detective Conan (J) 
+System=GBA
+Text=

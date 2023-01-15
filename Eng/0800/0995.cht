@@ -1,0 +1,81 @@
+[We select the person ]
+MORRIGAN=42E28,0
+CHUN-LI=42E28,1
+RYU=42E28,2
+KEN=42E28,3
+HSIEN-KO=42E28,4
+DONOVAN=42E28,5
+FELICIA=42E28,6
+SAKURA=42E28,7
+DEVILOT=42E28,8
+AKUMA=42E28,9
+DAN=42E28,A
+
+[Our side diamonds A]
+blue square=42EB0,1
+yellow square=42EB0,2
+green square=42EB0,3
+red square=42EB0,4
+crystal square=42EB0,5
+blue gem=42EB0,9
+yellow gem=42EB0,A
+green gem=42EB0,B
+red gem=42EB0,C
+
+[Our side diamonds B]
+blue square=42EB2,1
+yellow square=42EB2,2
+green square=42EB2,3
+red square=42EB2,4
+crystal square=42EB2,5
+blue gem42EB2,9
+yellow gem=42EB2,A
+green gem=42EB2,B
+red gem=42EB2,C
+
+[We attack diamonds number of the opposite party ]
+99=42FE8,63
+0=42FE8,0
+
+[Computer selects the person]
+MORRIGAN=43158,0
+CHUN-LI=43158,1
+RYU=43158,2
+KEN=43158,3
+HSIEN-KO=43158,4
+DONOVAN=43158,5
+FELICIA=43158,6
+SAKURA=43158,7
+DEVILOT=43158,8
+AKUMA=43158,9
+DAN=43158,A
+
+[Computer diamonds A]
+blue square=431E0,1
+yellow square=431E0,2
+green square=431E0,3
+red square=431E0,4
+crystal square=431E0,5
+blue gem=431E0,9
+yellow gem=431E0,A
+green gem=431E0,B
+red gem=431E0,C
+
+[Computer diamonds B]
+blue square=431E2,1
+yellow square=431E2,2
+green square=431E2,3
+red square=431E2,4
+crystal square=431E2,5
+blue gem=431E2,9
+yellow gem=431E2,A
+green gem=431E2,B
+red gem=431E2,C
+
+[The opposite side attacks diamonds of our side]
+99=43318,63
+0=43318,0
+
+[GameInfo]
+Name=0995 - Super Puzzle Fighter II (U) PUZ 64
+System=GBA

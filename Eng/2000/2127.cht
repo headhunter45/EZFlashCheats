@@ -1,0 +1,21 @@
+[Game1 Fast pass]
+ON=5C70,1
+
+[Game1 Integral]
+ON=168,7F,96,98
+
+[Game1 Pill type]
+È«À¶=B54,1
+È«»Æ=B54,4
+È«ºì=B54,D
+
+[Game2 Integral]
+ON=438F8,3F,42,F
+
+[Game2 Time]
+ON=43904,0,0,0,0
+
+[GameInfo]
+Name=2127 - Dr. Mario & Panel de Pon (J)
+System=GBA
+Text=vicente

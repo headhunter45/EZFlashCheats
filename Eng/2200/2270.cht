@@ -1,0 +1,46 @@
+[Population]
+ON=40458,63
+
+[Banana]
+ON=404AE,63
+
+[Have the partner]
+ON=4045B,1
+
+[Entire letter]
+ON=403C4,2;403C8,2;403CC,2;403D0,2
+
+[silver coin]
+ON=404E4,FF
+
+[Gold coin]
+ON=404E5,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[DK badge]
+ON=404F2,FF,FF,FF,FF,FF,FF
+
+[Gear]
+ON=04F8,FF
+
+[Entire stage pro]
+ON=04FC,8E,0,1,FE,FF
+
+[Seabird]
+ON=40501,FF,FF,FF
+
+[Hiring the airplane]
+ON=404FA,FF
+
+[Entire barrier]
+ON=404C0,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire cave exploration]
+ON=40501,FF,FF,FF,FF,FF,FF,FF
+
+[Ultimate barrier invisibility]
+ON=4D44,FF
+
+[GameInfo]
+Name=2270 - Super Donkey Kong Country 3 (J)
+System=GBA
+Text=vicente

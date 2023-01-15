@@ -1,0 +1,13 @@
+[Our side duarability]
+ON=417EC,0,0
+
+[The opposite side duarability]
+ON=4185C,FF,FF
+
+[Time]
+ON=41278,0,0
+
+[GameInfo]
+Name=1896 - Robot Wars Advanced Destruction (U)
+System=GBA
+Text=vicente 

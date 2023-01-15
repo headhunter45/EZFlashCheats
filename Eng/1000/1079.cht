@@ -1,0 +1,19 @@
+[Stamina]
+ON=41234,0,4
+
+[HP]
+ON=41230,0,4
+
+[Opponent/Computer HP (Not Recommended to Lock)]
+ON=41540,0,0
+
+[Opponent/Computer Stamina]
+ON=41544,0,0
+
+[Time]
+ON=412C8,3C
+
+[GameInfo]
+Name=1079 - Punch King (E) 
+System=GBA
+Text=

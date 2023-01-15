@@ -1,0 +1,16 @@
+[Time]
+ON=44BDE,30,75
+
+[Player Score]
+ON=44AF8,63
+
+[Comp/Opponent Score]
+ON=44A1C,0
+
+[Score]
+ON=6183,63
+
+[GameInfo]
+Name=0189 - 4V4 Arashi Get The Goal (J)
+System=GBA
+Text=

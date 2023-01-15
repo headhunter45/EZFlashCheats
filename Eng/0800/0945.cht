@@ -1,0 +1,36 @@
+[wind festival attributes]
+ON=1E103,9,63,63,63,63,C8
+
+[wild water attributes]
+ON=1E0CB,9,63,63,63,63,C8
+
+[tsugu attributes]
+ON=1E11F,9,63,63,63,63,C8
+
+[unbeakable attributes]
+ON=1E007,9,63,63,63,63,C8
+
+[five sense attributes]
+ON=1E023,9,63,63,63,63,C8
+
+[Noro attributes]
+ON=1E03F,9,63,63,63,63,C8
+
+[flower ruler attributes]
+ON=1E05B,9,63,63,63,63,C8
+
+[forest long(?) attributes]
+ON=1E077,9,63,63,63,63,C8
+
+[ancient attributes]
+ON=1E093,9,63,63,63,63,C8
+
+[tall well attributes]
+ON=1E0AF,9,63,63,63,63,C8
+
+[midfield attributes]
+ON=1E0E7,9,63,63,63,63,C8
+
+[GameInfo]
+Name=0945 - Whistle (J) TCG+SPG 64
+System=GBA

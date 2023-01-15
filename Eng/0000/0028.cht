@@ -1,0 +1,41 @@
+[Unlimited Energy]
+ON=40103,C
+
+[The strongest firepower]
+ON=40120,80
+
+[Bullet type]
+Yellow=40121,1C
+Pink=40121,1D
+Green=40121,1E
+Glow=40121,1F
+Pink ?=40121,20
+Red=40121,21
+
+
+[Select barrier]
+.NONE.=0000,0
+1st=40107,10
+2nd=40107,20
+3rd=40107,30
+4th=40107,40
+5th=40107,50
+6th=40107,60
+7th=40107,70 
+
+[Unlimited life]
+ON=40102,4
+
+[Unlimited blood]
+ON=40103,C
+
+[Highest score]
+ON=40114,7F,96,98
+
+[Dartle]
+ON=40120,0
+
+[GameInfo]
+Name=0028 - Iridion 3D (U)
+System=GBA
+Text=0028 - Iridion 3D (U)

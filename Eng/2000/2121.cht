@@ -1,0 +1,40 @@
+[RYadv use the gold fist]
+ON=CF4C,8
+
+[RYadv life 99]
+ON=CF60,63
+
+[RYadv blue ball99]
+ON=CF66,63
+
+[RYadv highest blood]
+ON=CF69,5
+
+[RYadv Jumping]
+ON=DD80,3
+
+[RYadv invincibility]
+ON=DD94,64
+
+[RYadv full of blood]
+ON=DDB4,5
+
+[RY3 population]
+ON=3FFF6,63
+
+[RY3 energy]
+ON=3FF66,9A,1
+
+[RY3 entire skill]
+ON=3FF61,FF
+
+[RY3 collections]
+ON=3FF70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[RY3 rank all open]
+ON=3FFF5,FF;3FFF7,FF,FF
+
+[GameInfo]
+Name=2121 - Rayman 10th Anniversary Twin Pack (E)
+System=GBA
+Text=169[newwise.com]+Shimer[cmgsccc.com]

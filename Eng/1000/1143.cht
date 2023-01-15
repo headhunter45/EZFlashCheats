@@ -1,0 +1,28 @@
+[Money]
+ON=30,F,27
+
+[HP]
+ON=104D,5
+
+[Invisible]
+ON=10B8,C8
+
+[BOSS HP]
+ON=477DC,5
+
+[HP]
+ON=104D,5
+
+[Infinite Time]
+ON=479DC,63
+
+[Infinite Jump]
+ON=10A8,1
+
+[Never Faint]
+ON=10A4,1
+
+[GameInfo]
+Name=1143 - Densetsu No Stafi 2 (J)
+System=GBA
+Text=

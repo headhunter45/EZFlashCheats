@@ -1,0 +1,76 @@
+[The speech speed is quickest]
+ON=42E05,3F
+
+[The dream Chinese milk vetch all opens]
+ON=43140,FF
+
+[Draws the scroll+The expression collection all opens]
+ON=43150,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Stage prop entire full]
+ON=43140,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Five lines of strength entire full]
+ON=430A3,63,63,63,63,63
+
+[Between source Lai Jiuman Zhong faith]
+ON=42EA2,20,3,20,3,20,3,20,3,20,3,20,3,20,3,20,3
+
+[Woods village Man Zhongjian faith]
+ON=42EBA,20,3,20,3,20,3,20,3,20,3,20,3,20,3,20,3
+
+[Man Zhongjian faith]
+ON=42ED2,20,3,20,3,20,3,20,3,20,3,20,3,20,3,20,3
+
+[Between An Beitai Ming Man Zhong faith]
+ON=42EEA,20,3,20,3,20,3,20,3,20,3,20,3,20,3,20,3
+
+[Liushan poem grain Man Zhongjian faith]
+ON=42F02,20,3,20,3,20,3,20,3,20,3,20,3,20,3,20,3
+
+[The cane original hawk passes Man Zhongjian the faith]
+ON=42F1A,20,3,20,3,20,3,20,3,20,3,20,3,20,3,20,3
+
+[Loose skinned orange friend elegant Man Zhongjian faith]
+ON=42F32,20,3,20,3,20,3,20,3,20,3,20,3,20,3,20,3
+
+[Forever spring Man Zhongjian faith]
+ON=42F4A,20,3,20,3,20,3,20,3,20,3,20,3,20,3,20,3
+
+[The whole staff thinks the heart completely]
+ON=42EA0,E8,3;42EB8,E8,3;42ED0,E8,3;42EE8,E8,3;42F00,E8,3;42F18,E8,3;42F30,E8,3;42F48,E8,3
+
+[Whole staff Man Xin heart]
+ON=431A0,E8,3;431A4,E8,3;431A8,E8,3;431AC,E8,3;431B0,E8,3;431B4,E8,3;431B8,E8,3;431BC,E8,3
+
+[The whole staff is filled with ? ? ? ?+The custom results in the technique]
+ON=42EB2,FF,FF;42ECA,FF,FF;42EE2,FF,FF;42EFA,FF,FF;42F12,FF,FF;42F2A,FF,FF;42F42,FF,FF;42F5A,FF,FF
+
+[Whole staff Man ??]
+ON=42EB4,FF,FF;42ECC,FF,FF;42EE4,FF,FF;42EFC,FF,FF;42F14,FF,FF;42F2C,FF,FF;42F44,FF,FF;42F5C,FF,FF
+
+[Fights oneself physical strength]
+ON=403E0,64
+
+[Fights five lines of strength]
+ON=403EA,63,63,63,63,63
+
+[Left side fight between Zhong physical strength]
+ON=40400,64
+
+[Left side fight between Zhong anger]
+ON=40414,64
+
+[Right flank fight between Zhong physical strength]
+ON=40420,64
+
+[Right flank fight between Zhong anger]
+ON=40434,64
+
+[As soon as the fight enemy strikes dies]
+ON=40442,0,0
+
+[GameInfo]
+Name=0629 - Harukanaru Toki no Naka de (J)
+System=GBA
+Text=0629 - Harukanaru Toki no Naka de (J)

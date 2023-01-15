@@ -1,0 +1,88 @@
+[Trunks HP]
+ON=40EF0,AC,26
+
+[Trunks Current HP]
+ON=40EF2,AC,26
+
+[Trunks EP]
+ON=40EF4,AC,26
+
+[Trunks Current EP]
+ON=40EF6,AC,26
+
+[Trunks STR]
+ON=40EFB,C8
+
+[Trunks POW]
+ON=40EFD,C8
+
+[Trunks END]
+ON=40EFF,C8
+
+[Gohan HP]
+ON=40E9C,AC,26
+
+[Gohan Current HP]
+ON=40E9E,AC,26
+
+[Gohan EP]
+ON=40EA0,AC,26
+
+[Gohan Current EP]
+ON=40EA2,AC,26
+
+[Gohan STR]
+ON=40EA7,C8
+
+[Gohan POW]
+ON=40EA9,C8
+
+[Gohan END]
+ON=40EAB,0
+
+[Piccolo HP]
+ON=40EB8,AC,26
+
+[Piccolo Current HP]
+ON=40EBA,AC,26
+
+[Piccolo EP]
+ON=40EBC,AC,26
+
+[Piccolo Current EP]
+ON=40EBE,AC,26
+
+[Piccolo STR]
+ON=40EC3,C8
+
+[Piccolo POW]
+ON=40EC5,C8
+
+[Piccolo END]
+ON=40EC7,C8
+
+[Vegita HP]
+ON=40ED4,AC,26
+
+[Vegita Current HP]
+ON=40ED6,AC,26
+
+[Vegita EP]
+ON=40ED8,AC,26
+
+[Vegita Current EP]
+ON=40EDA,AC,26
+
+[Vegita STR]
+ON=40EDF,C8
+
+[Vegita POW]
+ON=40EE1,C8
+
+[Vegita END]
+ON=40EE3,C8
+
+[GameInfo]
+Name=1085 - Dragon Ball Z The Legacy Of Goku II (U) 
+System=GBA
+Text=

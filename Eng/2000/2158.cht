@@ -1,0 +1,16 @@
+[Our side integral]
+ON=30CC,63
+
+[The opposite side integral]
+ON=30CD,0
+
+[Fast ending of competition ]
+ON=18310,0,0
+
+[Full energy of whole staff]
+ON=46F6,2C,1;477E,2C,1;4806,2C,1;488E,2C,1;4916,2C,1;499E,2C,1;4A26,2C,1;4AAE,2C,1;4B36,2C,1;4BBE,2C,1;4C46,2C,1
+
+[GameInfo]
+Name=2158 - Fifa Football 2006 (U)
+System=GBA
+Text=vicente 

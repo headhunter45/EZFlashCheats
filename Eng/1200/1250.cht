@@ -1,0 +1,16 @@
+[Ammo]
+ON=41290,63
+
+[HP]
+ON=41D72,5F
+
+[Invisible]
+ON=41DD6,64
+
+[Lives]
+ON=41268,9
+
+[GameInfo]
+Name=1250 - Buffy Contre Les Vampires - La Colere De Darkhul
+System=GBA
+Text=

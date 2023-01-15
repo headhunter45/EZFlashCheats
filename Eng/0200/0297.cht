@@ -1,0 +1,31 @@
+[Time]
+ON=454E2,9,9,9
+
+[Money]
+ON=442FF,63
+
+[Lives]
+ON=442BC,C8
+
+[Continuously ride the turtle (to ride turtle to be effective)] 
+ON=43A33,1
+
+[Invisible]
+ON=4402D,64
+
+[Small Mario]
+ON=44300,0
+
+[Big Mario]
+ON=44300,1
+
+[Cape Mario]
+ON=44300,2
+
+[Fire Mario]
+ON=44300,3
+
+[GameInfo]
+Name=0297 - Super Mario World (U)
+System=GBA
+Text=MODaWii.com

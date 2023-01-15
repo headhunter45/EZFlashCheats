@@ -1,0 +1,13 @@
+[Stamina/Strength]
+ON=EFF,63
+
+[HP/Lives]
+ON=EC0,FF
+
+[Max Star]
+ON=4043C,A
+
+[GameInfo]
+Name=1033 - The Incredible Hulk (U) 
+System=GBA
+Text=

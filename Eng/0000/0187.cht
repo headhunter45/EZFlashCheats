@@ -1,0 +1,16 @@
+[Visitor]
+0=5D86,0
+99=5D86,63
+
+[Time]
+Never Decrease=37FC,E7,3
+End Game=37FC,0,0
+
+[Home]
+99=5CE2,63
+0=5CE2,0
+
+[GameInfo]
+Name=0187 - International Superstar Soccer (E)
+System=GBA
+Text=

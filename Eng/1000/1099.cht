@@ -1,0 +1,43 @@
+[Money]
+ON=432F0,FF,C9,9A,3B
+
+[Team Member 1 HP]
+ON=32F4,F,27
+
+[Team Member 1 Current HP]
+ON=432F6,F,27
+
+[Team Member 1 Condition]
+ON=432F8,0
+
+[Team Member 2 HP]
+ON=4330C,F,27
+
+[Team Member 2 Current HP]
+ON=4330E,F,27
+
+[Team Member 2 Condition]
+ON=43310,0
+
+[Team Member 3 HP]
+ON=43324,F,27
+
+[Team Member 3 Current HP]
+ON=43326,F,27
+
+[Team Member 3 Condition]
+ON=43328,0
+
+[Team Member 4 HP]
+ON=4333C,F,27
+
+[Team Member 4 Current HP]
+ON=4333E,F,27
+
+[Team Member 4 Condition]
+ON=43340,0
+
+[GameInfo]
+Name=1099 - Get ! Boku no Mushitsu (J) 
+System=GBA
+Text=

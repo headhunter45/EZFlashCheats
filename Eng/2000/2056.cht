@@ -1,0 +1,34 @@
+[Banana]
+ON=40030,2C,1
+
+[Life]
+ON=4002C,3
+
+[Mightiness time]
+ON=220E0,58,2
+
+[Invisible]
+ON=22062,FF
+
+[The highest point]
+ON=22016,0,0
+
+[Time]
+ON=12282,63
+
+[Barrier all open]
+ON=40200,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Entire Medal]
+ON=402E0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Entire crystal]
+ON=40390,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Time challenging mode open ]
+ON=3CD0C,1
+
+[GameInfo]
+Name=2056 - Donkey Kong - King of Swing (U)£¨´ó½ð¸Õ-Ò¡°ÚÍõ£©£¨M5£©PUZ 128
+System=GBA
+Text=vicente

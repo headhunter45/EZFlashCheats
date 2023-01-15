@@ -1,0 +1,25 @@
+[HP]
+ON=431C4,64
+
+[Machine Gun]
+ON=431D0,C8
+
+[Flame Thrower]
+ON=431D2,C8
+
+[Rocket Launcher]
+ON=431D4,C8
+
+[Grenade]
+ON=431CC,63
+
+[Lives]
+ON=4314C,9
+
+[Weapon 4]
+ON=431D6,C8
+
+[GameInfo]
+Name=1116 - CT Special Forces 2 (E) 
+System=GBA
+Text=

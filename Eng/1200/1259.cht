@@ -1,0 +1,16 @@
+[HP]
+ON=1ABEA,0,1;1B0C6,0,1
+
+[Anger]
+ON=1B089,0;1B565,0
+
+[Lives]
+ON=CDB,3
+
+[Score]
+ON=B60,7F,96,98
+
+[GameInfo]
+Name=1259 - Justice League Chronicles (U)
+System=GBA
+Text=

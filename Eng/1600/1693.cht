@@ -1,0 +1,13 @@
+[Time-Hour]
+ON=33CB0,A
+
+[Time-Minutes]
+ON=33CB4,0
+
+[Integral]
+ON=39788,F,27
+
+[GameInfo]
+Name=1693 - Tony Hawks Underground (U)£¨ÍÐÄá¡¤»ô¿ËµØÏÂ»¬°å£©£¨E£©SPG 64
+System=GBA
+Text=vicente

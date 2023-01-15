@@ -1,0 +1,16 @@
+[Inf health]
+ON=200b0e2,64
+
+[Inf lives]
+ON=200b0e0,9
+
+[Inf ammo]
+ON=200b0e4,63
+
+[Big score]
+ON=200b0d8,00,80,18,18
+
+[GameInfo]
+Name=1045 - Wolfenstein 3D (E) 
+System=GBA
+Text=

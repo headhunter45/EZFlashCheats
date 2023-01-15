@@ -1,0 +1,22 @@
+[Score MAX]
+ON=40B4C,3F,42,F
+
+[Life does not reduce]
+ON=40BBC,63
+
+[Time MAX]
+ON=40B55,E9
+
+[ King Kong must kill as soon as strikes
+ON=437E8,0;43688,0;435D8,0
+
+[BOSS Infinite war life]
+ON=43528,7
+
+[Venus MAX]
+ON=32118,63
+
+[GameInfo]
+Name=1526 - Mario Vs Donkey Kong (J)（马里奥对大金刚）（J）ACT 128
+System=GBA
+Text=大胖子 整理提供

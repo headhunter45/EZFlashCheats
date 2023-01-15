@@ -1,0 +1,19 @@
+[Lives]
+ON=18A0,E7,3,E7,3;37294,E7,3
+
+[Money]
+ON=18F4,3F,42,F
+
+[Quick Recharge of Energy During Battle]
+ON=6CCD,40
+
+[Bug Frag]
+ON=18F8,63
+
+[StardChip]
+ON=9418,63
+
+[GameInfo]
+Name=1204 - Megaman Battle Network 3 Blue Version (E)
+System=GBA
+Text=

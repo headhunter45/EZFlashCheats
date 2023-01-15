@@ -1,0 +1,28 @@
+[Master cards]
+Nine Lotus Lamp=40D56,1,1,1,2,3,4,5,6,7,8,9,9,9,1
+Big Four Joys=40D56,31,31,31,32,32,32,33,33,33,34,34,34,35,35
+Big Triple Dollar=40D56,1,2,3,4,35,35,35,36,36,36,37,37,37,1
+Duo Kingdom Soiless=40D56,1,9,11,19,21,29,31,32,33,34,35,36,37,37
+
+[North family cards]
+Nine Lotus Lamp=40D46,1,1,1,2,3,4,5,6,7,8,9,9,9,1
+Big Four Joys=40D46,31,31,31,32,32,32,33,33,33,34,34,34,35,35
+Big Triple Dollar=40D46,1,2,3,4,35,35,35,36,36,36,37,37,37,1
+Duo Kingdom Soiless=40D46,1,9,11,19,21,29,31,32,33,34,35,36,37,37
+
+[Western family cards]
+Nine Lotus Lamp=40D36,1,1,1,2,3,4,5,6,7,8,9,9,9,1
+Big Four Joys=40D36,31,31,31,32,32,32,33,33,33,34,34,34,35,35
+Big Triple Dollar=40D36,1,2,3,4,35,35,35,36,36,36,37,37,37,1
+Duo Kingdom Soiless=40D36,1,9,11,19,21,29,31,32,33,34,35,36,37,37
+
+[Southern family cards]
+Nine Lotus Lamp=40D66,1,1,1,2,3,4,5,6,7,8,9,9,9,1
+Big Four Joys=40D66,31,31,31,32,32,32,33,33,33,34,34,34,35,35
+Big Triple Dollar=40D66,1,2,3,4,35,35,35,36,36,36,37,37,37,1
+Duo Kingdom Soiless=40D66,1,9,11,19,21,29,31,32,33,34,35,36,37,37
+
+[GameInfo]
+Name=0389 - Ikkoku Hattori - Kore 1 Hon de 8 Shurui! (J)
+System=GBA
+Text=

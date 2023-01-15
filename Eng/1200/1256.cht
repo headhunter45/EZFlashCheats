@@ -1,0 +1,10 @@
+[Player Money]
+ON=43BEC,E7,3
+
+[Opponent Money]
+ON=43C10,0;43C34,0;43C58,0
+
+[GameInfo]
+Name=1256 - Sanrio Puroland All Characters (J)
+System=GBA
+Text=

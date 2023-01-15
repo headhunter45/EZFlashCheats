@@ -1,0 +1,30 @@
+[HP]
+ON=129F6,5
+
+[Invicible]
+ON=129D6,96
+
+[Money]
+ON=12A40,E7,3
+
+[Lives]
+ON=12A42,9
+
+[Hammer Energy Consumption]
+ON=12A48,38
+
+[Status]
+Normal=12972,C
+Hammer 1=12972,E
+Hammer 2=12972,F
+Magic Lamp 1=12972,10
+Magic Lamp 2=12972,11
+Suit Set=12972,12
+
+[Magic Lamp Energy Consumption]
+ON=12A49,38
+
+[GameInfo]
+Name=1272 - Disneys Magical Quest 3 (J)
+System=GBA
+Text=

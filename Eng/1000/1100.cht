@@ -1,0 +1,31 @@
+[Money]
+ON=28598,FF,FF
+
+[Max Food]
+ON=2859A,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Max Stats]
+ON=28CFF,64,64,64,64
+
+[Max Condition]
+ON=28D07,63,63,63
+
+[Max Good Feeling]
+ON=28CFC,C8
+
+[Unknown Data]
+ON=28596,F,27
+
+[All System]
+ON=285E0,FF,FF,FF,FF
+
+[All Item]
+ON=285AA,63,63,63,63,63
+
+[All Houses]
+ON=285B0,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1100 - Hamster Paradise - Pure Heart (J) 
+System=GBA
+Text=

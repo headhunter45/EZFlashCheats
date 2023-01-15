@@ -1,0 +1,13 @@
+[HP]
+ON=44020,C
+
+[Lives]
+ON=44014,9
+
+[Invisible]
+ON=43FFC,64
+
+[GameInfo]
+Name=0194 - No Rules Get Phat (U)
+System=GBA
+Text=

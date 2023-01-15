@@ -1,0 +1,37 @@
+[Figure's life]
+ON=43CB0,5
+
+[Figure's population]
+ON=41F1C,9
+
+[Figure's invisibility]
+ON=43E5C,FF
+
+[Figure's  energy]
+ON=403CC8,0,38
+
+[Figure's musical notation]
+ON=41F30,63
+
+[Figure's time]
+ON=41F24,0,0
+
+[Figure BOSS fast die]
+ON=44430,0,0
+
+[Airplane durability]
+ON=43C82,5
+
+[Airplane bomb]
+ON=45DC8,3
+
+[Airplane BOSS fast die]
+ON=45E90,0,0
+
+[Hidden source all open]
+ON=4201E,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+[GameInfo]
+Name=2287 - Hi Hi Puffy AmiYumi Kaznapped (U)
+System=GBA
+Text=vicente 

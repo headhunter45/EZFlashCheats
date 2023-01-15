@@ -1,0 +1,34 @@
+[Gem quantity]
+99=2EEA6,63
+
+[Life]
+99=2EEA0,63
+
+[Use the ordinary fist]
+ON=2BEE4,1
+
+[Use the gold fist]
+ON=2EE8C,8
+
+[Life 99]
+ON=2EEA0,63
+
+[Blue ball99]
+ON=2EEA6,63
+
+[Max Health]
+ON=2EEA9,5
+
+[Great jump]
+ON=2FCC0,3
+
+[Invincibility]
+ON=2FCD4,64
+
+[Full Health]
+ON=2FCF4,5
+
+[GameInfo]
+Name=0046 - Rayman Advance (U)
+System=GBA
+Text=0046 - Rayman Advance (U)

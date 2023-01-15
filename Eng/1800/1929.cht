@@ -1,0 +1,48 @@
+[RANKING MODE Money 9999999]
+ON=4770,7F,96,98
+
+[RANKIMG MODE entire role99P]
+ON=4798,FF,FF;479C,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Fighting time stop]
+ON=446D2,E0
+
+[1P Hideaways role(Select the role)]
+GALE=65,A
+KING=65,B
+LUCIA=65,C
+ORGE=65,D
+*DORYU=65,E
+
+[1P use BONUS role(Select the role)]
+MAJIN=65,F
+ONI=65,10
+
+[1P special condition]
+EX状态=44958,0,40
+攻击上升=44958,9,0
+速度上升=44958,92,0
+
+[1Ppersonal commodity does not lose]
+ON=4498C,1
+
+[1P Infinite jump]
+ON=449E8,4
+
+[1P Invincibility]
+ON=449E6,C7
+OFF=449E6,09
+
+[1P HART]
+ON=4495C,3
+
+[An overwhelming victory of our side]
+ON=44949,7A,6
+
+[BONUS small game  dropping population 99]
+ON=446EE,63
+
+[GAMEINFO]
+NAME=1929 - 怒吼王者-特别力量
+SYSTEM=GBA
+TEXT=1929 - Rave Master Special Attack Force (U) BY KRIZAL (库利洛) 2005/3/13

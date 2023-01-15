@@ -1,0 +1,24 @@
+[Massive money]
+ON=437D0,FF,FF
+
+[Kuronoa physcial strength does not reduce]
+ON=43830,E7,3
+
+[Kuronoa Technique strength does not reduce]
+ON=43104,20,3
+
+[Kuronoa Fast upgrade]
+ON=43116,30,75
+
+[Gantsu physcial strength does not reduce]
+ON=43878,E7,3
+
+[Gantsu Technique strength does not reduce]
+ON=43170,20,3
+
+[Gantsu Fast upgrade]
+ON=43182,30,75
+
+[GameInfo]
+Name=0805 - Klonoa Heroes - Densetsu no Star Medal (J) A¡¤RPG 128
+System=GBA

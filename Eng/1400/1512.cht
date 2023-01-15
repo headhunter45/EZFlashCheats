@@ -1,0 +1,19 @@
+[Life]
+ON=47870,FF
+
+[Invisible]
+ON=476F0,14
+
+[Diamond]
+ON=4786D,FF
+
+[B key entire stage pro]
+ON=47858,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire auxiliary stage prop]
+ON=47860,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1512 - NES Classic Legend of Zelda (U)（经典任天堂-塞尔达传说）（E）A·RPG 8
+System=GBA
+Text=vicente

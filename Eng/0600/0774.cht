@@ -1,0 +1,38 @@
+[Score]
+ON=40CA8,FF,C9,9A,3B
+
+[First Guan Xue does not reduce]
+ON=43CA0,64;43CCA,3
+
+[First Guan Bianshen degree,Suggestion with after Xie Suo,Otherwise possibly causes dies machine]
+Changes the body degree1,Strong male1=43CCD,2;43C94,7C,A2,5E
+Changes the body degree2,Strong male2=43CCD,3;43C94,88,B2,5F
+
+[The second pass and behind all Guan Xue does not reduce]
+ON=46414,64;4643E,3
+
+[Second pass and behind all Guan Bianshen degree,Suggestion with after Xie Suo,Otherwise possibly causes dies machine]
+Changes the body degree1,Strong male1=46441,2;46408,7C,A2,5E
+Changes the body degree2,Strong male2=46441,3;46408,88,B2,5F
+
+[Closes respectively most changes the body,Namely changes the body degree3]
+01Werewolf=43C94,C,84,74,8;43CBC,3
+02Lizard snake=46408,8,87,70,8;46430,1
+03Dragon=46408,C8,44,64,8;46430,4
+04Tiger person=46408,F0,9E,6A,8;46430,3
+05Punctures the lizard person=46408,28,60,72,8;46430,2
+06Shark person=46408,44,D7,6F,8;46430,3
+07Rhinoceros person=46408,8,9A,68,8;46430,5
+08Insect person=46408,C8,67,6C,8;46430,3
+09Hawk person=46408,48,81,66,8;46430,3
+10Werewolf=46408,C,84,74,8;46430,3
+11Punctures the lizard person=46408,28,60,72,8;46430,2
+12Shark person=46408,44,D7,6F,8;46430,3
+13Dragon=46408,C8,44,64,8;46430,4
+14Monster=46408,5C,21,61,8;46430,6
+15Monster=46408,5C,21,61,8;46430,6
+
+[GameInfo]
+Name=0774 - Altered Beast - Guardians of the Realms (U)
+System=GBA
+Text=0774 - Altered Beast - Guardians of the Realms (U)

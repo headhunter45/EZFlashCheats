@@ -1,0 +1,30 @@
+[下一位泡泡种类]
+全黄色=40DF1,11
+全橙色=40DF1,22
+全紫色=40DF1,33
+全蓝色=40DF1,44
+全绿色=40DF1,55
+全黑色=40DF1,66
+
+[我方无黑泡泡]
+ON=40F4E,0,0
+
+[对方全黑泡泡]
+ON=40E2F,A
+
+[我方积分]
+ON=40F44,FF,E0,F5,5
+
+[全隐藏人物]
+ON=4105C,FF
+
+[自由战全开]
+ON=41150,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[全台词]
+ON=41128,FF,0,0,0,FF,0,0,0,FF,0,0,0,FF,0,0,0,FF,0,0,0,FF,0,0,0,FF,0,0,0,FF,0,0,0,FF
+
+[GameInfo]
+Name=2063 - Haro no Puyo Puyo (JP)
+System=GBA
+Text=2063 - Haro no Puyo Puyo (JP)

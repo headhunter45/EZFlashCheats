@@ -1,0 +1,16 @@
+[HP]
+ON=3158,96;3178,96
+
+[Ammo/Bullet]
+ON=3184,64
+
+[Point]
+ON=317C,3
+
+[Lives]
+ON=B8,9
+
+[GameInfo]
+Name=0115 - Spiderman - Mysterio's Menace (U)
+System=GBA
+Text=

@@ -1,0 +1,22 @@
+[Time]
+ON=40132,0,0
+
+[Fast pass]
+ON=474F4,8
+
+[Entire competition pass]
+ON=400EE,FF,FF
+
+[Entire chanllenging pass]
+ON=400E0,FF,FF,FF
+
+[Collections pass]
+ON=400F6,FF,FF
+
+[Entire racing]
+ON=40104,FF,FF,FF
+
+[GameInfo]
+Name=2234 - Ford Racing 3 (U)
+System=GBA
+Text=vicente

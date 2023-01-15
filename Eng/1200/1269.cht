@@ -1,0 +1,16 @@
+[Bubble]
+ON=2F84,63
+
+[Star]
+ON=2F88,63
+
+[HP]
+ON=1F090,5;25C48,5;349F0,5
+
+[Invisible]
+ON=1F064,64;25C1C,64;349C4,64
+
+[GameInfo]
+Name=1269 - Finding Nemo (E)
+System=GBA
+Text=

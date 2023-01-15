@@ -1,0 +1,19 @@
+[Money]
+ON=6AC8,F,27
+
+[Usage times of sepeicao ability]
+ON=45E31,8
+
+[Health]
+ON=45E2E,80
+
+[Invisible]
+ON=45E42,64
+
+[Stage property]
+ON=4430A,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+
+[GameInfo]
+Name=0072 - Doraemon Midori No Wakusei (J)
+System=GBA
+Text=0072 - Doraemon Midori No Wakusei (J)

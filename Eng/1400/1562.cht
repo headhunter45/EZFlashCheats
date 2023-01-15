@@ -1,0 +1,13 @@
+[Restore the stage prop MAX]
+ON=44AF0,9
+
+[Physical strength MAX]
+ON=44ACC,50
+
+[Gold coin MAX]
+ON=41508,4F
+
+[GameInfo]
+Name=1562 - Around The World In 80 Days (U)（环游世界80天）（E）ACT 32
+System=GBA
+Text=魔剑士但丁

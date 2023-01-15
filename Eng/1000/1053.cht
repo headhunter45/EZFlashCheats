@@ -1,0 +1,13 @@
+[Game Time]
+ON=16A8,30,75
+
+[Customer's Time]
+ON=16AC,30,75
+
+[Combos]
+ON=9AA6,63
+
+[GameInfo]
+Name=1053 - Crazy Taxi - Catch A Ride (E) 
+System=GBA
+Text=

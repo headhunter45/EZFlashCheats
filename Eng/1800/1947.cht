@@ -1,0 +1,25 @@
+[Population]
+ON=40174,63
+
+[Life]
+ON=40F1C,3
+
+[Honey]
+ON=40F1B,26
+
+[Flowers]
+ON=400176,E7,3
+
+[Invisible]
+ON=41580,45
+
+[Infinite flying]
+ON=41561,D0
+
+[Entire barrier+ entire hideaway all open]
+ON=40161,FF,FF,FF,FF,FF,FF,FF,FF;4016C,9,FF
+
+[GameInfo]
+Name=1947 - Maya The Bee Sweet Gold (E)
+System=GBA
+Text=vicente 

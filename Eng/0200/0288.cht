@@ -1,0 +1,61 @@
+[MONEY]
+ON=3B4,3F,42,F
+
+[HP]
+ON=3F8,E7,3
+
+[HP MAX]
+ON=40C,E7,3
+
+[AC]
+ON=3DA,63
+
+[Normal condition]
+ON=420,0
+
+[Slot 1]
+Strength =68,F,27
+Experience =20,FF,E0,F5,5
+Gold =24,FF,E0,F5,5
+All skills =18,63,63,63,63,63,63;7C,F,27
+
+[Slot 2]
+Strength =14C,F,27
+Experience =104,FF,E0,F5,5
+Gold =108,FF,E0,F5,5
+All skills =FC,63,63,63,63,63,63;160,F,27
+
+[Slot 3]
+Strength =230,F,27
+Experience =1E8,FF,E0,F5,5
+Gold =1EC,FF,E0,F5,5
+All skills =1E0,63,63,63,63,63,63;244,F,27
+
+[Slot 4]
+Strength =314,F,27
+Experience =2CC,FF,E0,F5,5
+Gold =2D0,FF,E0,F5,5
+All skills =2C4,63,63,63,63,63,63;328,F,27
+
+[Slot 5]
+Strength =3F8,F,27
+Experience =3B0,FF,E0,F5,5
+Gold =3B4,FF,E0,F5,5
+All skills =3A8,63,63,63,63,63,63;40C,F,27
+
+[Slot 6]
+Strength =4DC,F,27
+Experience =494,FF,E0,F5,5
+Gold =498,FF,E0,F5,5
+All skills =48C,63,63,63,63,63,63;4F0,F,27
+
+[Illustrated handbook of entire monster]
+ON=314C,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+
+[Illustrated handbook of entire goods]
+ON=30CC,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=0288 - Wizardry Summoner (J)£¨±ÙÐ°³ýÑý-ÕÙ»½Õß£©£¨J£©RPG 32
+System=GBA
+Text=vicente

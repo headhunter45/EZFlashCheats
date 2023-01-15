@@ -1,0 +1,59 @@
+[Physical strength]
+ON=6BB4,64
+
+[Money]
+ON=6BAC,7F,96,98
+
+[Condition]
+ON=6bb8,64,0,64,0,64,0,64,0,64,0,64;6C0E,63,0,63,0,63,0,63,0,63;6C26,C8,0,C8,0,C8,0,9,0,9,0,9,0,9,0,9
+
+[Money 99999999]
+ON=6BAC,FF,E0,F5,5
+
+[Full HP]
+ON=6BB4,64
+
+[HP]
+ON=6BB6,64
+
+[Not weary]
+ON=6BB8,0
+
+[Friendly]
+ON=6BC0,64
+
+[Lv.£·]
+ON=6C0C,7
+
+[Energy 255]
+ON=6C0E,FF
+
+[Shoulder strength 15]
+ON=6C10,F
+
+[Walking strength 15]
+ON=6C12,F
+
+[Defending strength 15]
+ON=6C14,F
+
+[Ball speed 255km/h]
+ON=6C26,FF
+
+[Criterion 255]
+ON=6C28,FF
+
+[Physical strength 255]
+ON=6C2A,FF 
+
+[Ball type]
+Slider=6C2C,FF
+???=6C2E,FF
+????=6C30,FF
+Sinker=6C32,FF
+????=6C34,FF
+
+[GameInfo]
+Name=0012 - Powerful Pro Baseball 3 (J)
+System=GBA
+Text=0012 - Powerful Pro Baseball 3 (J)

@@ -1,0 +1,16 @@
+[Notes (OFF it After Use)]
+ON=FD2,63
+
+[HP]
+ON=1057,4
+
+[Invisible]
+ON=108D,1;1090,45
+
+[Unable to Start Game]
+ON=3EA90,FF
+
+[GameInfo]
+Name=1216 - Banjo Kazooie - Gruntys Revenge (E) 
+System=GBA
+Text=

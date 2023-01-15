@@ -1,0 +1,51 @@
+[First generation life]
+ON=26089,20
+
+[First generation  energy]
+ON=27A30,63
+
+[First generation  weapon type]
+÷©÷ÎµØ=2849C,25
+÷©÷ÎÀø=2849C,40
+«ø¡¶»≠=2849C,45
+
+[First generation  population]
+ON=2A588,63
+
+[First generation  time]
+ON=28504,9,3B
+
+[First generation  gold coin]
+ON=299B8,32
+
+[First generation hideaway all open]
+ON=39081,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Second generation population]
+ON=1F04,63
+
+[Second generation life]
+ON=1F20,14
+
+[Second generation energy]
+ON=10420,14
+
+[Second generationXP]
+ON=21D8,FF,E0,F5,F
+
+[Second generation time ]
+ON=C550,69,69
+
+[Second generation]
+ON=C664:00
+
+[Second generation entire skills]
+ON=1E90,1;1E94,1;1E98,1;1E9C,1;1EA0,1;1EA4,1;1EA8,1;1EAC,1;1EB0,1;1EB4,1;1EB8,1;1EBC,1;1EC0,1;1EC4,1;1EC8,1;1ECC,1;1ED0,1;1ED4,1
+
+[Second generation collections]
+ON=21F0,1;21F4,1;21F8,1;21FC,1;2200,1;2204,1;2208,1;220C,1;2210,1;2214,1;2218,1;221C,1;2220,1;2224,1
+
+[GameInfo]
+Name=2099 - 2 in 1 - Spider-Man & Spider-Man 2
+System=GBA
+Text=vicente

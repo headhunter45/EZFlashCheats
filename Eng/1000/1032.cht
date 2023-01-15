@@ -1,0 +1,20 @@
+[Game Time]
+Unlimited=40E00,0,0
+Instant Finish==40E00,50,C3
+
+[Player Score]
+ON=42E1A,63
+
+[Player Energy]
+ON=42E1C,E7,3
+
+[Opponent/Comp Score]
+ON=42E3A,0
+
+[Opponent/Comp Energy]
+ON=42E3C,0,0
+
+[GameInfo]
+Name=1032 - Pro Beach Soccer (E) 
+System=GBA
+Text=

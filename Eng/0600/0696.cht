@@ -1,0 +1,21 @@
+[Anger]
+ON=421A0,80;421A1,02
+
+[Blood]
+ON=421A4,40
+
+[Invisible]
+ON=421C4,64
+
+[Ability ball]
+First type =40BD0,3A;40BD1,01;4081C,1
+Second type =40BD0,3A;40BD1,01;4081C,1
+Third type（not recommanded）=40BD0,3A;40BD1,01;4081C,1
+Fouth type =40BD0,3A;40BD1,01;4081C,1
+Fifth type =40BD0,3A;40BD1,01;4081C,1
+Sixth type（not recommanded）=40BD0,3A;40BD1,01;4081C,1
+
+[GameInfo]
+Name=0696 - Gekido Advance - Kintaros Revenge (E)（究级截拳道）（M）ACT 64
+System=GBA
+Text=大胖子 整理提供

@@ -1,0 +1,13 @@
+[Book]
+ON=127A6,64
+
+[Life]
+ON=127A4,5
+
+[Barriers all open]
+ON=127A5,FF;127AD,FF
+
+[GameInfo]
+Name=1707 - Lizzie McGuire 2 (U)（平民天后2）（E）ACT 32
+System=GBA
+Text=vicente

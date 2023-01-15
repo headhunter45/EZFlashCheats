@@ -1,0 +1,13 @@
+[Entire barrier of alliance match]
+ON=BB9,86
+
+[Entire barrier of free match]
+ON=BBB,FF
+
+[Entier racing+equipment
+ON=BD8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=2149 - TG Rally (E)
+System=GBA
+Text=vicente

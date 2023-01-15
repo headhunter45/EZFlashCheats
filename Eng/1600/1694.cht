@@ -1,0 +1,53 @@
+[Population]
+on=40000,63
+
+[Star]
+on=40014,23
+
+[Integral]
+on=40004,FF,E0,F5,05
+
+[Golden currency]
+on=40008,E7,03
+
+[Blue currencty]
+on=4000c,63
+
+[Iron pipe time]
+on=401ea,30,75
+
+[Playtime]
+on=45a10,08,07
+
+[Ruby time]
+on=40188,80,16
+
+[Stage pro]
+蘑菇，球变大=4002c,00
+蛋，增加一个球=4002c,01
+水管，挡住出口=4002c,02
+星星，球无敌=4002c,03
+小蘑菇，球缩小=4002c,04
+闪电，瞬间消灭所有敌人=4002c,05
+蘑菇x2，球变大，2次机会=4002c,06
+蛋X2，增加一个球，2次机会=4002c,07
+水管X2，挡住出口，2次机会=4002c,08
+星星X2，球无敌，2次机会=4002c,09
+小蘑菇X2，球缩小，2次机会=4002c,0a
+闪电X2，瞬间消灭所有敌人，2次机会=4002c,0b
+抛出蛋，且球变大=4002c,0c
+
+[Chanlenging pattern open]
+on=46368,01,01,01,01;4636c,01
+
+[BOSS die as soon as strikes]
+娱乐园=40594,02
+风车关=42EB8,02
+雪地关=4089C,02
+金字塔=4274C,02
+城堡关=40644,02
+
+[GameInfo]
+Name=1694 - Mario Pinball Land (U)（马里奥弹珠台）（E）TAB 64
+System=GBA
+Text=大胖子 整理提供

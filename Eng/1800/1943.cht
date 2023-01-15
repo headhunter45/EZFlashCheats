@@ -1,0 +1,29 @@
+[Good shot]
+无=41275,0
+3振=41275,3
+
+[Wide ball]
+无=41276,0
+4坏球=41276,4
+
+[No.of sent-out players]
+ 
+无=41277,0
+立刻结束=41277,3
+
+[Our side score of each game]
+ON=40FBF,63,63,63,63,63,63,63,63,63
+
+[The opposite side score of each game]
+ON=41257,0,0,0,0,0,0,0,0,0
+
+[Total score of our side]
+ON=40FA6,63
+
+[Total score of the opposite side]
+ON=4123E,0
+
+[GameInfo]
+Name=1943 - Backyard Baseball 2006 (U)
+System=GBA
+Text=vicente 

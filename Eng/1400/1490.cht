@@ -1,0 +1,36 @@
+[Money]
+ON=4094C,E7,3
+
+[Time]
+ON=4094E,0,0
+
+[Number of elements]
+ON=40954,9
+
+[Invincibility]
+ON=4160C,C8
+
+[Gold ring]
+ON=4094C,E7,3 
+
+[Key]
+ON=40552,9
+
+[Protective covering]
+绿色=416F8,10,10
+蓝色=416F8,30,30
+无敌=416F8,50,50
+
+[ZONE pattern open]
+ON=40541,FF
+
+[Perfect person]
+ON=40540,FF
+
+[BOSS pattern open]
+ON=40563,FF
+
+[GameInfo]
+Name=1490 - Sonic Advance 3 (U)（索尼克3）（M6）ACT 128
+System=GBA
+Text=大胖子 整理提供

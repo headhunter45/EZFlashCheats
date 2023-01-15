@@ -1,0 +1,21 @@
+[Strike]
+ON=40018,3
+
+[Balls]
+ON=40016,4
+
+[End of the fast single-board]
+ON=4001A,3
+
+[Home team score]
+Most=4005A,63
+Least=4005A,0
+
+[Visiting team score]
+Most=4002E,63
+Least=4002E,0
+
+[GameInfo]
+Name=1061 - Little League Baseball 2002 (U)
+System=GBA
+Text=1061 - Little League Baseball 2002 (U)

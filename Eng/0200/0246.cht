@@ -1,0 +1,58 @@
+[Lower part of next  diamonds]
+square1=42C5C,1
+square2=42C5C,2
+square3=42C5C,3
+square4=42C5C,4
+square5=42C5C,5
+square6=42C5C,6
+square7=42C5C,7
+
+[Middle part of next  diamonds]
+square1=42C5D,1
+square2=42C5D,2
+square3=42C5D,3
+square4=42C5D,4
+square5=42C5D,5
+square6=42C5D,6
+square7=42C5D,7
+
+[Upside part of next  diamonds]
+square1=42C5E,1
+square2=42C5E,2
+square3=42C5E,3
+square4=42C5E,4
+square5=42C5E,5
+square6=42C5E,6
+square7=42C5E,7
+
+[Lower part of the present diamonds(No recommendation)]
+square1=42C58,1
+square2=42C58,2
+square3=42C58,3
+square4=42C58,4
+square5=42C58,5
+square6=42C58,6
+square7=42C58,7
+
+[Middle part of the present diamonds(No recommendation)]
+square1=42C59,1
+square2=42C59,2
+square3=42C59,3
+square4=42C59,4
+square5=42C59,5
+square6=42C59,6
+square7=42C59,7
+
+[Upside part of the present diamonds(No recommendation)]
+square1=42C5A,1
+square2=42C5A,2
+square3=42C5A,3
+square4=42C5A,4
+square5=42C5A,5
+square6=42C5A,6
+square7=42C5A,7
+
+[GameInfo]
+Name=0246 - Columns Crown (J)（宝石方块）（J）PUZ 64
+System=GBA
+Text=大胖子 整理提供

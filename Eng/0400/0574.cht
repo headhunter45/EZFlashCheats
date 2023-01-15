@@ -1,0 +1,22 @@
+[Bullet number]
+ON=70,7
+
+[DNA]
+ON=46D78,63,63,63,63
+
+[Life number]
+ON=69,7F
+
+[Invisible]
+ON=39,08;67,63
+
+[Weapon type]
+Dagger=71,1
+Handgun=71,2
+Meat=71,3
+Explosive=71,4
+Stun gun=71,5
+
+[GameInfo]
+Name=0574 - Jurassic Park 3 - DNA Factor (J)
+System=GBA

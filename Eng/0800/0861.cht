@@ -1,0 +1,29 @@
+[Ultima unique skill]
+ON=47831,9
+
+[Blood]
+ON=47825,5
+
+[Number of elements]
+ON=47822,9
+
+[Invisible]
+ON=4781E,63
+
+[Entire energy trough]
+ON=47828,78,78,78
+
+[Fast gathering gas]
+ON=47827,78
+
+[Attribution]
+fire=47823,0
+ice=47823,1
+earth=47823,2
+
+[Killing the enemy number]
+ON=4783A,64
+
+[GameInfo]
+Name=0861 - Elemix! (J) A¡¤RPG 32
+System=GBA

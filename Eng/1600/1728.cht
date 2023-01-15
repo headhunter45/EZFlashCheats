@@ -1,0 +1,28 @@
+[Guard]
+ON=25828,64
+
+[Life]
+ON=F22,64
+
+[Entire weapon]
+ON=1084,0,1,FF;108C,1,1,FF;1094,2,1,FF;109C,3,1,FF;10A4,4,1,FF;10AC,5,1,FF;10B4,6,1,FF;10BC,7,1,FF;10C4,8,1,FF;10CC,9,1,FF;10D4,A,1,FF;10DC,B,1,FF
+
+[Time]
+ON=25818,0,0
+
+[Money]
+ON=25824,FF,E0,F5,5
+
+[Exposed]
+ON=30340,0
+
+[Timing duty time]
+ON=25814,63
+
+[Initial vehicle race speed]
+ON=7248,2B,6F,4
+
+[GameInfo]
+Name=1728 - Grand Theft Auto Advance (U)£®œ¿µ¡¡‘≥µA£©£®E£©AVG 128
+System=GBA
+Text=vicente

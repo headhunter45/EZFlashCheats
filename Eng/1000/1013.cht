@@ -1,0 +1,19 @@
+[Time For Fishing Game]
+ON=467F8,EC,13
+
+[Level For Fishing Game]
+ON=4677C,10;46780,10
+
+[Score For Fishing Game]
+ON=46795,A4,9C
+
+[Time]
+ON=41045,3B
+
+[Donkey Kong Jr.]
+ON=40FD6,1
+
+[GameInfo]
+Name=1013 - Donkey Kong Country (E) 
+System=GBA
+Text=

@@ -1,0 +1,22 @@
+[Entire stage pro]
+ON=44342,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63,0,63
+
+[Entire clothing]
+ON=44400,1,0,1,0,1,0,1,0,1,0,1,0,1
+
+[Entire string of beads]
+ON=44216,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+
+[Entire picture]
+ON=4442C,FF,FF
+
+[Entire furniture]
+ON=442D0,FF,FF,FF,FF
+
+[Entire clothing and illustrated handbook]
+ON=448CC,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1813 - Sylvania Family - Fashion Designer Ninaritai! (J)（森林之家-成为流行设计家）（J）TCG 64
+System=GBA
+Text=vicente

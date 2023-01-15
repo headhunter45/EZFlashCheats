@@ -1,0 +1,31 @@
+[Do not meet the enemy]
+ON=29BE,0,0
+
+[Postwar money]
+ON=AEEC,FF,7F
+
+[Postwar BUG fragment]
+ON=AEEC,FE,FF
+
+[HP]
+ON=52E8,F,27
+
+[HP with an upper limit]
+ON=52EA,F,27
+
+[Physical strength in the fighting time]
+ON=3B224,F,27
+
+[Energy in the fighting time]
+ON=35700,0,40
+
+[Invisible in the fighting time]
+ON=38CB6,50
+
+[The enemy must kill as soon as strikes in the fighting time]
+ON=3B2FC,0,0;3B3D4,0,0;3B4AC,0,0
+
+[GameInfo]
+Name=2032 - MegaMan Battle Network 5 - Team Colonel (U)£¨Âå¿ËÈËEXE5-À¶¶Ó£©£¨E£©RPG 64
+System=GBA
+Text=vicente

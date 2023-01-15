@@ -1,0 +1,22 @@
+[Lightning]
+ON=26C,9
+
+[HP]
+ON=3B0F4,32
+
+[C4]
+ON=27C,9
+
+[Ammo]
+ON=244,63;248,63
+
+[Score]
+ON=1DF24,3F,42,F
+
+[Lives]
+ON=1E590,A
+
+[GameInfo]
+Name=1278 - Terminator 3 Rise Of The Machines (E)
+System=GBA
+Text=

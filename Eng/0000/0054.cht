@@ -1,0 +1,43 @@
+[Empirical value]
+ON=421FE,FF,FF,0
+
+[Brawn]
+ON=421FB,FF
+
+[strategy]
+ON=421FC,FF
+
+[Balance]
+ON=421FD,FF
+
+[Riding a horse with full energy ]
+ON=40A78,5E,B
+
+[Riding a horse with no energy ]
+ON=40BA8,0,0
+
+[Riding a horse fight with COMBO]
+ON=40BAC,0,0
+
+[Feeding Mini Game Red Score 999]
+ON=40B0A,E7,3
+
+[Feeding Mini Game Blue Score 000]
+ON=40B82,0,0
+
+[Brawn is the highest]
+ON=421FB,FF
+
+[The third capacity is the highest]
+ON=421FC,FF
+
+[ The second capacity is the highest]
+ON=421FD,FF
+
+[The highest empirical value]
+ON=421FE,14
+
+[GameInfo]
+Name=0054 - Yushun Rhapsody (J)
+System=GBA
+Text=0054 - Yushun Rhapsody (J)

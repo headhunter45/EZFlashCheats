@@ -1,0 +1,10 @@
+[HP]
+ON=404B4,FF
+
+[Ammo]
+ON=4051C,FF;40520,FF;40524,FF;40528,FF
+
+[GameInfo]
+Name=0155 - Doom (U)
+System=GBA
+Text=

@@ -1,0 +1,34 @@
+[Time]
+1 Points=23717,0,1
+2 Points=23717,0,2
+3 Points=23717,0,3
+4 Points=23717,0,4
+5 Points=23717,0,5
+6 Points=23717,0,6
+7 Points=23717,0,7
+8 Points=23717,0,8
+9 Points=23717,0,9
+10 Points=23717,0,A
+11 Points=23717,0,B
+12 Points=23717,0,C
+13 Points=23717,0,D
+14 Points=23717,0,E
+15 Points=23717,0,F
+16 Points=23717,0,10
+17 Points=23717,0,11
+18 Points=23717,0,12
+19 Points=23717,0,13
+20 Points=23717,0,14
+21 Points=23717,0,15
+22 Points=23717,0,16
+23 Points=23717,0,17
+24 Points=23717,0,18
+
+[Temperature]
+15=2404C,96
+20=2404C,C8
+
+[GameInfo]
+Name=0084 - Super Black Bass Advance (J)
+System=GBA
+Text=0084 - Super Black Bass Advance (J)

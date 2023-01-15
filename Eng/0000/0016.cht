@@ -1,0 +1,24 @@
+[1P Money]
+999=40CD0,E7,3
+0=40CD0,0
+
+[2P Money]
+999=40D20,E7,3
+0=40D20,0
+
+[1P Stage property]
+Team 1=40CDD,0,1,2,3,4,5,6,7,8,9
+Team 2=40CDD,A,B,C,D,E,F,10,11,12,13
+Team 3=40CDD,14,15,16,17,18,19,1A,1B,1C,1D
+No Items=40CDD,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[2P Stage property]
+Team 1=40D2C,0,1,2,3,4,5,6,7,8,9
+Team 2=40D2C,A,B,C,D,E,F,10,11,12,13
+Team 3=40D2C,14,15,16,17,18,19,1A,1B,1C,1D
+No Items=40D2C,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=0016 - Tweety and the Magical Jewel (J)
+System=GBA
+Text=0016 - Tweety and the Magical Jewel (J)

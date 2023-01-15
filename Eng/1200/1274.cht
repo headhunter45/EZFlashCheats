@@ -1,0 +1,26 @@
+[HP]
+ON=410,5
+
+[Invisible]
+ON=428,64
+
+[Lives]
+ON=B08,9
+
+[Score]
+ON=6E4,FF,E0,F5,5
+
+[Weapon's Durability Period]
+ON=14180,E7,3
+
+[Weapon Selection]
+Bare Hand=14188,0
+Weapon 1=14188,1
+Weapon 2=14188,2
+Weapon 3=14188,3
+Weapon 4=14188,4
+
+[GameInfo]
+Name=1274 - Disney's Kim Possible (E)
+System=GBA
+Text=

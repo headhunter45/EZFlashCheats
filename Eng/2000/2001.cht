@@ -1,0 +1,19 @@
+[Playing the small game time]
+ON=F86A,63
+
+[No.2 game time ]
+ON=11E68,9,9
+
+[No.3 game time] 
+ON=11968,9C,F
+
+[No.3 game integration]
+ON=10C18,6,27
+
+[No.4 game time]
+ON=B424,32
+
+[GameInfo]
+Name=2001 - Kawaii Pet Game Gallery 2 (J)
+System=GBA
+Text=vicente 

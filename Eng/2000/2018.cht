@@ -1,0 +1,34 @@
+[Life]
+ON=949C,D
+
+[Life with an upper limit]
+ON=4D9F,D
+
+[Population]
+ON=4D9E,63
+
+[Invisible]
+ON=9516,FF
+
+[Leaf]
+ON=9530,A
+
+[Leaf with an upper limit]
+ON=4DA0,A
+
+[Gold coin]
+ON=4D9D,63
+
+[Integration]
+ON=4DA4,3F,42,F
+
+[Weapon]
+¿ÕÊÖ=950C,0
+Ê¯Í·=950C,1
+Ä¾°ô=950C,2
+½£=950C,3
+
+[GameInfo]
+Name=2018 - Shrek - Reekin' Havoc (E)
+System=GBA
+Text=vicente 

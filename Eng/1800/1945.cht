@@ -1,0 +1,94 @@
+[All restoring stage prop]
+ON=2498,63,63,63,63,63
+
+[Entire information]
+ON=5E8,FF,FF,FF,FF
+
+[Entire skill experience]
+ON=1D40,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
+
+
+[NUJUattack points  ]
+ON=1554,F,27
+
+[NUJU attack points with an upper limit]
+ON=1540,F,27
+
+[NUJU rank]
+ON=1528,9
+
+[NUJU skill points]
+ON=160C,63,0,63,0,63,0,63,0,63
+
+[NOKAMAattack points  ]
+ON=16A0,F,27
+
+[NOKAMA attack points with an upper limit]
+
+ON=168C,F,27
+
+[NOKAMA rank]
+ON=1674,9
+
+[NOKAMA skill points]
+ON=1758,63,0,63,0,63,0,63,0,63
+
+[MATAU attack points  ]
+
+ON=17EC,F,27
+
+[MATAU attack points with an upper limit]
+ON=17D8,F,27
+
+[MATAUµÈ¼¶]
+ON=17C0,9
+
+[MATAU skill points]
+ON=18A4,63,0,63,0,63,0,63,0,63
+
+[WHENUR attack points]
+ON=1938,F,27
+
+[WHENUR attack points with an upper limit]
+ON=1924,F,27
+
+[WHENUR rank]
+ON=190C,9
+
+[WHENUR skill points]
+ON=19F0,63,0,63,0,63,0,63,0,63
+
+[VAKAMA attack points ]
+ON=1A84,F,27
+
+[VAKAMA attack points with an upper limit ]
+ON=1A70,F,27
+
+[VAKAMA rank]
+ON=1A58,9
+
+[VAKAMA skill points]
+ON=1B3C,63,0,63,0,63,0,63,0,63
+
+[ONEWA attack points]
+ON=1BD0,F,27
+
+[ONEWA attack points with an upper limit]
+ON=1BBC,F,27
+
+[ONEWA rank]
+ON=1BA4,9
+
+[ONEWA skill points]
+ON=1C88,63,0,63,0,63,0,63,0,63
+
+[Perfect person is exchangeable]
+ON=24A8,FF
+
+[Invisible custom]
+ON=24A9,1
+
+[GameInfo]
+Name=1945 - Bionicle Maze of Shadows (E)
+System=GBA
+Text=vicente 

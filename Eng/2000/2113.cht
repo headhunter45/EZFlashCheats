@@ -1,0 +1,34 @@
+[Game 1 Population]
+ON=7685,3
+
+[Game 1 Integral]
+ON=76F0,99,99,99
+
+[Game 2 Population]
+ON=C090,3
+
+[Game 2 Integral]
+ON=AC68,9,9,9,9,9,9,9
+
+[Game3 Population]
+ON=7685,3
+
+[Game 3 Integral]
+ON=76F0,99,99,99
+
+[Game 4 Population]
+ON=AC7A,5
+
+[Game 4 Integral]
+ON=AC84,99,99,99
+
+[Game 5 Population]
+ON=A87F,5
+
+[Game 5 Energy]
+ON=AADB,3C
+
+[GameInfo]
+Name=2113 - Namco Museum 50th Anniversary (U)
+System=GBA
+Text=vicente

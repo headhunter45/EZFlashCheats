@@ -1,0 +1,25 @@
+[Apple]
+ON=405CF,99
+
+[Diamond]
+ON=405D1,99
+
+[Heart]
+ON=405CD,A
+
+[Lives]
+ON=405CA,A
+
+[Invisible]
+ON=40594,9
+
+[Emerald]
+ON=405D1,99
+
+[Ruby]
+ON=405E0,A
+
+[GameInfo]
+Name=1115 - Disney's Aladdin (J) 
+System=GBA
+Text=

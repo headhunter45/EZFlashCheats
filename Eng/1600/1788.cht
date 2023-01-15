@@ -1,0 +1,22 @@
+[Physical strength]
+ON=3CD,14
+
+[Physical strength with an upper limit]
+ON=3CC,14
+
+[Money]
+ON=3D6,F,27
+
+[Entire equipment]
+ON=416,FF
+
+[Entire stage pro]
+ON=41A,FF
+
+[Entire note]
+ON=41C,FF,FF
+
+[GameInfo]
+Name=1788 - Frogger Kodaibunmei no Nazo (J)（青蛙冒险-古文明之谜）（J） AVG 64
+System=GBA
+Text=vicente

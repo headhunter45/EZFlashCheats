@@ -1,0 +1,20 @@
+[Home Score]
+Max=A004,63
+Min=A004,0
+
+[Visitor Score]
+Max=A005,63
+Min=A005,0
+
+[Home Energy]
+Max=9FDC,60,6
+Min=9FDC,0,0
+
+[Visitor Energy]
+Max=9FE0,60,6
+Min=9FE0,0,0
+
+[GameInfo]
+Name=1021 - Disney Sports Football (E) 
+System=GBA
+Text=

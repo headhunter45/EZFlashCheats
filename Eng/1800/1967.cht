@@ -1,0 +1,16 @@
+[Population]
+ON=40408,E7,3
+
+[Gold coin]
+ON=403E8,FF
+
+[Entire barrier]
+ON=403EA,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire color eggs]
+ON=403F7,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1967 - Yoshi's Universal Gravitation (E)
+System=GBA
+Text=vicente 

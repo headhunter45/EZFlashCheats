@@ -1,0 +1,16 @@
+[Life]
+ON=46CCE,E7,3
+
+[Holding all weapons]
+ON=46D08,1,0,1
+
+[Entire bullets]
+ON=46CEE,E7,3,E7,3,E7,3,E7,3,E7,3
+
+[Aureole]
+ON=46CF8,FF
+
+[GameInfo]
+Name=1908 - A Sound of Thunder (U)
+System=GBA
+Text=vicente 

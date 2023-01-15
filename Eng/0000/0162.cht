@@ -1,0 +1,31 @@
+[All Hidden Events and Characters]
+ON=71C8,0f,27
+
+[Infinite Time (Deactivate when in Car Bonus Stage)]
+ON=42254,63
+OFF=0000,0
+
+[P1 HP]
+ON=464C2,B0;464C4,B0;465D8,B0
+
+[P1 Energy]
+ON=466D4,30
+
+[P1 Able to Attack In Air/Jump]
+OFF=4659C,1
+ON=4659C,0
+
+[P1 Gouki Special Attack Simplified]
+OFF=0000,0
+Follow the Sequence by Press Light Kick / Heavy Punch=46714,03
+Straight Away Press Heavy Punch=46714,04
+
+[P2 HP]
+OFF=0000,0
+HP 0=468D2,0;468D4,0;469E8,0
+HP Never Decrease=468D2,b0;468D4,b0;469E8,b0
+
+[GameInfo]
+Name=0162 - Super Street Fighter II Turbo Revival (E)
+System=GBA
+Text=

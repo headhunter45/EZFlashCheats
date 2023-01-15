@@ -1,0 +1,31 @@
+[Score MAX]
+ON=4960,3F,42,F
+
+[Direct victory]
+ON=4964,0
+
+[Fast downthrow]
+ON=4968,8
+
+[Appraisal time 00£º00]
+ON=49F1,0
+
+[Difficulty rank]
+ON=495C,E6,3
+
+[After the victory obtains Beanz number 255]
+ON=4C62,FF
+
+[Peak number appraisal 255]
+ON=4C61,FF
+
+[Number appraisal255]
+ON=4C60,FF
+
+[AppraisalRare Beanz number255]
+ON=4C63,FF
+
+[GameInfo]
+Name=1506 - Mighty Beanz Pocket Puzzles (U)£¨¶¹×Ð¿Ú´ü·½¿é£©£¨E£©PUZ 128
+System=GBA
+Text=Ä§½£Ê¿µ«¶¡

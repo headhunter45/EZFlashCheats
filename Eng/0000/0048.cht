@@ -1,0 +1,19 @@
+[Time]
+ON=445E8,00,00
+
+[Health]
+ON=44582,03
+
+[Injure frequency]
+ON=4457E,0
+
+[Heart]
+ON=44582,3
+
+[MAX Heart]
+ON=44583,3
+
+[GameInfo]
+Name=0048 - Kuru Kuru Kururin (E)
+System=GBA
+Text=169

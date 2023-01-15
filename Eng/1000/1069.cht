@@ -1,0 +1,40 @@
+[Money]
+ON=431A0,F,27
+
+[Max Loan]
+ON=431A2,FF,FF
+
+[Experience]
+ON=43608,F,27
+
+[Main Character LV99]
+ON=431E0,63
+
+[Main Character HP]
+ON=431D2,F,27
+
+[Main Character PP]¡¡
+ON=431D4,F,27
+
+[Main Character HP]
+ON=431E4,F,27
+
+[Main Character PP]
+ON=431E6,F,27
+
+[Main Character EXP]
+ON=431E1,3F,42,F
+
+[Main Character  PSI]
+ON=43200,FF,FF,FF,FF,0
+
+[Main Character MELODY]
+ON=433AE,FF
+
+[Main Character Condition Normal]
+ON=431D1,0
+
+[GameInfo]
+Name=1069 - Mother 1+2 (J) 
+System=GBA
+Text=

@@ -1,0 +1,980 @@
+[Time]
+0=40010,00,00
+
+[Postwar upgrade]
+ON=3921D,64;3927E,64
+
+[Money]
+9999999=2AA50,7F,96,98
+
+[Go-round number(No locking1)]
+5=2AA58,05
+10=2AA58,0A
+1=2AA58,01
+Text= Not recommanded to set as 1
+
+[Roy Infinite moving]
+ON=2AB84,0
+
+[Roy level]
+1=2AAB0,1
+10=2AB80,0A
+20=2AB80,14
+
+[Roy HP]
+60=2AB88,3C;2AB89,3C
+MAX=2AB88,63;2AB89,63
+Text=Set 60 as a safe value
+
+[Roy Power]
+20=2AB8A,14
+MAX=2AB8A,63
+
+[Roy Technique]
+20=2AB8B,14
+MAX=2AB8B,63
+
+[Roy speed]
+20=2AB8C,14
+MAX=2AB8C,63
+
+[Roy Luck]
+20=2AB8F,1E
+MAX=2AB8F,63
+
+[Roy defence]
+20=2AB8D,14
+MAX=2AB8D,63
+
+[Roy Magic Defence]
+20=2AB8E,14
+MAX=2AB8E,19
+
+[Roy physique+]
+MAX=2AB90,63
+
+[Roy movement+]
+MAX=2AB92,63
+
+[Roy Sword grade number]
+S=2AB9E,FF
+A=2AB9E,CC
+B=2AB9E,99
+C=2AB9E,66
+D=2AB9E,33
+
+[Roy Lance grade number]
+S=2AB9F,FF
+A=2AB9F,CC
+B=2AB9F,99
+C=2AB9F,66
+D=2AB9F,33
+
+[Roy axe grade number]
+S=2ABA0,FF
+A=2ABA0,CC
+B=2ABA0,99
+C=2ABA0,66
+D=2ABA0,33
+
+[Roy grade arrow grade number
+S=2ABA1,FF
+A=2ABA1,CC
+B=2ABA1,99
+C=2ABA1,66
+D=2ABA1,33
+
+[Infinite usage times of No.1 goods]
+99=2AB95,63
+
+[Infinite usage times of No.2 goods]
+99=2AB97,63
+
+[Infinite usage times of No.3goods]
+99=2AB99,63
+
+[Infinite usage times of No.4 goods]
+99=2AB9B,63
+
+[Infinite usage times of No.5 goods ]
+99=2AB9D,63
+
+[Infinite usage times of goods ]
+99=2AB95,63;2AB97,63;2AB99,63;2AB9B,63;2AB9D,63
+
+[Roy No.1 stage pro]
+Iron Sword=2AB94,01
+Iron Blade=2AB94,02
+Steel Sword=2AB94,03
+Silver Sword=2AB94,04
+Slim Sword=2AB94,05
+Poison Sword=2AB94,06
+Brave Sword=2AB94,07
+Light Brand=2AB94,08
+Durandal=2AB94,09
+Armorslayer=2AB94,0A
+Rapier=2AB94,0B
+Killing Edge=2AB94,0C
+Lancereaver=2AB94,0D
+Wo Dao=2AB94,0E
+The Sword of Seals=2AB94,0F
+Iron Lance=2AB94,10
+Steel Lance=2AB94,11
+Silver Lance=2AB94,12
+Slim Lance=2AB94,13
+Poison Lance=2AB94,14
+Brave Lance=2AB94,15
+Javelin=2AB94,16
+Malte=2AB94,17
+Horselayer=2AB94,18
+Killer Lance=2AB94,19
+Axereaver=2AB94,1A
+Iron Axe=2AB94,1B
+Steel Axe=2AB94,1C
+Silver Axe=2AB94,1D
+Poison Axe=2AB94,1E
+Brave Axe=2AB94,1F
+Hand Axe=2AB94,20
+Almace=2AB94,21
+Hammer=2AB94,22
+Killer Axe=2AB94,23
+Swordreaver=2AB94,24
+Devil Axe=2AB94,25
+Halberd=2AB94,26
+Iron Bow=2AB94,27
+Steel Bow=2AB94,28
+Silver Bow=2AB94,29
+Poison Bow=2AB94,2A
+Killer Bow=2AB94,2B
+Brave Bow=2AB94,2C
+Short Bow=2AB94,2D
+Long Bow=2AB94,2E
+Miugre=2AB94,2F
+Ballista=2AB94,30
+Long Ballista=2AB94,31
+Killer Ballista=2AB94,32
+Fire=2AB94,33
+Thunder=2AB94,34
+Fimbulvetr=2AB94,35
+Elfire=2AB94,36
+SnowStorm=2AB94,37
+Fenrir=2AB94,37
+Bolting=2AB94,39
+Hellflame=2AB94,3A
+Lightning=2AB94,3B
+Divine=2AB94,3C
+Purge=2AB94,3D
+Aureola=2AB94,3E
+Flux=2AB94,3F
+Nosferatu=2AB94,40
+Eclipse=2AB94,41
+Apocalypse=2AB94,42
+Heal=2AB94,43
+Mend=2AB94,44
+Recover=2AB94,45
+Physic=2AB94,46
+Fortify=2AB94,47
+Warp=2AB94,48
+Rescue=2AB94,49
+Restore=2AB94,4A
+Silence=2AB94,4B
+Sleep=2AB94,4C
+Torch=2AB94,4D
+Hammerene=2AB94,4E
+Watch=2AB94,4F
+Berserk=2AB94,50
+Unlock=2AB94,51
+Magic Up=2AB94,52
+Fire Dragon Stone=2AB94,53
+Divine Dragon Stone=2AB94,54
+Demonic Dragon Stone=2AB94,55
+Secret Book =2AB94,56
+Goddess Icon=2AB94,57
+Angelic Robe=2AB94,58
+Dragon shield=2AB94,59
+Magic Ring=2AB94,5A
+Speed Wings=2AB94,5B
+Tailsman=2AB94,5C
+Boots=2AB94,5D
+Body Ring=2AB94,5E
+Hero Crest=2AB94,5F
+Knight's Crest=2AB94,60
+Orion's Bolt=2AB94,61
+Elysian Whip =2AB94,62
+Guiding Ring=2AB94,63
+Door Key=2AB94,64
+Chest Key=2AB94,65
+Bridge Key=2AB94,66
+Lockpick=2AB94,67
+Vulnerary=2AB94,68
+Elixir=2AB94,69
+Pure Water=2AB94,6A
+Torch=2AB94,6B
+Anti-Toxin=2AB94,6C
+Member Card=2AB94,6D
+Silver Card=2AB94,6E
+Gold=2AB94,6F
+Darkness Bracelets=2AB94,70
+Exaacus=2AB94,71
+Steel Blade=2AB94,72
+Silver Blade =2AB94,73
+Al Sword=2AB94,74
+Gant Lance=2AB94,75
+Tina Staff=2AB94,76
+Holy Maiden=2AB94,77
+Wyrmslayer =2AB94,78
+White Gem=2AB94,79
+Green Gem=2AB94,7A
+Red Gem=2AB94,7B
+Delphi Shield=2AB94,7C
+Runesword=2AB94,7D
+Slender Spear=2AB94,7E
+Tomahawk=2AB94,7F
+
+[Roy No.2 stage pro]
+Iron Sword=2AB96,01
+Iron Blade=2AB96,02
+Steel Sword=2AB96,03
+Silver Sword=2AB96,04
+Slim Sword=2AB96,05
+Poison Sword=2AB96,06
+Brave Sword=2AB96,07
+Light Brand=2AB96,08
+Durandal=2AB96,09
+Armorslayer=2AB96,0A
+Rapier=2AB96,0B
+Killing Edge=2AB96,0C
+Lancereave=2AB96,0D
+Wo Dao=2AB96,0E
+The Sword of Seals=2AB96,0F
+Iron Lance=2AB96,10
+Steel Lance=2AB96,11
+Silver Lance=2AB96,12
+Slim Lance=2AB96,13
+Poison Lance=2AB96,14
+Brave Lance=2AB96,15
+Javelin=2AB96,16
+Malte=2AB96,17
+Horselayer=2AB96,18
+Killer Lance=2AB96,19
+Axereaver=2AB96,1A
+Iron Axe=2AB96,1B
+Steel Axe=2AB96,1C
+Silver Axe=2AB96,1D
+Poison Axe=2AB96,1E
+Brave Axe=2AB96,1F
+Hand Axe=2AB96,20
+Almace=2AB96,21
+Hammer=2AB96,22
+Killer Axe=2AB96,23
+Swordreaver=2AB96,24
+Devil Axe=2AB96,25
+Halberd=2AB96,26
+Iron Bow=2AB96,27
+Steel Bow=2AB96,28
+Silver Bow=2AB96,29
+Poison Bow=2AB96,2A
+Killer Bow=2AB96,2B
+Brave Bow=2AB96,2C
+Short Bow=2AB96,2D
+Long Bow=2AB96,2E
+Miugre=2AB96,2F
+Ballista=2AB96,30
+Long Ballista=2AB96,31
+Killer Ballista=2AB96,32
+Fire=2AB96,33
+Thunder=2AB96,34
+Fimbulvetr=2AB96,35
+Elfire=2AB96,36
+SnowStorm=2AB96,37
+Fenrir=2AB96,37
+Bolting=2AB96,39
+Hellflame=2AB96,3A
+Lightning=2AB96,3B
+Divine=2AB96,3C
+Purge=2AB96,3D
+Aureola=2AB96,3E
+Flux=2AB96,3F
+Nosferatu=2AB96,40
+Eclipse=2AB96,41
+Apocalypse=2AB96,42
+Heal=2AB96,43
+Mend=2AB96,44
+Recover=2AB96,45
+Physic=2AB96,46
+Fortify=2AB96,47
+Warp=2AB96,48
+Rescue=2AB96,49
+Restore=2AB96,4A
+Silence=2AB96,4B
+Sleep=2AB96,4C
+Torch=2AB96,4D
+Hammerene=2AB96,4E
+Watch=2AB96,4F
+Berserk=2AB96,50
+Unlock=2AB96,51
+Magic Up=2AB96,52
+Fire Dragon Stone=2AB96,53
+Divine Dragon Stone=2AB96,54
+Demonic Dragon Stone=2AB96,55
+Secret Book=2AB96,56
+Goddess Icon=2AB96,57
+Angelic Robe=2AB96,58
+Dragon shield=2AB96,59
+Magic Ring=2AB96,5A
+Speed Wings=2AB96,5B
+Tailsman=2AB96,5C
+Boots=2AB96,5D
+Body Ring=2AB96,5E
+Hero Crest=2AB96,5F
+Knight's Crest=2AB96,60
+Orion's Bolt=2AB96,61
+Elysian Whip=2AB96,62
+Guiding Ring=2AB96,63
+Door Key=2AB96,64
+Chest Key=2AB96,65
+Bridge Key=2AB96,66
+Lockpick=2AB96,67
+Vulnerary=2AB96,68
+Elixir=2AB96,69
+Pure Water=2AB96,6A
+Torch=2AB96,6B
+Anti-Toxin=2AB96,6C
+Member Card=2AB96,6D
+Silver Card=2AB96,6E
+Gold=2AB96,6F
+Darkness Bracelets=2AB96,70
+Exaacus=2AB96,71
+Steel Blade=2AB96,72
+Silver Blade=2AB96,73
+Al Sword=2AB96,74
+Gant Lance=2AB96,75
+Tina Staff=2AB96,76
+Holy Maiden=2AB96,77
+Wyrmslayer=2AB96,78
+White Gem=2AB96,79
+Green Gem=2AB96,7A
+Red Gem=2AB96,7B
+Delphi Shield=2AB96,7C
+Runesword=2AB96,7D
+Slender Spear=2AB96,7E
+Tomahawk=2AB96,7F
+
+[Roy No.3 stage pro]
+Iron Sword=2AB98,01
+Iron Blade=2AB98,02
+Steel Sword=2AB98,03
+Silver Sword=2AB98,04
+Slim Sword=2AB98,05
+Poison Sword=2AB98,06
+Brave Sword=2AB98,07
+Light Brand=2AB98,08
+Durandal=2AB98,09
+Armorslayer=2AB98,0A
+Rapier=2AB98,0B
+Killing Edge=2AB98,0C
+Lancereaver=2AB98,0D
+Wo Dao=2AB98,0E
+The Sword of Seals=2AB98,0F
+Iron Lance=2AB98,10
+Steel Lance=2AB98,11
+Silver Lance=2AB98,12
+Slim Lance=2AB98,13
+Poison Lance=2AB98,14
+Brave Lance=2AB98,15
+Javelin=2AB98,16
+Malte=2AB98,17
+Horselayer=2AB98,18
+Killer Lance=2AB98,19
+Axereaver=2AB98,1A
+Iron Axe=2AB98,1B
+Steel Axe=2AB98,1C
+Silver Axe=2AB98,1D
+Poison Axe=2AB98,1E
+Brave Axe=2AB98,1F
+Hand Axe=2AB98,20
+Almace=2AB98,21
+Hammer=2AB98,22
+Killer Axe=2AB98,23
+Swordreaver=2AB98,24
+Devil Axe=2AB98,25
+Halberd=2AB98,26
+Iron Bow=2AB98,27
+Steel Bow=2AB98,28
+Silver Bow=2AB98,29
+Poison Bow=2AB98,2A
+Killer Bow=2AB98,2B
+Brave Bow=2AB98,2C
+Short Bow=2AB98,2D
+Long Bow=2AB98,2E
+Miugre=2AB98,2F
+Ballista=2AB98,30
+Long Ballista=2AB98,31
+Killer Ballista=2AB98,32
+Fire=2AB98,33
+Thunder=2AB98,34
+Fimbulvetr=2AB98,35
+Elfire=2AB98,36
+SnowStorm=2AB98,37
+Fenrir=2AB98,37
+Bolting=2AB98,39
+Hellflame=2AB98,3A
+Lightning=2AB98,3B
+Divine=2AB98,3C
+Purge=2AB98,3D
+Aureola=2AB98,3E
+Flux=2AB98,3F
+Nosferatu=2AB98,40
+Eclipse=2AB98,41
+Apocalypse=2AB98,42
+Heal=2AB98,43
+Mend=2AB98,44
+Recover=2AB98,45
+Physic=2AB98,46
+Fortify=2AB98,47
+Warp=2AB98,48
+Rescue=2AB98,49
+Restore=2AB98,4A
+Silence=2AB98,4B
+Sleep=2AB98,4C
+Torch=2AB98,4D
+Hammerene=2AB98,4E
+Watch=2AB98,4F
+Berserk=2AB98,50
+Unlock=2AB98,51
+Magic Up=2AB98,52
+Fire Dragon Stone=2AB98,53
+Divine Dragon Stone=2AB98,54
+Demonic Dragon Stone=2AB98,55
+Secret Book=2AB98,56
+Goddess Icon=2AB98,57
+Angelic Robe=2AB98,58
+Dragon shield=2AB98,59
+Magic Ring=2AB98,5A
+Speed Wings=2AB98,5B
+Tailsman=2AB98,5C
+Boots=2AB98,5D
+Body Ring=2AB98,5E
+Hero Crest=2AB98,5F
+Knight's Crest=2AB98,60
+Orion's Bolt=2AB98,61
+Elysian Whip=2AB98,62
+Guiding Ring=2AB98,63
+Door Key=2AB98,64
+Chest Key=2AB98,65
+Bridge Key=2AB98,66
+Lockpick=2AB98,67
+Vulnerary=2AB98,68
+Elixir=2AB98,69
+Pure Water=2AB98,6A
+Torch=2AB98,6B
+Anti-Toxin=2AB98,6C
+Member Card=2AB98,6D
+Silver Card=2AB98,6E
+Gold=2AB98,6F
+Darkness Bracelets=2AB98,70
+Exaacus=2AB98,71
+Steel Blade=2AB98,72
+Silver Blade =2AB98,73
+Al Sword=2AB98,74
+Gant Lance=2AB98,75
+Tina Staff=2AB98,76
+Holy Maiden=2AB98,77
+Wyrmslayer=2AB98,78
+White Gem=2AB98,79
+Green Gem=2AB98,7A
+Red Gem=2AB98,7B
+Delphi Shield=2AB98,7C
+Runesword=2AB98,7D
+Slender Spear=2AB98,7E
+Tomahawk=2AB98,7F
+
+[Roy No.4 stage pro]
+Iron Sword=2AB9A,01
+Iron Blade=2AB9A,02
+Steel Sword=2AB9A,03
+Silver Sword=2AB9A,04
+Slim Sword=2AB9A,05
+Poison Sword=2AB9A,06
+Brave Sword=2AB9A,07
+Light Brand=2AB9A,08
+Durandal=2AB9A,09
+Armorslayer=2AB9A,0A
+Rapier=2AB9A,0B
+Killing Edge=2AB9A,0C
+Lancereave=2AB9A,0D
+Wo Dao=2AB9A,0E
+The Sword of Seals=2AB9A,0F
+Iron Lance=2AB9A,10
+Steel Lance=2AB9A,11
+Silver Lance=2AB9A,12
+Slim Lance=2AB9A,13
+Poison Lance=2AB9A,14
+Brave Lance=2AB9A,15
+Javelin=2AB9A,16
+Malte=2AB9A,17
+Horselayer=2AB9A,18
+Killer Lance=2AB9A,19
+Axereaver=2AB9A,1A
+Iron Axe=2AB9A,1B
+Steel Axe=2AB9A,1C
+Silver Axe=2AB9A,1D
+Poison Axe=2AB9A,1E
+Brave Axe=2AB9A,1F
+Hand Axe=2AB9A,20
+Almace=2AB9A,21
+Hammer=2AB9A,22
+Killer Axe=2AB9A,23
+Swordreaver=2AB9A,24
+Devil Axe=2AB9A,25
+Halberd=2AB9A,26
+Iron Bow=2AB9A,27
+Steel Bow=2AB9A,28
+Silver Bow=2AB9A,29
+Poison Bow=2AB9A,2A
+Killer Bow=2AB9A,2B
+Brave Bow=2AB9A,2C
+Short Bow=2AB9A,2D
+Long Bow=2AB9A,2E
+Miugre=2AB9A,2F
+Ballista=2AB9A,30
+Long Ballista=2AB9A,31
+Killer Ballista=2AB9A,32
+Fire=2AB9A,33
+Fire=2AB9A,34
+Fimbulvetr=2AB9A,35
+Elfire=2AB9A,36
+SnowStorm=2AB9A,37
+Fenrir=2AB9A,37
+Bolting=2AB9A,39
+Hellflame=2AB9A,3A
+Lightning=2AB9A,3B
+Divine=2AB9A,3C
+Purge=2AB9A,3D
+Aureola=2AB9A,3E
+Flux=2AB9A,3F
+Nosferatu=2AB9A,40
+Eclipse=2AB9A,41
+Apocalypse=2AB9A,42
+Heal=2AB9A,43
+Mend=2AB9A,44
+Recover=2AB9A,45
+Physic=2AB9A,46
+Fortify=2AB9A,47
+Warp=2AB9A,48
+Rescue=2AB9A,49
+Restore=2AB9A,4A
+Silence=2AB9A,4B
+Sleep=2AB9A,4C
+Torch=2AB9A,4D
+Hammerene=2AB9A,4E
+Watch=2AB9A,4F
+Berserk=2AB9A,50
+Unlock=2AB9A,51
+Magic Up=2AB9A,52
+Fire Dragon Stone=2AB9A,53
+Divine Dragon Stone=2AB9A,54
+Demonic Dragon Stone=2AB9A,55
+Secret Book=2AB9A,56
+Goddess Icon=2AB9A,57
+Angelic Robe=2AB9A,58
+Dragon shield=2AB9A,59
+Magic Ring=2AB9A,5A
+Speed Wings=2AB9A,5B
+Tailsman=2AB9A,5C
+Boots=2AB9A,5D
+Body Ring=2AB9A,5E
+Hero Crest=2AB9A,5F
+Hero Crest=2AB9A,60
+Orion's Bolt=2AB9A,61
+Elysian Whip=2AB9A,62
+Guiding Ring=2AB9A,63
+Door Key=2AB9A,64
+Chest Key=2AB9A,65
+Bridge Key=2AB9A,66
+Lockpick=2AB9A,67
+Vulnerary=2AB9A,68
+Elixir=2AB9A,69
+Pure Water=2AB9A,6A
+Torch=2AB9A,6B
+Anti-Toxin=2AB9A,6C
+Member Card=2AB9A,6D
+Silver Card=2AB9A,6E
+Gold=2AB9A,6F
+Darkness Bracelets=2AB9A,70
+Exaacus=2AB9A,71
+Steel Blade=2AB9A,72
+Silver Blade=2AB9A,73
+Al Sword=2AB9A,74
+Gant Lance=2AB9A,75
+Tina Staff=2AB9A,76
+Holy Maiden=2AB9A,77
+Wyrmslayer=2AB9A,78
+White Gem=2AB9A,79
+Green Gem=2AB9A,7A
+Red Gem=2AB9A,7B
+Delphi Shield=2AB9A,7C
+Runesword=2AB9A,7D
+Slender Spear=2AB9A,7E
+Tomahawk=2AB9A,7F
+
+[Roy No.5stage pro]
+Iron Sword=2AB9C,01
+Iron Blade=2AB9C,02
+Steel Sword=2AB9C,03
+Silver Sword=2AB9C,04
+Slim Sword=2AB9C,05
+Poison Sword=2AB9C,06
+Brave Sword=2AB9C,07
+Light Brand=2AB9C,08
+Durandal=2AB9C,09
+Armorslayer=2AB9C,0A
+Rapier=2AB9C,0B
+Killing Edge=2AB9C,0C
+Lancereaver=2AB9C,0D
+Wo Dao=2AB9C,0E
+The Sword of Seals=2AB9C,0F
+Iron Lance=2AB9C,10
+Steel Lance=2AB9C,11
+Silver Lance=2AB9C,12
+Slim Lance=2AB9C,13
+Poison Lance=2AB9C,14
+Brave Lance=2AB9C,15
+Javelin=2AB9C,16
+Malte=2AB9C,17
+Horselayer=2AB9C,18
+Killer Lance=2AB9C,19
+Axereaver=2AB9C,1A
+Iron Axe=2AB9C,1B
+Steel Axe=2AB9C,1C
+Silver Axe=2AB9C,1D
+Poison Axe=2AB9C,1E
+Brave Axe=2AB9C,1F
+Hand Axe=2AB9C,20
+Almace=2AB9C,21
+Hammer=2AB9C,22
+Killer Axe=2AB9C,23
+Swordreaver=2AB9C,24
+Devil Axe=2AB9C,25
+Halberd=2AB9C,26
+Iron Bow=2AB9C,27
+Steel Bow=2AB9C,28
+Silver Bow=2AB9C,29
+Poison Bow=2AB9C,2A
+Killer Bow=2AB9C,2B
+Brave Bow=2AB9C,2C
+Short Bow=2AB9C,2D
+Long Bow=2AB9C,2E
+Miugre=2AB9C,2F
+Ballista=2AB9C,30
+Long Ballista=2AB9C,31
+Killer Ballista=2AB9C,32
+Fire=2AB9C,33
+Thunder=2AB9C,34
+Fimbulvetr=2AB9C,35
+Elfire=2AB9C,36
+SnowStorm=2AB9C,37
+Fenrir=2AB9C,37
+Bolting=2AB9C,39
+Hellflame=2AB9C,3A
+Lightning=2AB9C,3B
+Divine=2AB9C,3C
+Purge=2AB9C,3D
+Aureola=2AB9C,3E
+Flux=2AB9C,3F
+Nosferatu=2AB9C,40
+Eclipse=2AB9C,41
+Apocalypse=2AB9C,42
+Heal=2AB9C,43
+Mend=2AB9C,44
+Recover=2AB9C,45
+Physic=2AB9C,46
+Fortify=2AB9C,47
+Warp=2AB9C,48
+Rescue=2AB9C,49
+Restore=2AB9C,4A
+Silence=2AB9C,4B
+Sleep=2AB9C,4C
+Torch=2AB9C,4D
+Hammerene=2AB9C,4E
+Watch=2AB9C,4F
+Berserk=2AB9C,50
+Unlock=2AB9C,51
+Magic Up=2AB9C,52
+Fire Dragon Stone=2AB9C,53
+Divine Dragon Stone=2AB9C,54
+Demonic Dragon Stone=2AB9C,55
+Secret Book=2AB9C,56
+Goddess Icon=2AB9C,57
+Angelic Robe=2AB9C,58
+Dragon shield=2AB9C,59
+Magic Ring=2AB9C,5A
+Speed Wings=2AB9C,5B
+Tailsman=2AB9C,5C
+Boots=2AB9C,5D
+Body Ring=2AB9C,5E
+Hero Crest=2AB9C,5F
+Knight's Crest=2AB9C,60
+Orion's Bolt=2AB9C,61
+Elysian Whip=2AB9C,62
+Guiding Ring=2AB9C,63
+Door Key=2AB9C,64
+Chest Key=2AB9C,65
+Bridge Key=2AB9C,66
+Lockpick=2AB9C,67
+Vulnerary=2AB9C,68
+Elixir=2AB9C,69
+Pure Water=2AB9C,6A
+Torch=2AB9C,6B
+Anti-Toxin=2AB9C,6C
+Member Card=2AB9C,6D
+Silver Card=2AB9C,6E
+Gold=2AB9C,6F
+Darkness Bracelets=2AB9C,70
+Exaacus=2AB9C,71
+Steel Blade=2AB9C,72
+Silver Blade=2AB9C,73
+Al Sword=2AB9C,74
+Gant Lance=2AB9C,75
+Tina Staff=2AB9C,76
+Holy Maiden=2AB9C,77
+Wyrmslayer=2AB9C,78
+White Gem=2AB9C,79
+Green Gem=2AB9C,7A
+Red Gem=2AB9C,7B
+Delphi Shield=2AB9C,7C
+Runesword=2AB9C,7D
+Slender Spear=2AB9C,7E
+Tomahawk=2AB9C,7F
+
+[No.1 movement]
+ON=2AB84,00
+
+[No.1 experience]
+ON=2AB81,63
+
+[No.1 physical strength]
+ON=2AB88,63,63
+
+[No.1 ability]
+ON=2AB8A,63,63,63,63,63,63
+
+[No.1 grade]
+Highest=2AB80,63
+Lowest=2AB80,1
+
+[No.1 weapon skill]
+ON=2AB9E,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.2 movement]
+ON=2ABCC,00
+
+[No.2 experience]
+ON=2ABC9,63
+
+[No.2 physical strength]
+ON=2ABD0,63,63
+
+[No.2 ability]
+ON=2ABD2,63,63,63,63,63,63
+
+[No.2 grade]
+Highest=2ABC8,63
+Lowest=2ABC8,1
+
+[No.2 weapon skill]
+ON=2ABE6,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.3 movement]
+ON=2AC14,00
+
+[No.3 experience]
+ON=2AC11,63
+
+[No.3 physical strength]
+ON=2AC18,63,63
+
+[No.3 ability]
+ON=2AC1A,63,63,63,63,63,63
+
+[No.3 grade]
+Highest=2AC10,63
+Lowest=2AC10,1
+
+[No.3 Weapon skill]
+ON=2AC2E,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.4 movement]
+ON=2AC5C,00
+
+[No.4 experience]
+ON=2AC59,63
+
+[No.4 physical strength]
+ON=2AC60,63,63
+
+[No.4 ability]
+ON=2AC62,63,63,63,63,63,63
+
+[No.4 grade]
+Highest=2AC58,63
+Lowest=2AC58,1
+
+[No.4 weapon skill]
+ON=2AC76,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.5 movement]
+ON=2ACA4,00
+
+[No.5 experience]
+ON=2ACA1,63
+
+[No.5 physical strength]
+ON=2ACA8,63,63
+
+[No.5 ability]
+ON=2ACAA,63,63,63,63,63,63
+
+[No.5 grade]
+Highest=2ACA0,63
+Lowest=2ACA0,1
+
+[No.5 weapon skill]
+ON=2ACBE,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.6 movement]
+ON=2ACEC,00
+
+[No.6 experience]
+ON=2ACE9,63
+
+[No.6 strength]
+ON=2ACF0,63,63
+
+[No.6 ability]
+ON=2ACF2,63,63,63,63,63,63
+
+[No.6 grade]
+Highest=2ACE8,63
+Lowest=2ACE8,1
+
+[No.6 weapon skill]
+ON=2AD06,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.7 movement]
+ON=2AD34,00
+
+[No.7 experience]
+ON=2AD31,63
+
+[No.7 physical strength]
+ON=2AD38,63,63
+
+[No.7 ability]
+ON=2AD3A,63,63,63,63,63,63
+
+[No.7 grade]
+Highest=2AD30,63
+Lowest=2AD30,1
+
+[No.7 weapon skill]
+ON=2AD4E,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.8 movement]
+ON=2AD7C,00
+
+[No.8 experience]
+ON=2AD79,63
+
+[No.8 physical strength]
+ON=2AD80,63,63
+
+[No.8 ability]
+ON=2AD82,63,63,63,63,63,63
+
+[No.8 grade]
+Highest=2AD78,63
+Lowest=2AD78,1
+
+[No.8 weapon skill]
+ON=2AD96,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.9 movement]
+ON=2ADC4,00
+
+[No.9 experience]
+ON=2ADC1,63
+
+[No.9 physical strength]
+ON=2ADC8,63,63
+
+[No.9 ability]
+ON=2ADCA,63,63,63,63,63,63
+
+[No.9 grade]
+Highest=2ADC0,63
+Lowest=2ADC0,1
+
+[No.9 weapon skill]
+ON=2ADDE,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[No.10 movement]
+ON=2AE0C,00
+
+[No.10 experience]
+ON=2AE09,63
+
+[No.10 physical strength]
+ON=2AE10,63,63
+
+[No.10 ability]
+ON=2AE12,63,63,63,63,63,63
+
+[No.10 grade]
+Highest=2AE08,63
+Lowest=2AE08,1
+
+[No.10 weapon skill]
+ON=2AE26,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+<------Needs to be converted---->
+[Level]
+99=2BD54,63
+
+[Level after one battle]
+ON=2BD55,63
+
+[Unlimited Moves]
+ON=2BD58,00
+
+[Blood-Lust MAX]
+ON=2BD5E,63;2BD5F,63
+
+[Max Count 1]
+ON=2BD60,64
+
+[Max Count 2]
+ON=2BD61,64
+
+[Max Count 3]
+ON=2BD62,64
+
+[Max Count 4]
+ON=2BD63,64
+
+[Max Count 5]
+ON=2BD64,64
+
+[Max Count 6]
+ON=2BD65,64
+
+[Max Count 7]
+ON=2BD66,63
+
+[Max Count 8]
+ON=2BD69,63
+
+[GameInfo]
+Name=0378 - Fire Emblem - Sealed Sword (J)
+System=GBA
+Text=

@@ -1,0 +1,13 @@
+[Honey]
+ON=78B8,E7,3
+
+[Time]
+ON=781E,50
+
+[Barrier all open]
+ON=7954,6
+
+[GameInfo]
+Name=1925 - Disney's Winnie the Pooh's Rumbly Tumbly Adventure (E)
+System=GBA
+Text=vicente 

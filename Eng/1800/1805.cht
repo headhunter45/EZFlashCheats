@@ -1,0 +1,57 @@
+[Low Game Time]
+ON=02AB8,00,00,00,00
+
+[Position 1 High HP]
+ON=026E0,FF,FF
+
+[Position 1 High MP]
+ON=026E4,FF,FF
+
+[Position 1 Max STR]
+ON=026E9,63
+ON=026EE,FF,FF
+
+[Pos. 1 Status Always Normal]
+ON=026DA,00
+
+[Position 2 High HP]
+ON=02728,FF,FF
+
+[Position 2 High MP]
+ON=0272C,FF,FF
+
+[Position 2 Max STR]
+ON=02731,63;02736,FF,FF
+
+[Pos. 2 Status Always Normal]
+ON=02722,00
+
+[Position 3 High HP]
+ON=02770,FF,FF
+
+[Position 3 High MP]
+ON=02774,FF,FF
+
+[Position 3 Max STR]
+ON=02779,63;0277E,FF,FF
+
+[Pos. 3 Status Always Normal]
+ON=0276A,00
+
+[Position 4 High HP]
+ON=027B8,FF,FF
+
+[Position 4 High MP]
+ON=027BC,FF,FF
+
+[Position 4 Max STR]
+ON=027C1,63
+ON=027C6,FF,FF
+
+[Pos. 4 Status Always Normal]
+ON=027B2,00
+
+[GameInfo]
+Name=1805 - Final Fantasy I & II - Dawn of Souls (U)
+System=GBA
+Text=1805 - Final Fantasy I & II - Dawn of Souls (U)

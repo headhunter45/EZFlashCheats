@@ -1,0 +1,42 @@
+[Blood standard locking]
+3 hearts=234D,18
+4 hearts=234D,20
+5 hearts=234D,28
+6 hearts=234D,30
+7 hearts=234D,38
+8 hearts=234D,40
+9 hearts=234D,48
+10 hearts=234D,50
+11 hearts=234D,58
+12 hearts=234D,60
+13 hearts=234D,68
+14 hearts=234D,70
+15 hearts=234D,78
+16 hearts=234D,80
+17 hearts=234D,88
+18 hearts=234D,90
+19 hearts=234D,98
+20 hearts=234D,A0
+
+[Magic value locking]
+ON=234E,80
+
+[Bomb locking]
+ON=2323,63
+
+[Arrow locking]
+ON=2357,63
+
+[Invisible locking]
+ON=439DA,63
+
+[The biggest gem]
+ON=2340,E7,03
+
+[Small key locking]
+ON=234F,1
+
+[GameInfo]
+Name=0776 - The Legend Of Zelda - Link To The Past (U)（塞尔达传说-时空隧道）（E）A·RPG 64
+System=GBA
+Text=shishin

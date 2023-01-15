@@ -1,0 +1,16 @@
+[Moon]
+ON=18B0,28
+
+[Lives]
+ON=18A0,9
+
+[HP]
+ON=18A1,3
+
+[Invisible]
+ON=1C37,1,28
+
+[GameInfo]
+Name=1165 - Ojaru Maru (J)
+System=GBA
+Text=

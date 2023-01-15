@@ -1,0 +1,19 @@
+[Money]
+ON=412EE,9
+
+[Score]
+ON=401AA,63
+
+[Vehecle]
+A=401A0,2
+B=401A0,3
+C=401A0,4
+D(Hidden)=401A0,6
+
+[Car Characteristic]
+ON=401B5,7,7,7,7,7,7,7,7;401E0,7,3,3,3,3
+
+[GameInfo]
+Name=1134 - Rock n' Roll Racing (E)
+System=GBA
+Text=

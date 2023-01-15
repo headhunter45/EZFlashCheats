@@ -1,0 +1,22 @@
+[Life]
+ON=4323A,32
+
+[Invisible]
+ON=43239,FF
+
+[Time]
+ON=4323C,0,0,0,0
+
+[Integral]
+ON=43248,9F,86,1
+
+[Barriers all open]
+ON=42EAD,1A
+
+[Illustrated handbook of entire stage pro]
+ON=42E30,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1814 - Cinnamon - Yume no Daibouken (J)£®≥§∂˙π∑-√Œ÷Æ¥Û√∞œ’£©£®J£©ACT 256
+System=GBA
+Text=vicente

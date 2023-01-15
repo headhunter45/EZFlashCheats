@@ -1,0 +1,10 @@
+[HP]
+ON=44CE2,29
+
+[Money]
+ON=40100,FF,FF,0
+
+[GameInfo]
+Name=1066 - BattleBots - Beyond the Battlebox (E) 
+System=GBA
+Text=

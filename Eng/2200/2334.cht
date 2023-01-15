@@ -1,0 +1,42 @@
+[Health]
+ON=3CEC,C0
+
+[Energy­]
+ON=3CF0,0,20
+
+[Number]
+ON=41195,63
+
+[Timer]
+ON=15978,2C,1
+
+[Huge Score]
+ON=0118C,00,98,96,7F
+
+[Infinite Lives]
+ON=15975,32;01195,32
+
+[Leaves]
+ON=411B8,63
+
+[Kill Boss 1hit]
+ON=3D2C,0,0
+
+[Power]
+ON=41362,FF
+
+[Technique]
+Level 1=3CF4,0,10
+Level 2=3CF4,0,30
+Level 3=3CF4,0,50
+Level 4=3CF4,0,70
+
+[Weapons]
+None=3D04,58
+1000=3D04,59
+Hand of Sword=3D04,5A
+
+[GameInfo]
+Name=2334 - Naruto - Ninja Council (US)
+System=GBA
+Text=2334 - Naruto - Ninja Council (US)

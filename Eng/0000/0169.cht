@@ -1,0 +1,46 @@
+[Energy Gauge]
+ON=41914,8
+
+[Infinite Time]
+ON=40BF0,9
+
+[Infinite Energy]
+ON=41910,8
+
+[Infinite Gold Coins]
+ON=40BF4,9F,86,01
+
+[Frog Coins]
+ON=40008,E7,3
+
+[Available Weapon]
+ON=40C38,5
+
+[Stage Clear Block Shinning Plate and Keys]
+ON=40C07,2,2,2,2,2,2
+
+[Status]
+Normal=41898,0
+Swimming=41898,1
+ABnormal=41898,2
+Fatty=41898,3
+Eskimo=41898,4
+Poison=41898,5
+Unknown=41898,6
+Bugs=41898,7
+Baloon=41898,8
+Fly=41898,9
+Shock=41898,A
+
+[Stage Clear(Not Recommended to On)]
+OFF=0000,0
+ON=40C0D,1
+
+[Invisible]
+OFF=0000,0
+ON=4189C,4B
+
+[GameInfo]
+Name=0169 - Wario Land 4 (E)
+System=GBA
+Text=

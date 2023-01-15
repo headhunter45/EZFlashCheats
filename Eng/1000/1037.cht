@@ -1,0 +1,10 @@
+[Quick Level Up]
+ON=3EC32,1;3EC4A,1
+
+[All Parts]
+ON=3EEC0,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1037 - Medabots AX: Metabee Version (E) 
+System=GBA
+Text=

@@ -1,0 +1,12 @@
+[Player Stamina/HP]
+MAX=15129,11
+0=15129,0
+
+[Opponent/Comp Stamina/HP]
+0=15379,0
+MAX=15379,11
+
+[GameInfo]
+Name=0139 - Boxing fever (U)
+System=GBA
+Text=

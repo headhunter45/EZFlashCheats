@@ -1,0 +1,54 @@
+[Money]
+ON=140,E7,3
+
+[Entire attribute]
+ON=11A,63,0,63,0,63,0,63,0,63,0,63
+
+[Entire Q stage pro]
+ON=104,FF,FF,FF,FF,FF,FF,FF,FF,FF,F
+
+[First place team member]
+volcano || blazing flame=C90,0
+water vally || volin =C90,1
+great earth || heavenly wisdom=C90,2
+windy forest || flow=C90,3
+thunder roar || hope =C90,4
+long gouge see sand duty=C90,5
+Kami mezuki=C90,6
+kurogawa=C90,7
+
+[Volcano  ,blazing flame]
+HP=CDA,E7,3
+EXP=CDC,7F,96,98
+
+[water vally || volin ]
+HP=CFA,E7,3
+EXP=CFC,7F,96,98
+
+[great earth || heavenly wisdom]
+HP=D1A,E7,3
+EXP=D1C,7F,96,98
+
+[windy forest || flow]
+HP=D3A,E7,3
+EXP=D3C,7F,96,98
+
+[thunder roar(?) || hope ]
+HP=D5A,E7,3
+EXP=D5C,7F,96,98
+
+[long gouge see sand duty]
+HP=D7A,E7,3
+EXP=D7C,7F,96,98
+
+[Kami mezuki]
+HP=D9A,E7,3
+EXP=D9C,7F,96,98
+
+[kurogawa]
+HP=DBA,E7,3
+EXP=DBC,7F,96,98
+
+[GameInfo] 
+Name=0852 - Little Buster Q (J)  RPG 64
+System=GBA 

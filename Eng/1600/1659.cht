@@ -1,0 +1,17 @@
+[Blood]
+ON=477EA,1E
+
+[Bullet number]
+ON=477E5,1E
+
+[Weapon]
+NO=477E6,30
+A=477E6,31
+B=477E6,32
+C=477E6,33
+D=477E6,34
+
+[GameInfo]
+Name=1659 - Star Wars Trilogy - Apprentice of the Force (U)（星球大战三部曲-学徒的原力）（M3）ACT 64
+System=GBA
+Text=大胖子 整理提供

@@ -1,0 +1,15 @@
+[Population]
+ON=4723F,A
+
+[Time]
+ON=47276,B
+
+[Weapon]
+无=4726D,0
+石斧=4726D,1
+火球=4726D,2
+
+[GameInfo]
+Name=1497 - Famicom Mini Vol 17 - Takahashi Meijin No Boukentou (J)（任天堂FC珍藏游戏系列第17辑）（J）ACT 8
+System=GBA
+Text=vicente

@@ -1,0 +1,19 @@
+[Lives]
+ON=454B2,9
+
+[HP]
+ON=4556F,28
+
+[Ammo]
+ON=454A9,28
+
+[Coins]
+ON=454AE,E7,3
+
+[Heart]
+ON=40DEC,63
+
+[GameInfo]
+Name=0178 - Jimmy Neutron - Boy Genius (U)
+System=GBA
+Text=

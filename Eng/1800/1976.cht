@@ -1,0 +1,28 @@
+[Physical strength]
+ON=3C20E,5
+
+[Population]
+ON=3C20F,9
+
+[Entire star] 
+ON=3E03,0
+
+[Leaf]
+ON=3C2DA,F,27
+
+[Integral]
+ON=3C2C8,F,27
+
+[Entire ingredient]
+ON=3C200,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire stage pro illustrated handbook]
+ON=3C1F8,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entier small game record]
+ON=3C1DA,FF,FF;3C3C8,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27
+
+[GameInfo]
+Name=1976 - Ochaken no Yumebouken (J)
+System=GBA
+Text=vicente 

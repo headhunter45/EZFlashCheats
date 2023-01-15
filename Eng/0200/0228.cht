@@ -1,0 +1,35 @@
+[Lower part of next gem]
+special gem=42C5C,6
+gem1=42C5C,0
+gem2=42C5C,1
+gem3=42C5C,2
+gem4=42C5C,3
+gem5=42C5C,4
+gem6=42C5C,5
+
+[Middle part of next gem]
+special gem=42C5D,6
+gem1=42C5D,0
+gem2=42C5D,1
+gem3=42C5D,2
+gem4=42C5D,3
+gem5=42C5D,4
+gem6=42C5D,5
+
+[Upside part of  next gem]
+special gem=42C5E,6
+gem1=42C5E,0
+gem2=42C5E,1
+gem3=42C5E,2
+gem4=42C5E,3
+gem5=42C5E,4
+gem6=42C5E,5
+
+[Speed]
+slowest=42C3E,1
+fast=42C3E,12
+
+[GameInfo]
+Name=0228 - Columns Crown (E)（宝石方块）（E）PUZ 64
+System=GBA
+Text=大胖子 整理提供

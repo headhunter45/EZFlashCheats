@@ -1,0 +1,10 @@
+[The weapon fence (the first several barriers are effective)]
+ON=E662,1;E9C2,1;EED2,1;FE02,1;DC42,1;E4B2,1
+
+[Entire energy (the first several checkpoints are effective)]
+ON=E639,64;E999,64;EEA9,64;FDD9,64;DC19,64;E489,64
+
+[GameInfo]
+Name=1633 - Digimon Racing (U)£¨ÊýÂë±©ÁúÈü³µ£©£¨M5£©RCG 64
+System=GBA
+Text=mxlee

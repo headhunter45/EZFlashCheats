@@ -1,0 +1,28 @@
+[VR3 time]
+ON=39268,0,0,0,0
+
+[VR3 racing durability]
+ON=392D2,0;392D5,0;392D8,0;392DB,0;392DE,0
+
+[VR3 entire racing]
+ON=392AB,0,0,0,0,0,0,0,0
+
+[VR3-Time entire racetrack]
+ON=39A9A,0,0,0,0,0,0,0,0
+
+[VR3-Cross entire racetrack]
+ON=3930A,0,0,0,0
+
+[ST time]
+ON=39110,80,7
+
+[ST durability]
+ON=39134,E
+
+[ST barrier +racing all open]
+ON=3906D,0,0,0,0,0,0;39076,0,0,0,0,0;3921B,0,0,0,0;39220,0,0;39223,0,0,0,0,0
+
+[GameInfo]
+Name=2041 - 2 in 1 Racing Pack (E)
+System=GBA
+Text=vicente 

@@ -1,0 +1,43 @@
+[Time]
+ON=42660,DC,1C
+
+[Diamond]
+ON=31AC5,5
+
+[Angry Gauge]
+ON=31AC9,20
+
+[Gem]
+ON=31AC2,E7,3
+
+[Player HP]
+ON=31AC0,8
+
+[Player Score]
+ON=31AC2,E7,3
+
+[Player Special Attack]
+ON=31AC5,5
+
+[Player Transform]
+ON=31AC9,20
+
+[Opponent HP]
+ON=31C00,0
+
+[Opponent Score]
+ON=31C02,0,0
+
+[Opponent Special Attack]
+ON=31C05,0
+
+[Opponent Transform]
+ON=31C09,0
+
+[All Characters]
+ON=40D69,7
+
+[GameInfo]
+Name=1182 - Digimon Battle Spirit 2 (U)
+System=GBA
+Text=

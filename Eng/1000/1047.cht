@@ -1,0 +1,24 @@
+[Weeks]
+1=2e00,1
+2=2e00,2
+3=2e00,3
+4=2e00,4
+
+[Months]
+1=2e01,1
+2=2e01,2
+
+[Years]
+1=2e03,1
+2=2e03,2
+
+[All Equipment(Result Immediate Game Ending)]
+ON=2e0c,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Spectators]
+1500=4436c,0f,27
+
+[GameInfo]
+Name=1047 - Gekitou Densetsu Noah - Dream Management (J) 
+System=GBA
+Text=wangkei

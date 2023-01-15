@@ -1,0 +1,25 @@
+[HYPER after gathers the strength to maintain]
+ON=40DF8,FF
+
+[Score MAX]
+ON=443B4,7F,96,98
+
+[Life does not reduce]
+ON=443C6,7
+
+[translational speed speeds up]
+ON=46B84,FF,2
+
+[Press L key and lockHYBER condition]
+ON=440D0,4
+
+[Invinsibility]
+ON=443BC,64
+
+[Press A key to gather the strength to maintain
+ON=440D4,0,2
+
+[GameInfo]
+Name=1418 - R-Type III (U)£¨R·ÉÐÐ¶ÓIII£©£¨E£©STG 32
+System=GBA
+TEXT=HOTSUMA

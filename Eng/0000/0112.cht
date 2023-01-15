@@ -1,0 +1,13 @@
+[STAR]
+ON=AE6F,F
+
+[HEALTH]
+ON=AF58,8
+
+[INVISIBLE]
+ON=DEC8,3;DECE,64
+
+[GameInfo]
+Name=0112 - Rocket Power Dream Scheme (U)
+System=GBA
+Text=

@@ -1,0 +1,19 @@
+[Lives]
+ON=1630c,9
+
+[HP]
+ON=44f8c,1c
+
+[All Items]
+ON=1632e,e7,03
+
+[All Weapons]
+ON=1630e,9c;16310,9c;16312,9c;16314,9c;16316,9c;16318,9c;1631a,9c;1631c,9c;1631e,9c;16320,9c;16322,9c;16324,9c
+
+[All Armors]
+ON=16325,ff,ff,ff
+
+[GameInfo]
+Name=1046 - MegaMan & Bass (E) 
+System=GBA
+Text=

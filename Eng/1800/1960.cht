@@ -1,0 +1,22 @@
+[Good shot nmuber]
+ON=45B16,3
+
+[Wide ball number]
+ON=45B17,4
+
+[elimination number]
+ON=45B18,3
+
+[Purchasing points]
+ON=45A4C,9F,86,1
+
+[The entire troop investigate]
+ON=45A46,FF
+
+[The entire team member hire]
+ON=45A78,7F,7F,7F,7F,7F,7F,7F,7F,FF,FF
+
+[GameInfo]
+Name=1960 - One Piece Going Baseball Haejeok Yaku (K)
+System=GBA
+Text=vicente

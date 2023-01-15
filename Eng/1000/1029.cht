@@ -1,0 +1,13 @@
+[Game 3, Remaining Puzzle]
+ON=8320,0
+
+[Game 3 Score]
+ON=8E78,6,27
+
+[Game 3, Instant Game Over/End]
+ON=9260,0,0 
+
+[GameInfo]
+Name=1029 - Okaitoku Series 5 - Puzzle & Tantei Collection (J) 
+System=GBA
+Text=

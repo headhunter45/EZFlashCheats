@@ -1,0 +1,116 @@
+[Leading role infinite moving]
+ON=13C3A,01
+
+[Leading role HP]
+ON=13288,F,27;1328C,F,27
+
+[Leading role spirit]
+ON=10DF4,E7,3
+
+[Leading role energy]
+ON=10DF6,FF
+
+[Leading role rank]
+ON=10DF2,C1,C0
+
+[Money]
+ON=c00,40,54,89
+
+[Strengthens the part]
+ON=B25,09;B26,09;B27,09,B28,09;B29,09;B2A,09;B2B,09;B2C,09;B2D,09;
+B2E,09;B2F,09;B30,09;B31,09;B32,09;B33,09;B34,09;B35,09;B36,09;B37,09;
+B38,09;B39,09;B3A,09;B3B,09;B3C,09;B3D,09;B3E,09;B3F,09;B40,09;B41,09;
+B42,09;B43,09;B44,09;B45,09;B46,09;B47,09;B48,09;B49,09;B4A,09;B4B,09;
+B4C,09;B4D,09
+
+[Quick Level Up]
+99 Levels=14BE8,5C,C1
+90 Levels=14BE8,C8,AF
+50 Levels=14BE8,A8,61
+30 Levels=14BE8,98,3A
+10 Levels=14BE8,88,13
+5 Levels=14BE8,C4,09
+3 Levels=14BE8,DC,05
+2 Levels=14BE8,E8,03
+1 Level=14BE8,F4,01
+0 Level=14BE8,0
+
+[Postwar obtained EXP]
+ON=14BE8,F4,01
+
+[Total rounds is zero]
+ON=C06,00
+
+[Start the divergent choice]
+Nadesico Path=C0E,12
+Ra Kailum Path=C0E,13
+
+[Select Stage (Risky!)]
+Scenerio 1=C0F,00
+Scenerio 2=C0F,01
+Scenerio 3=C0F,02
+Scenerio 4=C0F,03
+Scenerio 5=C0F,04
+Scenerio 6=C0F,05
+Scenerio 2=C0F,06
+Scenerio 3=C0F,07
+Scenerio 4=C0F,08
+Scenerio 5=C0F,09
+Scenerio 6=C0F,0a
+Scenerio 7=C0F,0b
+Scenerio 8=C0F,0c
+Scenerio 9=C0F,0d
+Scenerio 10=C0F,0e
+Scenerio 11=C0F,0f
+Scenerio 12=C0F,10
+Scenerio 13=C0F,11
+Scenerio 14=C0F,12
+Scenerio 13=C0F,13
+Scenerio 14=C0F,14
+Scenerio 15=C0F,15
+Scenerio 16=C0F,16
+Scenerio 17=C0F,17
+Scenerio 16=C0F,18
+Scenerio 17=C0F,19
+Scenerio 18=C0F,1a
+Scenerio 19=C0F,1b
+Scenerio 20=C0F,1c
+Scenerio 21=C0F,1d
+Scenerio 22=C0F,1e
+Scenerio 23=C0F,1f
+Scenerio 22=C0F,20
+Scenerio 23=C0F,21
+Scenerio 24=C0F,22
+Scenerio 25=C0F,23
+Scenerio 26=C0F,24
+Scenerio 27=C0F,25
+Scenerio 28=C0F,26
+Scenerio 29=C0F,27
+Scenerio 30=C0F,28
+Scenerio 31=C0F,29
+Scenerio 29=C0F,2a
+Scenerio 30=C0F,2b
+Scenerio 31=C0F,2c
+Scenerio 32=C0F,2d
+Scenerio 33=C0F,2d
+Scenerio 34=C0F,2f
+Scenerio 35=C0F,30
+Scenerio 36=C0F,31
+Scenerio 37=C0F,32
+Scenerio 38=C0F,33
+Scenerio 38=C0F,34
+Scenerio 38=C0F,35
+Scenerio 38=C0F,36
+Scenerio 38=C0F,37
+Scenerio 38=C0F,38
+Scenerio 38=C0F,39
+Scenerio 38=C0F,3a
+Scenerio 38=C0F,3b
+Scenerio 38=C0F,3c
+Scenerio 38=C0F,3d
+Scenerio 38=C0F,3e
+
+[GameInfo]
+Name=0514 - Super Robot Taisen R (J)
+System=GBA
+Text=0514 - Super Robot Taisen R (J)

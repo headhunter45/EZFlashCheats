@@ -1,0 +1,39 @@
+[Speed]
+ON=4009A,32
+
+[Time]
+ON=1BFB4,0,0
+
+[Role]
+Character 1=1BCEA,0
+Character 2=1BCEA,1
+Character 3=1BCEA,2
+Character 4=1BCEA,3
+Character 5=1BCEA,4
+Character 6=1BCEA,5
+Character 7=1BCEA,6
+Character 8=1BCEA,7
+Character 9=1BCEA,8
+Character 10=1BCEA,9
+Character 11=1BCEA,A
+Character 12=1BCEA,B
+
+[Entire car licence ]
+ON=1BDBA,FF
+
+[Reveal the shown board]
+ON=1BDBC,FF,FF
+
+[S grade]
+ON=1BE5C,2
+
+[Money999]
+ON=1BE68,E7,3
+
+[Gold coin 999]
+ON=1BFC2,E7,3
+
+[GameInfo]
+Name=0043 - Konami Krazy Racers (E)
+System=GBA
+Text=0043 - Konami Krazy Racers (E)

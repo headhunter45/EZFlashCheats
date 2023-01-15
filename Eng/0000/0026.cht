@@ -1,0 +1,36 @@
+[The infinite time (reward closes when ask solution to lock)]
+OFF=0000,0
+ON=2160C,1E
+
+[P1 Life number]
+ON=24EDF,9
+
+[P1 Physical strength value]
+ON=24E5E,4D
+
+[P1 Transparent]
+OFF=0000,0
+ON=24E58,91
+
+[Highest score]
+ON=21360,7F,96,98
+
+[Infinite Passes]
+ON=215F5,3
+
+[Unlimited time]
+ON=21608,1E
+
+[invincibility]
+ON=24E54,9
+
+[Unlimited blood]
+ON=24E5A,4D
+
+[Unlimited life]
+ON=24EDB,5
+
+[GameInfo]
+Name=0026 - Final Fight One (J)£¨¿ì´òÐý·çONE£©£¨J£©FTG 32
+System=GBA
+Text=169

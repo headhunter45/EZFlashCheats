@@ -1,0 +1,35 @@
+[SP]
+ON=5338,28,23
+
+[Money]
+ON=52E4,3F,42,F
+
+[HP]
+ON=52E9,9
+
+[MAX Army number255]
+ON=52D8,FF
+
+[Army number 00]
+ON=52D9,0
+
+[Total fund 99999]
+ON=52E4,9F,86,1
+
+[Own entire HP]
+ON=52E9,3
+
+[Own entireSP]
+ON=5338,0,C
+
+[60000pt]
+ON=41892,60,EA
+
+[GameInfo]
+Name=0013 - Napoleon (J)
+System=GBA
+Text=0013 - Napoleon (J)
+
+
+
+

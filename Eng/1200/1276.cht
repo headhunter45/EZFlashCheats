@@ -1,0 +1,16 @@
+[HP]
+ON=11CA4,63
+
+[Ammo]
+ON=11EE1,96
+
+[Lightning]
+ON=11EE6,9
+
+[Lives]
+ON=3C38,9
+
+[GameInfo]
+Name=1276 - Medal of Honor Infiltrator (U)
+System=GBA
+Text=

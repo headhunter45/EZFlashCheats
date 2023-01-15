@@ -1,0 +1,16 @@
+[Money]
+ON=454E0,FF
+
+[HP]
+ON=457AF,20
+
+[Lives]
+ON=408D0,9
+
+[Invisible]
+ON=455E8,C8
+
+[GameInfo]
+Name=1193 - Pirates of The Caribbean (E)
+System=GBA
+Text=

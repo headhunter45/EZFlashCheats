@@ -1,0 +1,13 @@
+[HP]
+ON=44340,14
+
+[Lives]
+ON=44C30,9
+
+[Invisible]
+ON=4434C,64
+
+[GameInfo]
+Name=1218 - Super Duper Sumos (U)
+System=GBA
+Text=

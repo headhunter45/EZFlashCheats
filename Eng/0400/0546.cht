@@ -1,0 +1,25 @@
+[Good shot number]
+0=1D42,0
+1=1D42,1
+2=1D42,2
+3=1D42,3
+
+[Bad ball number]
+0=1D43,0
+1=1D43,1
+2=1D43,2
+3=1D43,3
+
+[Outgoing population]
+3=1D44,3
+2=1D44,2
+1=1D44,1
+0=1D44,0
+
+[Score]
+ON=38569,0
+
+[GameInfo]
+Name=0546 - Famista Advance (J)
+System=GBA
+Text=0546 - Famista Advance (J)

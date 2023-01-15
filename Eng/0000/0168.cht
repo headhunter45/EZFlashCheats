@@ -1,0 +1,18 @@
+[Steps]
+ON=2D658,C
+
+[Time for Mini Games]
+ON=1314,3C
+
+[Player Score]
+9999=2D740,F,27
+0=2D740,0,0
+
+[Comp/Opponent Score]
+0=2D788,0,0
+9999=2D788,F,27
+
+[GameInfo]
+Name=0168 - M&M's Blast! (U)
+System=GBA
+Text=

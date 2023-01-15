@@ -1,0 +1,91 @@
+[Recovery stage properties]
+ON=2498,63,63,63,63,63
+
+[Information]
+ON=5E8,FF,FF,FF,FF
+
+[Entire skilled experience]
+ON=1D40,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
+
+[NUJU attack points]
+ON=1550,F,27
+
+[NUJU attack points with an upper limit]
+ON=153C,F,27
+
+[NUJU rank]
+ON=1524,9
+
+[NUJU skilled points]
+ON=1608,63,0,63,0,63,0,63,0,63
+
+[NOKAMA attack points]
+ON=169C,F,27
+
+[NOKAMA attack points with an upper limit]
+ON=1688,F,27
+
+[NOKAMA rank]
+ON=1670,9
+
+[NOKAMA Skilled points]
+ON=1754,63,0,63,0,63,0,63,0,63
+
+[MATAU skilled points]
+ON=17E8,F,27
+
+[MATAU attack points with an upper limit]
+ON=17D4,F,27
+
+[MATAUrank]
+ON=17BC,9
+
+[MATAU skilled points]
+ON=18A0,63,0,63,0,63,0,63,0,63
+
+[WHENUR attack points]
+ON=1934,F,27
+
+[WHENUR attack points with an upper limit]
+ON=1920,F,27
+
+[WHENURrank]
+ON=1908,9
+
+[WHENUR skilled points]
+ON=19EC,63,0,63,0,63,0,63,0,63
+
+[VAKAMA attack points]
+ON=1A80,F,27
+
+[VAKAMA attack points with an upper limit]
+ON=1A6C,F,27
+
+[VAKAMArank]
+ON=1A54,9
+
+[VAKAMA skilled points]
+ON=1B38,63,0,63,0,63,0,63,0,63
+
+[ONEWA attack points]
+ON=1BCC,F,27
+
+[ONEWA attack points with an upper limit]
+ON=1BB8,F,27
+
+[ONEWArank]
+ON=1BA0,9
+
+[ONEWA skilled points]
+ON=1C84,63,0,63,0,63,0,63,0,63
+
+[Replaceable perfect person ]
+ON=24A8,FF
+
+[Invincible custom]
+ON=24A9,1
+
+[GameInfo]
+Name=2140 - Bionicle Maze of Shadows (U)
+System=GBA
+Text=vicente 

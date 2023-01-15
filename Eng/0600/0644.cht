@@ -1,0 +1,16 @@
+[Life]
+ON=04730C,64,100
+
+[Hand grenade]
+ON=046004,63,99; 047336,63,99
+
+[Flame gun]
+ON=047332,64,100
+
+[Bazooka]
+ON=047334,64,100
+
+[GameInfo]
+Name=0644 - Army Men Turf Wars (U)
+System=GBA
+Text=0644 - Army Men Turf Wars (U)

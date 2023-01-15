@@ -1,0 +1,34 @@
+[パソチ力]
+ON=4585E,E7,3
+
+[耐久力]
+ON=45864,E7,3
+
+[回复力]
+ON=45866,E7,3
+
+[スヒ-ド]
+ON=45862,E7,3
+
+[フツトヮ-ク]
+ON=45860,E7,3
+
+[スタミナ]
+ON=4585C,E7,3
+
+[体调]
+ON=45854,14
+
+[体能]
+ON=41B91,FF
+
+[气力]
+ON=41B9D,FF
+
+[体力]
+ON=41BA1,C8
+
+[GameInfo]
+Name=1342 - Ashita no Joe - Makka ni Moeagare! (JP)
+System=GBA
+Text=1342 - Ashita no Joe - Makka ni Moeagare! (JP)

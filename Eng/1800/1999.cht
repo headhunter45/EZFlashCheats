@@ -1,0 +1,30 @@
+[MI Population]
+ON=42754,9
+
+[MI POt]
+ON=42850,3
+
+[MI Candy]
+ON=4286C,63
+
+[MI Collection]
+1¸ö=42E20,1
+2¸ö=42E20,2
+3¸ö=42E20,3
+
+[FM steam void]
+ON=2F50,63
+
+[FN Star]
+ON=2F54,63
+
+[FN Barriers all open]
+ON=2F3C,C
+
+[FN Picutre all open]
+ON=2F40,FF,FF
+
+[GameInfo]
+Name=1999 - Disney Pixar Gamepack (E)
+System=GBA
+Text=vicente 

@@ -1,0 +1,25 @@
+[Time]
+ON=47293,C8
+
+[Life]
+ON=47268,9
+
+[Bomb might]
+ON=47273,50
+
+[Bomb number]
+ON=47274,9
+
+[Fast walk]
+ON=47275,1
+
+[Remote bomb]
+ON=47277,1
+
+[Invincibility]
+ON=4725C,0
+
+[GameInfo]
+Name=1392 - Famicom Mini: Vol.9: Bomberman (J)（任天堂FC珍藏游戏系列第9辑）（J）ACT 32
+System=GBA
+Text=vicente

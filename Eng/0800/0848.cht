@@ -1,0 +1,23 @@
+[99 Lives]
+ON=26EC,63
+
+[Mask]
+ON=26F0,2
+
+[General points reduction of time]
+ON=2714,14
+
+[Bowls reducing clearance time. (Null and void when dead or try again into the customs until the effective date,please turn off the other pages)]
+ON=1D490,14;1DDFC,14
+OFF=0000,00
+
+[Invincible through]
+ON=026F1,1
+
+[Speed up the game (fast)]
+ON=0014,1
+
+[GameInfo]
+Name=0848 - Crash Bandicoot 2 N-Tranced (U)
+System=GBA
+Text=0848 - Crash Bandicoot 2 N-Tranced (U)

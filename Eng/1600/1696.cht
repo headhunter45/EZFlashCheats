@@ -1,0 +1,13 @@
+[Life ]
+ON=F168,63
+
+[Energy]
+ON=F418,0,0,1
+
+[Barriers 100% reachment]
+ON=F64,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[GameInfo]
+Name=1696 - Knights Kingdom (U)£¨ÆïÊ¿µÛ¹ú£©£¨E£©AVG 32
+System=GBA
+Text=vicente

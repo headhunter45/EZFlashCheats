@@ -1,0 +1,30 @@
+[Full ability]
+ON=1A8,64,0,64,0,64,0,64
+
+[Practice number of times]
+最多=1A4,F
+最少=1A4,0
+
+[Physical strength of our side ]
+ON=48,E8,3
+
+[Our side energy]
+ON=54,FA
+
+[Physical strength of  the opposite side]
+ON=110,0,0
+
+[The opposite side energy]
+ON=11C,0
+
+[Entire movie]
+ON=1A2,14
+
+[The perfect person adds the entire pattern]
+ON=1A3,2
+
+[GameInfo]
+Name=1883 - Rocky (E)
+System=GBA
+Text=vicente 
+

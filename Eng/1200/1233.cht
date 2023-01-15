@@ -1,0 +1,16 @@
+[Shovel]
+ON=3C18,3
+
+[Breadt]
+ON=3C10,14
+
+[HP]
+ON=3C0C,3
+
+[Lives]
+ON=3C08,9
+
+[GameInfo]
+Name=1233 - Sponge Bob Square Pants Battle for Bikini Bottom (U) 
+System=GBA
+Text=

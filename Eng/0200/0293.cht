@@ -1,0 +1,32 @@
+[Next diamond upside]
+Square 1=428D0,1
+Square 2=428D0,2
+Square 3=428D0,3
+Square 4=428D0,4
+Square 5=428D0,5
+
+[The next diamond after next upside]
+Square 1=428E0,1
+Square 2=428E0,2
+Square 3=428E0,3
+Square 4=428E0,4
+Square 5=428E0,5
+
+[The next diamond after next the lower part]
+Square 1=428F0,1
+Square 2=428F0,2
+Square 3=428F0,3
+Square 4=428F0,4
+Square 5=428F0,5
+
+[Next diamond the lower part]
+Square 1=428C0,1
+Square 2=428C0,2
+Square 3=428C0,3
+Square 4=428C0,4
+Square 5=428C0,5
+
+[GameInfo]
+Name=0293 - Puyo Pop (U)（魔法气泡大会战）（M）PUZ 64
+System=GBA
+Text=大胖子 整理提供

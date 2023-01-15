@@ -1,0 +1,60 @@
+[P1 Life]
+MAX=8BBD,44
+0==8BBD,0
+
+[P1 Physical strengh]
+MAX=8BBF,44
+0=8BBF,0
+
+[P2 Life]
+MAX=B10D,44
+0=B10D,0
+
+[P2 Physical strengh]
+MAX=B10F,44
+0=B10F,0
+
+[Time]
+ON=D628,9;D638,59
+
+[Player unlimited life]
+ON=8BBC,0,44
+
+[Player unlimited stamina]
+ON=8BBE,0,44
+
+[Player2/AI]
+Unlimited Life=B10C,0,44
+No Life=B10C,0,0
+
+[Player2/AI]
+Unlimited Stamina=B10E,0,44
+No Stamina=B10E,0,0
+
+[Player RUMBLE meter]
+Full=D5BC,6,0
+Empty=D5BC,0,0
+
+[Player2/AI RUMBLE meter]
+Full=D5F8,6,0
+Empty=D5F8,0,0
+
+[Unlimited time]
+ON=D638,59,0
+
+[Championship Speed100]
+ON=9004,64
+
+[Championship Strength100]
+ON=902C,64
+
+[Championship Stamina100]
+ON=9040,64
+
+[Championship Unlimted money]
+ON=9048,7F,96,98
+
+[GameInfo]
+Name=0030 - Ready 2 Rumble Boxing - Round 2 (U)
+System=GBA
+Text=0030 - Ready 2 Rumble Boxing - Round 2 (U)

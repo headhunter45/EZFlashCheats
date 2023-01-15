@@ -1,0 +1,19 @@
+[HP]
+ON=820,5
+
+[All Cards]
+ON=AD4,FF,FF
+
+[Lives]
+ON=800,9
+
+[Money]
+ON=12638,63
+
+[All SKills]
+ON=3A0,1;3A4,1;3A8,1;3AC,1;3B0,1
+
+[GameInfo]
+Name=1273 - Spy Kids 3-D (E)
+System=GBA
+Text=

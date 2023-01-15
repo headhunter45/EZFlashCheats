@@ -1,0 +1,31 @@
+[All Mame]
+ON=165C,F,27,F,27,F,27,F,27
+
+[Boboboubo HP]
+ON=DFE,E7,3
+
+[Boboboubo MAXHP]
+ON=E0A,E7,3
+
+[Boboboubo Stats]
+ON=E02,E7,3,E7,3,E7,3
+
+[Beauty HP]
+ON=E2E,E7,3
+
+[Batch HP]
+ON=E5E,E7,3
+
+[Hepoko Maru HP]
+ON=E8E,E7,3
+
+[Softon HP]
+ON=EBE,E7,3
+
+[Tokoro Tenosuke HP]
+ON=EEE,E7,3
+
+[GameInfo]
+Name=1137 - Boboboubo_Boubobo 2 (J)
+System=GBA
+Text=tk2.nmt.ne.jp

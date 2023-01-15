@@ -1,0 +1,100 @@
+[Money]
+ON=38520,3F,42,F
+
+[Points]
+ON=38530,FF,E0,F5,5
+
+[Bellyful]
+ON=42D8,63
+
+[Durability]
+ON=4166,E8,3
+
+[Labyrinth layer]
+ON=4145,63
+
+[The entire facility opens]
+ON=AF8,FF
+
+[Entire friends district]
+ON=38538,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Entire PM had been encountered]
+ON=390CC,FE,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,70
+
+[entire stage prop of the parcels room]
+ON=38312,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
+
+[The entire labyrinth appear]
+ON=B1E,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire suggestive card]
+ON=38FC0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Infinite enemy of labyrinth]
+ON=4162,FF
+
+[Infinite storekeeper]
+ON=416E,1,1
+
+[Entire hideawayPM]
+ON=39120,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Entire statue]
+ON=B5F,F
+
+[Reachment record all open]
+ON=39000,FF,FF,FF,FF
+
+[Pass the trainning barrier]
+ON=B2E,FF,FF,FF
+
+[RoleHP]
+ON=41AA,E7,3
+
+[RoleMAXHP]
+ON=41AC,E7,3
+
+[RoleLV]
+ON=41A5,64
+
+[RoleEXP]
+ON=41B4,0,9,3D
+
+[Role entire ability]
+ON=41B0,FF,FF,FF,FF
+
+[Role normal condition]
+ON=4244,0,0,0,0,0,0,0,0,0,0,0,0
+
+[Teammate I HP]
+ON=43B2,E7,3
+
+[Teammate I EXP]
+ON=43BC,0,9,3D
+
+[Full abiliby of Teammate I]
+ON=43B8,FF,FF,FF,FF
+
+[Teammate II HP]
+ON=45BA,E7,3
+
+[Teammate II EXP]
+ON=45C4,0,9,3D
+
+[Full ability of Teammate II]
+ON=45C0,FF,FF,FF,FF
+
+[Teammate III HP]
+ON=47C2,E7,3
+
+[Teammate III EXP]
+ON=47CC,0,9,3D
+
+[Full ability of Teammate III]
+ON=47C8,FF,FF,FF,FF
+
+[GameInfo]
+Name=2239 - Pokemon Fushigi no Dungeon Aka no Kyuujotai (J)
+System=GBA
+Text=vicente

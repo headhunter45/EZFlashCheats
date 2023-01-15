@@ -1,0 +1,10 @@
+[Team member's physical strength]
+ON=133F,FF;1467,FF
+
+[Our side HP]
+ON=10EE,FF,FF;1216,FF,FF;133E,FF,FF;1466,FF,FF
+
+[GameInfo]
+Name=0010 - Super Dodgeball Advance (J)
+System=GBA
+Text=0010 - Super Dodgeball Advance (J)

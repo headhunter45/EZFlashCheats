@@ -1,0 +1,31 @@
+[Points]
+ON=3C7F6,F,27
+
+[Entire Hideaway all open]
+ON=3C792,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Fast victory]
+ON=18F87,3
+
+[Physical strength]
+ON=18F91,0,1
+
+[Physical strength of BOSS]
+ON=1903A,0,0
+
+[Holding stage pro]
+白果=18F76,1
+白果*3=18F76,2
+红果=18F76,3
+红果*3=18F76,4
+加速鞋=18F76,5
+隐身羽毛=18F76,6
+鬼脸=18F76,7
+跟踪UFO=18F76,8
+白果*2=18F76,9
+红果*2=18F76,A
+
+[GameInfo]
+Name=1864 - Banjo Pilot (U)（班卓飞行员）（E）RCG 128
+System=GBA
+Text=vicente

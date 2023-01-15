@@ -1,0 +1,22 @@
+[Durability]
+ON=46B68,64
+
+[Energy]
+ON=46B7C,CF
+
+[Missile]
+ON=46B50,63;46B54,63
+
+[Time]
+ON=47058,FF
+
+[Integral]
+ON=414E8,E7,3
+
+[Entire organism]
+ON=414BE,FF,FF
+
+[GameInfo]
+Name=1909 - Ace Combat Advance (U)
+System=GBA
+Text=vicente 

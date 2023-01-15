@@ -1,0 +1,24 @@
+[A mode population]
+ON=44840,5
+
+[A mode integral]
+ON=4483C,3F,42,F
+
+[Ymode population]
+ON=40116,9
+
+[Ymode integral]
+ON=40110,FF,E0,F5,5
+
+[P mode 1P integral]
+最多=40264,9
+最少=40264,0
+
+[P mode 2P integral]
+最多=402AC,9
+最少=402AC,0
+
+[GameInfo]
+Name=2115 - Pong Asteroids Yars Revenge (U)
+System=GBA
+Text=vicente 

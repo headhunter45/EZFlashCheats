@@ -1,0 +1,10 @@
+[Bullets/Ammo]
+ON=EAB6,64
+
+[HP]
+ON=EAA6,64
+
+[GameInfo]
+Name=0118 - Backtrack (U)
+System=GBA
+Text=

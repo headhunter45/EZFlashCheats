@@ -1,0 +1,19 @@
+[Water Count]
+ON=42054,FF
+
+[HP]
+ON=420CC,5
+
+[Remaining People Being Trapped]
+ON=42080,0
+
+[Lives]
+ON=420F4,5
+
+[Invisible]
+ON=44179,C8;479EC,9B
+
+[GameInfo]
+Name=1140 - Rescue Heroes Billy Blazes (U)
+System=GBA
+Text=

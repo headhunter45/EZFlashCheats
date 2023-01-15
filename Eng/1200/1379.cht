@@ -1,0 +1,25 @@
+[hp]
+ON=400E4,64
+
+[Population]
+ON=400E0,9
+
+[Machine gun bullet]
+ON=400EC,E7,3
+
+[Grenade]
+ON=40100,63
+
+[Missile]
+ON=400F0,E7,3
+
+[Flaming bullet]
+ON=400F4,E7,3
+
+[Claw]
+ON=400F8,E7,3
+
+[GameInfo]
+Name=1379 - CT Special Forces (U)（CT特种部队）（M6） 32
+System=GBA
+Text=haoxujie（恶魔）

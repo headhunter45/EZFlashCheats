@@ -1,0 +1,16 @@
+[Speed]
+ON=44E2C,60,EA
+
+[Money]
+ON=44770,9F,86,1
+
+[Total Time]
+ON=456C8,0
+
+[Single Lap Time]
+ON=456CC,0
+
+[GameInfo]
+Name=0205 - Hot Wheels Burnin Rubber (U)
+System=GBA
+Text=

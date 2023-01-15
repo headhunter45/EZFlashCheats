@@ -1,0 +1,93 @@
+[The first generation life]
+ON=43F2D,10
+
+[The first generation life with an upper limit]
+ON=43F2C,10
+
+[The first generation术值]
+ON=43F2E,63
+
+[The first genration population ]
+ON=43F32,4
+
+[The first genration time]
+ON=43F60,FF,FF
+
+[The first genration money]
+ON=43F34,FF,FF
+
+[The first genration bomb]
+ON=43F39,63
+
+[Entire stage pro of the first genration]
+ON=43F4E,63,63,63,63,62,63,63,63,63,63,63,63,63
+
+[Entire scroll of the first genration]
+ON=43F44,1,1,1,1
+
+[The second  genration life ]
+ON=4716E,10
+
+[The second  genration life with an upper limit]
+ON=4716C,10
+
+[The second  genration population]
+ON=47152,63
+
+[The second  genration money]
+ON=47140,F,27
+
+[The second  genration time]
+ON=46FCE,63
+
+[Entire stage pro of the second  genration ]
+ON=47142,6,6,6,3,3,3
+
+[GameInfo]
+Name=1973 - Kessakusen! Ganbare Goemon 1+2 (J)
+System=GBA
+Text=vicente 
+
+[The first generation -time does not reduce]
+ON=43F60,DB
+
+[The first generation-physical strength does not reduce]
+ON=43F2C,1A,1A
+
+[The first generation-life does not reduce]
+ON=43F32,4
+
+[The first generation-infinite money]
+ON=43F34,9F,86,1
+
+[The first generation-bomb does not reduce]
+ON=43F39,63
+
+[The first generation-术99]
+ON=43F2E,63
+
+[The first generation-Scroll99]
+ON=43F38,63
+
+[The first generation-Entire stage pro]
+ON=43F4E,63,63,63,63,62,63,63,63,63,63,63,63,63,63
+
+[The second  generation-Time does not reduce]
+ON=46FCE,63
+
+[The second  generation-Infinite money]
+ON=47140,F,27
+
+[The second  generation-Life does not reduce]
+ON=47152,63
+
+[The second  generation-Entire stage pro]
+ON=47142,5,5,3,3,3,3;4716C,A;4716E,A
+
+[The second  generation-Glitters invincibly]
+ON=47126,50
+
+[GameInfo]
+Name=1973 - 大盗伍佑卫门 1+2合辑 ACT
+System=GBA
+Text=GINO-2005-4-28 

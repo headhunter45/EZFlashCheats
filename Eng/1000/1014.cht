@@ -1,0 +1,22 @@
+[AB Lives]
+ON=427B1,32
+
+[AB Guided Missle]
+ON=427B4,32
+
+[OR Time]
+ON=427A8,0,17
+
+[SP Time]
+ON=4278C,0,E
+
+[SP Lives]
+ON=4278F,4
+
+[SU Time]
+ON=427A8,0,C
+
+[GameInfo]
+Name=1014 - Sega Arcade Gallery (E) 
+System=GBA
+Text=vicente

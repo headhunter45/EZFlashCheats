@@ -1,0 +1,31 @@
+[Infinite movement]
+ON=34BF1,99
+
+[Movement number]
+ON=34BFD,63
+
+[Water pipe all open]
+ON=34E24,FF
+
+[ Directly challenge Kubu]
+ON=34E27,1
+
+[Illustrated handbook of perfect person]
+ON=34E08,FF,FF,FF,FF,FF,FF,FF
+
+[Entire duty]
+ON=34E00,FF,FF,FF,FF,FF,FF,FF
+
+[Entire star duty]
+ON=34E14,FF,FF,FF,FF,FF,FF,1
+
+[Entre small game]
+ON=318B8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Purchasing points]
+ON=44410,3F,42,F
+
+[GameInfo]
+Name=1952 - Mario Party Advance (U)
+System=GBA
+Text=vicente 

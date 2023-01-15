@@ -1,0 +1,25 @@
+[Life]
+ON=E89A,0
+
+[Number of elements]
+ON=E899,9
+
+[Invisible]
+ON=F054,50
+
+[Collections]
+ON=E89C,E7,3
+
+[Capture mouse]
+ON=E8ED,1
+
+[Barriers all open]
+ON=F40,B
+
+[Banana]
+ON=EF10,63
+
+[GameInfo]
+Name=1852 - Garfield The Search For Pooky (E)£®º”∑∆√®-—∞’“≤∑ºß£©£®M4£©ACT 128
+System=GBA
+Text=vicente

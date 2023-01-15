@@ -1,0 +1,13 @@
+[All Weapons]
+ON=40A03,2,2,2,2,2,2
+
+[Bomb]
+ON=40A0E,3
+
+[Lives]
+ON=40A01,9
+
+[GameInfo]
+Name=1010 - Iridion II (E) 
+System=GBA
+Text=

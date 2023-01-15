@@ -1,0 +1,22 @@
+[Next Block]
+Blue Smiley=44DF0,1;44EEC,1
+White Skull=44DF0,2;44EEC,2
+Yello Smiley=44DF0,3;44EEC,3
+Red Cool=44DF0,4;44EEC,4
+Green Ugly=44DF0,5;44EEC,5
+Red Square/Block Head=44DF0,6;44EEC,6
+Green Frown=44DF0,7;44EEC,7
+Cow Head=44DF0,8;44EEC,8
+Grey Face=44DF0,9;44EEC,9
+Any Block=44DF0,A;44EEC,A
+
+[Score]
+ON=40E8C,FF,E0,F5,5
+
+[Lives]
+ON=40EA8,5
+
+[GameInfo]
+Name=0133 - Snood (U)
+System=GBA
+Text=

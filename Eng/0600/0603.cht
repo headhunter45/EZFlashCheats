@@ -1,0 +1,33 @@
+[Does not die]
+ON=2044a,1
+
+[Invincible]
+ON=2046a,63
+
+[Has the helmet and armor]
+ON=20463,66,ee
+
+[Infinite Jump]
+ON=214bc,00
+
+[Weapon choice]
+Flies the spear=214d3,0
+Flies the spear to change=214d3,1
+Flies the sword=214d3,2
+Flies the sword to change=214d3,3
+Arrow=214d3,4
+The arrow changes=214d3,5
+Inexpensive knife=214d3,6
+The inexpensive knife changes=214d3,7
+Flare=214d3,8
+The flare changes=214d3,9
+Axe=214d3,a
+The axe changes=214d3,b
+Strange sword=214d3,c
+Flies the sign=214d3,d
+I say the fist=214d3,e
+
+[GameInfo]
+Name=0603 - Super Ghouls'n Ghosts (U)
+System=GBA
+Text=0603 - Super Ghouls'n Ghosts (U)

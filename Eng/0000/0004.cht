@@ -1,0 +1,22 @@
+[Time]
+ON=445E8,00,00
+
+[HP]
+ON=44582,03
+
+[Wounded frequency]
+ON=4457E,0
+
+[Heart]
+ON=44582,3
+
+[MAX Heart]
+ON=44583,3
+
+[Time]
+ON=445E8,0,0
+
+[GameInfo]
+Name=0004 - Kuru Kuru Kururin (J)
+System=GBA
+Text=0004 - Kuru Kuru Kururin (J)

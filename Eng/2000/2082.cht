@@ -1,0 +1,34 @@
+[SS life]
+ON=3C0C,3
+
+[SS population]
+ON=3C08,63
+
+[SS Hamburg]
+ON=3C10,14
+
+[SS brush]
+ON=3C18,3
+
+[SS barriers all open]
+ON=3BF8,FF
+
+[JN population]
+ON=4150A,9
+
+[JN gold coin]
+ON=41502,E7,3
+
+[JN life ]
+ON=43925,1F
+
+[JN energy
+ON=43992,20
+
+[JN invisibility]
+ON=43986,FF
+
+[GameInfo]
+Name=2082 - 2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron - Boy Genius
+System=GBA
+Text=vicente

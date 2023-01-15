@@ -1,0 +1,19 @@
+[Touch Down]
+1=7E4,1
+4=7E4,4
+
+[Time Out]
+ON=7DA,32
+
+[Home Team Score]
+Min=208E,0
+Max=208E,63
+
+[Visitor Score]
+Min=21DE,0
+Max=21DE,63
+
+[GameInfo]
+Name=1131 - Madden NFL 2004 (U) 
+System=GBA
+Text=

@@ -1,0 +1,16 @@
+[Good shot]
+ON=152E6,0
+
+[Bad ball]
+ON=152E7,3
+
+[We score points]
+ON=7030,63
+
+[We leave office the population]
+ON=152E8,0
+
+[GameInfo]
+Name=0531 - Greatest Nine (J)
+System=GBA
+Text=0531 - Greatest Nine (J)

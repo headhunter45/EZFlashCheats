@@ -1,0 +1,16 @@
+[Money]
+ON=4190C,63
+
+[Lives]
+ON=41D60,63
+
+[Energy]
+ON=431DC,32
+
+[HP]
+ON=431DA,32
+
+[GameInfo]
+Name=1074 - Justice League - Injustice for All (E)
+System=GBA
+Text=

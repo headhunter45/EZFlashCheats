@@ -1,0 +1,19 @@
+[Life]
+ON=28BC,13
+
+[Bottle]
+ON=28B8,14
+
+[Perfume]
+ON=28B4,14
+
+[Disk]
+ON=28C8,3
+
+[closedopen all open]
+ON=3D70,FF
+
+[GameInfo]
+Name=1708 - That's So Raven (U)£¨Èç´ËÈðÎÄ£©£¨E£©ACT 64
+System=GBA
+Text=vicente

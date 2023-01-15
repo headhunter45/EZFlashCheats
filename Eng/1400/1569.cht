@@ -1,0 +1,25 @@
+[Invincibility]
+ON=226A8,64
+
+[HP does not reduce]
+ON=42802,28
+
+[SUPER MAX]
+ON=4280A,63
+
+[HIT MAX]
+ON=427F9,A
+
+[Score MAX]
+ON=42824,FF,E0,F5,5
+
+[Entire ability MAX]
+ON=4285E,7,7,7,7,7,7
+
+[Illustrated handbook of perfect person]
+ON=42829,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[GameInfo]
+Name=1569 - Astro Boy - Omega Factor (U)（铁臂阿童木-阿童木心之秘密）（M6）ACT 64
+System=GBA
+Text=大胖子 整理提供

@@ -1,0 +1,25 @@
+[ Skateboards time]
+ON=226C,FF
+
+[Casechange]
+1ºÅ=33C0,0
+2ºÅ=33C0,1
+3ºÅ=33C0,2
+4ºÅ=33C0,3
+
+[Wallpaperchange]
+1ºÅ=33C1,0
+2ºÅ=33C1,1
+3ºÅ=33C1,2
+4ºÅ=33C1,3
+
+[Ring Tonechange]
+1ºÅ=33C2,0
+2ºÅ=33C2,1
+3ºÅ=33C2,2
+4ºÅ=33C2,3
+
+[GameInfo]
+Name=2170 - Evergirl (U)
+System=GBA
+Text=vicente

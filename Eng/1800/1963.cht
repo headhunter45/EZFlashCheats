@@ -1,0 +1,19 @@
+[Money]
+ON=414A4,3F,42,F
+
+[Racing 1 entire fittings]
+ON=40B63,7,7,7,7,7,1F,7,1F,1F,1F,1F
+
+[Racing 1top-drawer fittings]
+ON=40B6E,3,3,3,3,3,5,3,5,5,5,5,3
+
+[Barrier all open]
+ON=401E2,1;401E5,1,1;401E8,1;401EA,1
+
+[Racing speed]
+ON=41E88,FF,D
+
+[GameInfo]
+Name=1963 - Tokyo Xtreme Racer Advance (U)
+System=GBA
+Text=vicente

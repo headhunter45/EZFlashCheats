@@ -1,0 +1,29 @@
+[Money]
+9999999=44354,0f,23,f4
+
+[Lives]
+99=4434e,63
+
+[Stats/Ability]
+ON=44358,ff,ff,ff,ff,ff,ff,ff,ff,ff,ff;44365,ff,ff,ff,ff,ff
+
+[HP]
+100=44298,64
+
+[Current HP]
+100=4429a,64
+
+[SP]
+ON=4429c,64
+
+[Current SP]
+ON=4429e,64
+
+[GP]
+ON=442a0,7
+
+[GameInfo]
+Name=1035 - Bouken Yuuki Pluster World Densetsu Pluston Gate (J)
+System=GBA
+Text=
+

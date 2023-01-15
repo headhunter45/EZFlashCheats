@@ -1,0 +1,46 @@
+[Current Cube/Block Down]
+Cube/Block A=42682,1
+Cube/Block B=42682,2
+Cube/Block C=42682,3
+Cube/Block D=42682,4
+Cube/Block E=42682,5
+
+[Current Cube/Block Up]
+Cube/Block A=42800,1
+Cube/Block B=42800,2
+Cube/Block C=42800,3
+Cube/Block D=42800,4
+Cube/Block E=42800,5
+
+[Next Cube/Block Down]
+Cube/Block A=428C0,1
+Cube/Block B=428C0,2
+Cube/Block C=428C0,3
+Cube/Block D=428C0,4
+Cube/Block E=428C0,5
+
+[Next Cube/Block Up]
+Cube/Block A=428D0,1
+Cube/Block B=428D0,2
+Cube/Block C=428D0,3
+Cube/Block D=428D0,4
+Cube/Block E=428D0,5
+
+[Next 2 Cube/Block Down]
+Cube/Block A=428E0,1
+Cube/Block B=428E0,2
+Cube/Block C=428E0,3
+Cube/Block D=428E0,4
+Cube/Block E=428E0,5
+
+[Next 2 Cube/Block Up]
+Cube/Block A=428F0,1
+Cube/Block B=428F0,2
+Cube/Block C=428F0,3
+Cube/Block D=428F0,4
+Cube/Block E=428F0,5
+
+[GameInfo]
+Name=0143 - Minna de Puyo Puyo (J)
+System=GBA
+Text=

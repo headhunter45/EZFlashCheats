@@ -1,0 +1,16 @@
+[Shovel fraction]
+ON=3C18,3
+
+[Bread number]
+ON=3C10,14
+
+[Blood]
+ON=3C0C,3
+
+[Number of elements]
+ON=3C08,9
+
+[GameInfo]
+Name=1367 - SpongeBob SquarePants - Battle for Bikini Bottom (E)（鲍勃斯邦奇-比基尼岛的冒险）（E）ACT 64
+System=GBA
+Text=大胖子 整理提供

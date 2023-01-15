@@ -1,0 +1,16 @@
+[Player HP]
+ON=45314,E7,3
+
+[Player Current HP]
+ON=45316,E7,3
+
+[Opponent HP]
+ON=45310,0,0
+
+[Opponent Current HP]
+ON=45312,2C,1
+
+[GameInfo]
+Name=1211 - Matantei Loki Ragnarok (J)
+System=GBA
+Text=

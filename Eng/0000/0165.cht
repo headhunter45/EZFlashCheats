@@ -1,0 +1,22 @@
+[Infinite HP]
+ON=66D0,64
+
+[HP]
+OK=022C,FF;022D,9B
+
+[Money]
+OK=0284,1C;0285,96;0286,98
+
+[Max Level After Battle]
+S=4E3C,99
+
+[One Hit Kill]
+OK=6850,01;6790,01;6910,01
+
+[Card Changing Gauge Max]
+ON=374F,40
+
+[GameInfo]
+Name=0165 - MegaMan Battle Network (U)
+System=GBA
+Text=

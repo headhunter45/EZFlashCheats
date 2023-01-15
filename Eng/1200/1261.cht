@@ -1,0 +1,19 @@
+[HP]
+ON=4408C,A
+
+[Vacumn Machine Energy]
+ON=4410B,1B
+
+[Coins]
+ON=4408C,A;4410B,1B;44118,99,9
+
+[Costume]
+Normal=44074,0;440FA,0,0
+Vacumn Machine=44074,1;440FA,1,1
+Adventure Suit=44074,2;440FA,2,2
+Little Pony=44074,3;440FA,3,3
+
+[GameInfo]
+Name=1261 - Disney's Magical Quest 2 Starring Mickey & Minnie (U)
+System=GBA
+Text=

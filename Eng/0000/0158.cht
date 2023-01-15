@@ -1,0 +1,16 @@
+[Bullet/Ammo]
+ON=4633E,63
+
+[HP]
+ON=4635A,4
+
+[Lives]
+ON=46310,9
+
+[Invisible]
+ON=45C0C,3C
+
+[GameInfo]
+Name=0158 - Lucky Luke - Wanted! (E)
+System=GBA
+Text=

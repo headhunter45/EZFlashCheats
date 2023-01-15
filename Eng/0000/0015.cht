@@ -1,0 +1,16 @@
+[1P No defeat]
+ON=13CD9,FF;13CDD,FF
+
+[Time ]
+ON=144F7,0
+
+[2PNo physical strength]
+ON=14061,0;14065,0;14083,0
+
+[Makes the character and use the score 999]
+ON=13EC4,E7,3
+
+[GameInfo]
+Name=0015 - Fire Pro Wrestling A (J)
+System=GBA
+Text=0015 - Fire Pro Wrestling A (J)

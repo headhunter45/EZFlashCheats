@@ -1,0 +1,72 @@
+[Select entire role]
+ON=443BB,1,1
+
+[Select the person]
+C29=44408,0
+VIX=44408,1
+TNT=44408,3
+ZIM=44408,4
+
+[Entire super energy trough]
+ON=44405,64
+OFF=0000,0
+
+[The First ball type]
+blue=44413,1
+yellow=44413,2
+green=44413,3
+orange=44413,4
+red=44413,5
+star=44413,6
+ice ball=44413,7
+time ball=44413,8
+swap ball=44413,A
+color swap ball=44413,B
+unbreakable ball=44413,C
+rainbow ball=44413,D
+bowling ball=44413,E
+earthquake ball=44413,F
+3X3X3 ball=44413,10
+same color vanish ball=44413,12
+energy bullet=44413,13
+energy rise ball=44413,15
+stone=44413,1D
+OFF=0000,0
+
+[The second ball type]
+blue=44414,1
+yellow=44414,2
+green=44414,3
+orange=44414,4
+red=44414,5
+star=44414,6
+ice ball=44414,7
+time ball=44414,8
+swap ball=44414,A
+color swap ball=44414,B
+unbreakable ball=44414,C
+rainbow ball=44414,D
+bowling ball=44414,E
+earthquake ball=44414,F
+3X3X3 ball=44414,10
+same color vanish ball=44414,12
+energy bullet=44414,13
+energy rise=44414,15
+stone=44414,1D
+OFF=0000,0
+
+[Save service]
+swap position=44D0C,1
+icy=44D0C,2
+color-swap=44D0C,3
+rainbow=44D0C,4
+bowling=44D0C,5
+energy bullet=44D0C,6
+same color vanish=44D0C,7
+3X3X3=44D0C,8
+earthquake=44D0C,9
+OFF=0000,0
+
+[GameInfo]
+Name=0826 - Super Bubble Pop (U) PUZ 32
+System=GBA

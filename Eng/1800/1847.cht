@@ -1,0 +1,25 @@
+[Life]
+ON=DEA,7
+
+[Life with an upper limit]
+ON=DE8,7
+
+[Invinsible]
+ON=2343E,1E
+
+[Entire stage pro]
+ON=E00,FF,FF
+
+[Entire skill]
+ON=DEF,FF,FF,FF,FF
+
+[Barriers all open]
+ON=E20,FF,FF,FF,FF,FF,FF,FF
+
+[Entire star]
+ON=E04,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1847 - Zettai Zetsumei Dangerous Jiisan 3 Hateshinaki Mamonogatari (J)（天才爷爷3-无尽的魔物语）（J）ACT 64
+System=GBA
+Text=vicente

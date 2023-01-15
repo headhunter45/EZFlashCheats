@@ -1,0 +1,19 @@
+[Weight of Legend of Fish]
+ON=46B5C,7F,96,98
+
+[Count for Fished Legend of Fish]
+ON=46B4E,E7,3
+
+[Other Fishes Weight]
+ON=46B50,7F,96,98;46B54,7F,96,98;46B58,7F,96,98
+
+[Count for Fished Other Fishes ]
+ON=46B48,E7,3,E7,3,E7,3
+
+[Display Total Weight]
+ON=4748,F,27
+
+[GameInfo]
+Name=1192 - Battle X Battle (J)
+System=GBA
+Text=

@@ -1,0 +1,16 @@
+[Time]
+ON=1A454,60,9
+
+[HP]
+ON=E924,96
+
+[Ammo]
+ON=43981,14
+
+[Money]
+ON=19EC4,10,27
+
+[GameInfo]
+Name=1275 - James Bond 007 Everything or Nothing (U)
+System=GBA
+Text=

@@ -1,0 +1,22 @@
+[Score]
+ON=D7D4,7F,96,98
+
+[Only Counts]
+ON=D7D0,63
+
+[Money]
+ON=D7D1,9
+
+[Health]
+ON=F36C,C
+
+[Mad]
+ON=D7D8,5
+
+[Stealth]
+ON=F3DC,C8
+
+[GameInfo]
+Name=0661 - Shrek - Hassle At The Castle (U)
+System=GBA
+Text=0661 - Shrek - Hassle At The Castle (U)

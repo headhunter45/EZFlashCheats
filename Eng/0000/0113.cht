@@ -1,0 +1,14 @@
+[LIVES]
+ON=4526C,5
+
+[STAMINA HEART??]
+ON=45220,3
+
+[INVISIBLE]
+OFF=4525E,0;4527B,0
+ON=4525E,39;4527B,1
+
+[GameInfo]
+Name=0113 - Klonoa - Empire of Dreams (U)
+System=GBA
+Text=

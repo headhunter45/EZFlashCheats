@@ -1,0 +1,19 @@
+[Lives]
+ON=4440C,9
+
+[Eggs]
+ON=443C8,63
+
+[Snail]
+ON=44408,63
+
+[5 Stars]
+ON=443D8,63
+
+[time]
+ON=4016E,63
+
+[GameInfo]
+Name=1149 - Gem Smasher (U)
+System=GBA
+Text=

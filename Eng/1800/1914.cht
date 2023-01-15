@@ -1,0 +1,31 @@
+[Do not meet the enemy]
+ON=29BE,0,0
+
+[Postwar money]
+ON=AEEC,FF,7F
+
+[Postwar BUG fragment]
+ON=AEEC,FE,FF
+
+[HP]
+ON=52E8,F,27
+
+[HP with an upper limit]
+ON=52EA,F,27
+
+[Physical strength in the fighting time ]
+ON=3B224,F,27
+
+[Energy in the fighting time]
+ON=35700,0,40
+
+[Invisibility in the fighting time]
+ON=38CB6,50
+
+[The enemy dies as soon as strikes in the fighting time]
+ON=3B2FC,0,0;3B3D4,0,0;3B4AC,0,0
+
+[GameInfo]
+Name=1914 - Rockman EXE 5 - Team of Colonel (J)（洛克人EXE5-上校队）（J）RPG 64
+System=GBA
+Text=vicente

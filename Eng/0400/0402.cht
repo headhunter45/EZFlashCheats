@@ -1,0 +1,25 @@
+[Time]
+ON=454E6,9,9,9
+
+[Money]
+ON=44303,63
+
+[Number of elements]
+ON=442C0,C8
+
+[Continuously ride the turtle (to ride turtle to be effective) 
+ON=43A37,1
+
+[Invisible]
+ON=44031,64
+
+[Condition]
+Mini Mario=44304,0
+Giant Mario=44304,1
+Cape Mario=44304,2
+Fireball Mario=44304,3
+
+[GameInfo]
+Name=0402 - Super Mario World (E)
+System=GBA
+Text=By MODaWii - OptimisticPessimist

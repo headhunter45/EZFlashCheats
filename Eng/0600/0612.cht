@@ -1,0 +1,77 @@
+[The biggest value ] 
+Biggest=18543,FF;18545,FF;18547,FF;18549,FF;1854B,FF;1854D,FF 
+ 
+[Highest-level ]
+OK=1877C,FF 
+
+[The biggest EXP] 
+OK=18799,FF 
+
+[Money] 
+OK=1879C,1C,96,98
+
+[Leading role HP]
+ON=1854E,E7,03
+
+[Leading role MP] 
+ON=18550,E7,03
+
+[Infinite red heart quantity]
+ON=18794,FF
+
+[Invincibility]
+ON=0048c,0d
+
+[All stage properties]
+ON=187A0,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[All magic books]
+ON=1883E,FF
+
+[Alone with attack stage pro]
+Dagger=1877E,01
+Axe=1877E,02
+Cross=1877E,03
+Blue medical bottle=1877E,04
+Holy book=1877E,05
+knuckle =1877E,06
+shurikien =1877E,07
+
+[Completing the game time is zero]
+ON=00088,00
+
+[Entire whips]
+ON=187bC,FF,FF
+
+[Full magic list]
+ON=1883F,FF,FF
+
+[The enemy's information]
+ON=18854,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Sercet information]
+ON=18843,FF,FF,FF,FF
+
+[Condition]
+Normal =1852E,00
+Poisoned =1852E,01
+Cursed 1 =1852E,02
+Cursed 2 =1852E,03
+Petrified 1 =1852E,04
+Petrified 2 =1852E,05
+Petrified 3 =1852E,06
+Petrified 4 =1852E,07
+
+[Fast upgrade]
+Method 1 =1878C,FF
+Method 2 =1878D,FF;1878C,FF
+Method 3 =1878E,FF;1878D,FF;1878C,FF
+
+[Walking speed]
+Normal =18533,00
+Slow =18533,01
+
+[GameInfo]
+Name=0612 - Castlevania - Harmony Of Dissonance (U)（恶魔城-白夜协奏曲）（E）A·RPG 64
+System=GBA
+Text=大胖子 整理提供

@@ -1,0 +1,16 @@
+[Bones]
+ON=40794,1E
+
+[Invincible]
+ON=4078F,8
+
+[Lives]
+ON=4076B,9
+
+[Stick]
+ON=40790,1;40A3C,1
+
+[GameInfo]
+Name=1001 - Tom and Jerry in Infurnal Escape (E) 
+System=GBA
+Text=

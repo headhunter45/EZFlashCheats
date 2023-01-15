@@ -1,0 +1,19 @@
+[Money]
+ON=34A50,9F,86,1
+
+[First Beetle HP]
+ON=33B26,8C,C
+
+[First Beetle Current HP]
+ON=33B24,8C,C
+
+[First Beetle Max Stats]
+ON=33B28,8C,C,8C,C,8C,C
+
+[First Beetle Experience]
+ON=33B2E,63
+
+[GameInfo]
+Name=1090 - Boku No Kuwagata 3 (J) 
+System=GBA
+Text=

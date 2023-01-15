@@ -1,0 +1,13 @@
+[The first barrier life]
+ON=44C48,0
+
+[The first barrier time]
+ON=44D8E,0,0
+
+[Barrier all open]
+ON=410A0,9
+
+[GameInfo]
+Name=2294 - La famille Delajungle, le film (F)
+System=GBA
+Text=vicente 

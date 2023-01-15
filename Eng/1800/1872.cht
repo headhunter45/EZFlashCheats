@@ -1,0 +1,25 @@
+[Physical strength does not reduce]
+ON=405CD,A
+
+[Life does not reduce]
+ON=405CA,A
+
+[Invisible]
+ON=40594,9
+
+[Apple does not reduce]
+ON=405CF,99
+
+[Emerald]
+ON=405D1,99
+
+[Ruby]
+ON=405E0,A
+
+[Diamond]
+ON=405D1,99
+
+[GameInfo]
+Name=1872 - Disney's Aladdin (U)£¨µÏË¹Äá-°¢À­¶¡£©£¨M4£©ACT 32
+System=GBA
+Text=HOTSUMA

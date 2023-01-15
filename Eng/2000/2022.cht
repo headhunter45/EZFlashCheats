@@ -1,0 +1,16 @@
+[Population]
+ON=40408,E7,3
+
+[Gole coin]
+ON=403E8,FF
+
+[Barrier all all open]
+ON=403EA,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire Painted eggshell]
+ON=403F7,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=2022 - Yoshi Topsy Turvy (U)
+System=GBA
+Text=vicente 

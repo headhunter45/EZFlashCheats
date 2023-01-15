@@ -1,0 +1,28 @@
+[Money]
+ON=3EA4,3F,42,F
+
+[Skill points]
+ON=30E26,e7,03
+
+[STR]
+ON=30E1C,E7,3
+
+[DEX]
+ON=30E1E,E7,3
+
+[INT]
+ON=30E20,E7,3
+
+[VIT]
+ON=30E22,E7,3
+
+[Entire attribute]
+ON=30EF8,7;30EFC,7;30F00,7;30F04,7;30F08,7;30F0C,7;30F10,7;30F14,7
+
+[Attribute points]
+ON=30EF4,63
+
+[GameInfo]
+Name=1407 - Shining Soul 2 (E)（光明之魂2）（E）RPG 128
+System=GBA
+Text=大胖子 整理提供

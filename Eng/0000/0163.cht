@@ -1,0 +1,22 @@
+[Lives]
+ON=41800,63
+
+[HP]
+ON=41C60,0E
+
+[Invincible]
+ON=43808,00
+
+[Money]
+ON=4184C,E7,03
+
+[Flag]
+ON=45770,63
+
+[Glove]
+ON=436E0,63
+
+[GameInfo]
+Name=0163 - Kao The Kangaroo (U)
+System=GBA
+Text=

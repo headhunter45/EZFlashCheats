@@ -1,0 +1,76 @@
+[Barbarian HP]
+ON=153A,E7,3
+
+[Barbarian MP]
+ON=153E,E7,3
+
+[Barbarian Exp]
+ON=1534,1
+
+[Barbarian max HP]
+ON=153C,E7,3
+
+[Barbarian AP]
+ON=1542,E7,3
+
+[Barbarian DP]
+ON=1544,E7,3
+
+[Barbarian SP]
+ON=1546,E7,3
+
+[Silver Exp]
+ON=15AC,1
+
+[Silver time MP]
+ON=15B6,E7,3
+
+[Silver time HP]
+ON=15B2,E7,3
+
+[Silver time max HP]
+ON=15B4,E7,3
+
+[Silver time AP]
+ON=15BA,E7,3
+
+[Silver time DP]
+ON=15BC,E7,3
+
+[Silver timemax MP]
+ON=15B8,E7,3
+
+[Silver time SP]
+ON=15BE,E7,3
+
+[Barbarian max MP]
+ON=1540,E7,3
+
+[Gentleman Exp]
+ON=178C,1
+
+[Gentleman MP]
+ON=1796,E7,3
+
+[Gentleman max HP]
+ON=1794,E7,3
+
+[Gentleman HP]
+ON=1792,E7,3
+
+[Gentleman AP]
+ON=179A,E7,3
+
+[Gentleman DP]
+ON=179C,E7,3
+
+[Gentleman SP]
+ON=179E,E7,3
+
+[Gentleman max MP]
+ON=1798,E7,3
+
+[GameInfo]
+Name=1030 - GetBackers Dakkanya - Metropolis Dakkan Sakusen! (J)
+System=GBA
+Text=1030 - GetBackers Dakkanya - Metropolis Dakkan Sakusen! (J)

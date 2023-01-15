@@ -1,0 +1,31 @@
+[A magic weapon]
+Green Shell=44092,0,10
+Triple Green Shell=44092,1,10
+Red Shell=44092,2,10
+Triple Red Shell=44092,3,10
+Spiked Shell=44092,4,10
+Banana Skin=44092,5,10
+Mushroom=44092,7,10
+Star=44092,A,10
+Ghost=44092,B,10
+Lightning Bolt=44092,C,10
+
+[Invincibility]
+ON=43F83,1
+
+[Gold coin]
+ON=44090,63
+
+[Invincibility]
+ON=43F82,63,1
+
+[Fast pass]
+ON=43FA9,83
+
+[Three star comment+Entire racetrack]
+ON=32BA8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[GameInfo]
+Name=0071 - Mario Kart Advance (J)
+System=GBA
+Text=0071 - Mario Kart Advance (J)

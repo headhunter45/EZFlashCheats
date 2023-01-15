@@ -1,0 +1,50 @@
+[Select Player]
+rick=7191,8
+fokker=7191,0
+max=7191,10
+miyira=7191,18
+ben=7191,20
+? 1=7191,28
+? 2=7191,30
+? 3=7191,38
+? 4=7191,40
+? 5=7191,48
+? 6=7191,50
+
+[Stealth]
+ON=70D2,48
+
+[Fast prize life]
+ON=71A0,F,27
+
+[Thunder]
+ON=6F4A,28
+
+[Exp]
+ON=634C,9F,86,1
+
+[Power]
+ON=6368,3
+
+[Stamina]
+ON=6369,3
+
+[Strength]
+ON=636A,3
+
+[Speed]
+ON=636B,3
+
+[Piloting]
+ON=636C,3
+
+[Health]
+ON=6355,C8
+
+[Weapon duration]
+ON=6F26,C
+
+[GameInfo]
+Name=0671 - Robotech - The Macross Saga (U)
+System=GBA
+Text=0671 - Robotech - The Macross Saga (U)

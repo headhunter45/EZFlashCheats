@@ -1,0 +1,13 @@
+[Game Time]
+ON=4390C,3B;4390E,9
+
+[Time for Fetching Customer]
+ON=43908,3B;4390A,9
+
+[Money]
+ON=43900,7F,96,98
+
+[GameInfo]
+Name=1174 - The Simpsons - Road Rage (E)
+System=GBA
+Text=

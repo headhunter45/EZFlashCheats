@@ -1,0 +1,13 @@
+[HP]
+ON=45CBE,4
+
+[Bomb]
+ON=45D02,5
+
+[Lives]
+ON=45CBB,9
+
+[GameInfo]
+Name=0149 - Phalanx (J)
+System=GBA
+Text=

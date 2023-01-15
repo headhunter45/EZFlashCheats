@@ -1,0 +1,487 @@
+[Actor Max Stats]
+ON=3182,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27
+
+[Leading Lady Max Stats]
+ON=31BE,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27
+
+[Character 3 Max Stats]
+ON=31BE,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27;31FA,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27
+
+[Character 4 Max Stats]
+ON=31BE,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27;31FA,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27;3236,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27
+
+[Inf Money]
+ON=31BE,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27;31FA,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27;3236,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27,F,27;3258,7F,96,98
+
+[All Stage Props]
+ON=3B86,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99
+
+[Stage prop:HP Reply 30%]
+ON=3B8F,FF
+
+[Stage prop:TP Reply 30%]
+ON=3B96,FF
+
+[Stage prop:HP Reply 60%]
+ON=3BD8,FF
+
+[Stage prop:TP Reply 60%]
+ON=3BBC,FF
+
+[Stage prop: The condition exceptionally relieves,HP TP Reply 10%]
+ON=3BB6,FF
+
+[Stage prop:HP TP Reply 30%]
+ON=3BD1,FF
+
+[Stage prop:HP TP Reply 60%]
+ON=3BD2,FF
+
+[Stage prop:HP TP Reply 60% Paralysis]
+ON=3BC3,FF
+
+[Stage prop:HP TPReplies Completely]
+ON=3B93,FF
+
+[Stage prop: Relieves Abnormal State]
+ON=3BBE,FF
+
+[Stage prop: Water of life, Reactivating]
+ON=3BD4,FF
+
+[Stage prop: The Enemy is Unable to Move Temp]
+ON=3B8F,FF
+
+[Stage prop: The inconceivable mirror, knows the enemy situation]
+ON=3BAA,FF
+
+[Stage prop: Is loaded with bottle which the saint was mad, reduces meets the enemy rate]
+ON=3BCB,FF
+
+[Stage prop: Is loaded with the perverse trend bottle, the promotion meets the enemy rate]
+ON=3BAE,FF
+
+[Stage prop: May carry on the replacement in the labyrinth]
+ON=3BC9,FF
+
+[Stage prop: The shovel, may destroy the rock]
+ON=3BB3,FF
+
+[Food:?1(Whole staffHPReply3%?]
+ON=3BC8,FF
+
+[Food: Cheese, whole staffHPReply3%]
+ON=3BB1,FF
+
+[Food:?2(Whole staffHPReply3%?]
+ON=3BAF,FF
+
+[Food:?3(Whole staffHPReply3%?]
+ON=3BB5,FF
+
+[Food:?4(Whole staffHPReply3%?]
+ON=3BBA,FF
+
+[Food?5(Whole staffHPReply3% ?]
+ON=3BCD,FF
+
+[Food:?6(Whole staffHPReply3%?]
+ON=3BD3,FF
+
+[Food: Onion (whole staffTPReply3%?]
+ON=3BB0,FF
+
+[Food:?1(Whole staffTPReply3%?]
+ON=3BD8,FF
+
+[Food:?2(Whole staffTPReply3%?]
+ON=3B90,FF
+
+[Food: Tomato (whole staffTPReply3%?]
+ON=3BB7,FF
+
+[Food:?3(Whole staffTPReply3%?]
+ON=3BBD,FF
+
+[Food:? (HPReply10%The abnormal state relieves)]
+ON=3BCC,FF
+
+[Food: Food group (whole staffHPReply40%?]
+ON=3B96,FF
+
+[Food: Simple and luxurious thing (whole staffHPReply60%?]
+ON=3BB4,FF
+
+[Food: Curried rice (whole staffHPReply80%?]
+ON=3B9A,FF
+
+[Food:? (The whole staff abnormal state relieves,HPReply80%?]
+ON=3BCD,FF
+
+[Food: Is made (the whole staff by the ketchupTPReply30%?]
+ON=3BBA,FF
+
+[Food: Italian powder (whole staffTPReply40%?]
+ON=3B9A,FF
+
+[Food: The cheese and the white juice sauce make (the whole staffTPReply50%?]
+ON=3B9F,FF
+
+[Food: Hamburg (whole staffHP?TPReply20%?]
+ON=3BC0,FF
+
+[Food: Sandwich (whole staffHP?TPReply30%?]
+ON=3BB3,FF
+
+[Food: Makes the lunch suitably the material (whole staffHP?TPReply35%?]
+ON=3BA5,FF
+
+[Food: May use for the material which self-defenses (whole staffHP?TPReply40%?]
+ON=3BC4,FF
+
+[Food: The novice cautious uses material (HP?TPReply60%Paralysis)]
+ON=3BB8,FF
+
+[Food:? (The whole staff lulls)]
+ON=3BA2,FF
+
+[Clothing source material: Arab League QiROOTS]
+ON=3B8D,FF
+
+[Clothing source material: Filley YaROOTS]
+ON=3B90,FF
+
+[Clothing source material: Reaches AwesROOTS]
+ON=3B95,FF
+
+[Clothing source material: KielROOTS]
+ON=3BA0,FF
+
+[Clothing source material: Five LordROOTS]
+ON=3BA9,FF
+
+[Clothing source material: Fears the storehouse to be gracefulROOTS]
+ON=3BB2,FF
+
+[Clothing source material: The var repairs forcesROOTS]
+ON=3BB7,FF
+
+[Clothing source material: BellROOTS]
+ON=3BBB,FF
+
+[Clothing source material: LiederROOTS]
+ON=3BD5,FF
+
+[Clothing source material: Assists NepalROOTS]
+ON=3BD6,FF
+
+[Clothing source material: Exactly especiallyROOTS]
+ON=3B8D,FF
+
+[Clothing source material: KressROOTS]
+ON=3B92,FF
+
+[Clothing source material: Cuts Si TaROOTS]
+ON=3B94,FF
+
+[Clothing source material: MaryROOTS]
+ON=3B9D,FF
+
+[Clothing source material: Cuts your alizarin redROOTS]
+ON=3BA0,FF
+
+[Clothing source material: LyonsROOTS]
+ON=3BA8,FF
+
+[Clothing source material: Sensitive especiallyROOTS]
+ON=3BA9,FF
+
+[Clothing source material: RaceROOTS]
+ON=3BAD,FF
+
+[Clothing source material: Storehouse RussROOTS]
+ON=3BBB,FF
+
+[Clothing source material: Fills SuesROOTS]
+ON=3BC6,FF
+
+[Clothing source material: Plum you peduncleROOTS]
+ON=3BCA,FF
+
+[Clothing source material: Si RenROOTS]
+ON=3BCF,FF
+
+[Clothing source material: Huo GuROOTS]
+ON=3BD0,FF
+
+[Clothing source material: FaradROOTS]
+ON=3BD4,FF
+
+[Clothing source material: Dew peduncleROOTS]
+ON=3BD9,FF
+
+[Clothing source material: SpecialROOTSNeeds and the masculine magician unifies]
+ON=3BA3,FF
+
+[Clothing source material: SpecialROOTSNeeds and the masculine geological scholar unifies]
+ON=3BB9,FF
+
+[Clothing source material: SpecialROOTSNeeds and the feminine strange chef unifies]
+ON=3BCF,FF
+
+[Clothing source material: SpecialROOTSNeeds to unify with the strange chef]
+ON=3B8E,FF
+
+[Clothing source material: SpecialROOTSNeeds and the female nature of a medicine military union]
+ON=3B9C,FF
+
+[Clothing source material: SpecialROOTSNeeds and the feminine inventor unifies]
+ON=3BCE,FF
+
+[Clothing source material: PastorROOTS]
+ON=3B9C,FF
+
+[Clothing source material: EnduringROOTS]
+ON=3B9E,FF
+
+[Clothing source material: WrestleROOTS]
+ON=3BA2,FF
+
+[Clothing source material: Sword gentlemanROOTS]
+ON=3BAA,FF
+
+[Clothing source material: Dance professional female entertainerROOTS]
+ON=3BB1,FF
+
+[Clothing source material: Cat personROOTS]
+ON=3BBC,FF
+
+[Clothing source material: ModelROOTS]
+ON=3BC1,FF
+
+[Clothing source material: Replacement masterROOTS]
+ON=3BC2,FF
+
+[Clothing source material: MagicianROOTS]
+ON=3BD9,FF
+
+[Clothing source material: AkaROOTS]
+ON=3BDA,FF
+
+[Clothing source material: Bandits and thievesROOTS]
+ON=3B97,FF
+
+[Clothing source material: MerchantROOTS]
+ON=3B98,FF
+
+[Clothing source material: MusicianROOTS]
+ON=3B9B,FF
+
+[Clothing source material: ScholarROOTS]
+ON=3BA6,FF
+
+[Clothing source material: Play masterROOTS]
+ON=3BA7,FF
+
+[Clothing source material: DoctorROOTS]
+ON=3BB2,FF
+
+[Clothing source material: GamblerROOTS]
+ON=3BB8,FF
+
+[Clothing source material: TouristROOTS]
+ON=3BBE,FF
+
+[Clothing source material: Strange chefROOTS]
+ON=3BC4,FF
+
+[Clothing source material: Yellow spar (manufacture attribute clothing)]
+ON=3B9B,FF
+
+[Clothing source material: Purple spar (manufacture thunder attribute clothing)]
+ON=3BA7,FF
+
+[Clothing source material: Blue spar (manufacture water attribute clothing)]
+ON=3BAC,FF
+
+[Clothing source material: The red spar (system catches fire attribute clothing)]
+ON=3BAD,FF
+
+[Clothing source material: Rhaetizite (manufacture light attribute clothing)]
+ON=3BBD,FF
+
+[Clothing source material: The black spar (manufactures dark attribute clothing)]
+ON=3BA3,FF
+
+[Clothing source material: The green spar (refers to attitude attribute clothing)]
+ON=3BD6,FF
+
+[Clothing source material: Iron ore (manufacture element attribute clothing)]
+ON=3BB5,FF
+
+[Clothing source material: The next bit attribute transforms into on bit attribute]
+ON=3B98,FF
+
+[Clothing source material: The black crystal fragment (strengthens clothing largely)]
+ON=3BA8,FF
+
+[Clothing source material: Strengthens the clothing largely]
+ON=3B9D,FF
+
+[Clothing source material: The antique (strengthens clothing largely)]
+ON=3BA4,FF
+
+[Clothing source material: Is manufacturing the stage prop procedure books]
+ON=3BAE,FF
+
+[Clothing source material: The knife sends out the blue light the evil spirit sword]
+ON=3B91,FF
+
+[Clothing source material: Sword of the fable]
+ON=3B92,FF
+
+[Clothing source material: Also thin long watching uses the evergreen plant]
+ON=3B97,FF
+
+[Clothing source material: Small bulb]
+ON=3B99,FF
+
+[Clothing source material: The growth uses the evergreen plant in crag quarry watching]
+ON=3BA4,FF
+
+[Clothing source material: Floret grows which in the mountains and plains]
+ON=3BAB,FF
+
+[Clothing source material: But the high price sells gem]
+ON=3BAF,FF
+
+[Clothing source material: Has the archaeology value also the puppet which welcome]
+ON=3BBF,FF
+
+[Clothing source material: Panda cloth doll]
+ON=3BC0,FF
+
+[Clothing source material: Leaf trace deep watching uses the evergreen plant]
+ON=3BCC,FF
+
+[Clothing source material: Rabbit cloth puppet]
+ON=3B91,FF
+
+[Clothing source material: Fruit fill powder watching uses the evergreen plant]
+ON=3B95,FF
+
+[Clothing source material: Lava cooling forms stone]
+ON=3B99,FF
+
+[Clothing source material: Cloth bear]
+ON=3B9E,FF
+
+[Clothing source material: The famous teacher makes steel knife]
+ON=3B9F,FF
+
+[Clothing source material: Some three piece of leaf's weeds]
+ON=3BA1,FF
+
+[Clothing source material: Take takes a life as the goal existence evil spirit sword]
+ON=3BAB,FF
+
+[Clothing source material: Mystical sparkling knife]
+ON=3BAC,FF
+
+[Clothing source material: Cleans brush which the deck uses]
+ON=3BB4,FF
+
+[Clothing source material: Serves as the clothing dye the flower]
+ON=3BB6,FF
+
+[Clothing source material: The knight equips military sword]
+ON=3BB9,FF
+
+[Clothing source material: The sword blade has the flame sword]
+ON=3BC5,FF
+
+[Clothing source material: Brings seven vice-knife thunder swords]
+ON=3BCB,FF
+
+[Accessories: Charm amulet, defensive power rise10%]
+ON=3BB0,FF
+
+[Accessories: Charm amulet, defensive power rise20%]
+ON=3BC7,FF
+
+[Accessories: The charm amulet, prevents poisonously, feeble]
+ON=3BCA,FF
+
+[Accessories: The charm amulet, prevents paralysis]
+ON=3BBF,FF
+
+[Accessories: Gem,HPUpper limit increase30%]
+ON=3BC5,FF
+
+[Accessories: Gem,TPUpper limit increase30%]
+ON=3BD2,FF
+
+[Accessories: Coat of arms, striking power rise10%]
+ON=3BC2,FF
+
+[Accessories: The mystical coat of arms, chants the time decay]
+ON=3BD1,FF
+
+[Accessories: Refers to the wheel,TPExpense reduction1/3]
+ON=3B93,FF
+
+[Accessories: Refers to the wheel,TPAccording to each time1%Replies unceasingly]
+ON=3BD3,FF
+
+[Accessories: Inscribes the spirit likely to refer to the wheel,TPExpense reduction1/2]
+ON=3BC3,FF
+
+[Accessories: Inscribes the war-god likely to refer to the wheel, reduces the element attribute injury]
+ON=3BC8,FF
+
+[Accessories: Inscribes the goddess likely to refer to the wheel, reduces the dark attribute injury]
+ON=3BD7,FF
+
+[Accessories: The substitute person statue, from the fight cannot automatically condition reactivating]
+ON=3BD5,FF
+
+[Accessories: Reduces the light water attribute injury, prevented freezes the injury]
+ON=3B8E,FF
+
+[Accessories: Reduces the distant thunder attribute injury]
+ON=3BA5,FF
+
+[Accessories: The reduced ice attribute injury, prevented freezes the injury]
+ON=3BC6,FF
+
+[Accessories: Reduces the fire attribute injury, prevents the blazing injury]
+ON=3BC7,FF
+
+[Accessories: Cloth system cape, promotion little defensive power]
+ON=3BD0,FF
+
+[Accessories: Skin system cape, promotion little defensive power]
+ON=3BD7,FF
+
+[Accessories: Facile boots (when fight traveling speed rise)]
+ON=3B94,FF
+
+[Accessories: Shoes of the coercion (when fight traveling speed rise)]
+ON=3BA6,FF
+
+[Accessories: Cat foot shoes, defensive power rise30%]
+ON=3BC9,FF
+
+[Accessories: Prevents all abnormal states]
+ON=3BA1,FF
+
+[Accessories: Stupor time halving]
+ON=3BC1,FF
+
+[Accessories: The promotion escapes the speed]
+ON=3BCE,FF
+
+[GameInfo]
+Name=0689 - Tales of the World - Narikiri Dungeon 2 (J)
+System=GBA
+Text=0689 - Tales of the World - Narikiri Dungeon 2 (J)

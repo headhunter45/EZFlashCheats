@@ -1,0 +1,19 @@
+[The first barrier life]
+ON=D98E,3
+
+[The first barrier population]
+ON=D990,63
+
+[The first barrier energy]
+ON=D99C,0,10
+
+[The first barrier integral]
+ON=D94C,3F,42,F
+
+[Trainning barrier all open]
+ON=47680,FF
+
+[GameInfo]
+Name=2277 - Heidi: The Game (E)
+System=GBA
+Text=vicente 

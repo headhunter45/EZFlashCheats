@@ -1,0 +1,62 @@
+[Time]
+ON=DA38,9;DA48,59
+
+[P1 Life]
+MAX=8FCD,44
+0=8FCD,0
+
+[P1 Physical strength]
+MAX=8FCF,44
+0=8FCF,0
+
+[P2 life ]
+MAX=B51D,44
+0=B51D,0
+
+[P2 Physical strength]
+MAX=B51F,44
+0=B51F,0
+
+[Player blood]
+Max HP=8FCC,0,44
+Min HP=8FCC,0,0
+
+[Player strength]
+Max Strength=8FCE,0,44
+Min Strength=8FCE,0,0
+
+[Player2/Computer blood]
+Max HP=B51C,0,44
+Min HP=B51C,0,0
+
+[Player2/Computer strength]
+Max Strength=B51E,0,44
+Min Strength=B51E,0,0
+
+[Player RUMBLE Gauge]
+Full=D9CC,6,0
+Empty=D9CC,0,0
+
+[Player2/Computer RUMBLE Gauge]
+Full=DA08,6,0
+Empty=DA08,0,0
+
+[Infinite time]
+ON=DA48,59,0
+
+[Championship Speed100]
+ON=9414,64
+
+[Championship Strength100]
+ON=943C,64
+
+[Championship Stamina100]
+ON=9450,64
+
+[Championship Infinite money]
+ON=9458,7F,96,98
+
+[GameInfo]
+Name=0044 - Ready 2 Rumble - Round 2 (E)
+System=GBA
+Text=0044 - Ready 2 Rumble - Round 2 (E)

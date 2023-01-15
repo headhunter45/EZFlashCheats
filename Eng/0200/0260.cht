@@ -1,0 +1,116 @@
+[Time mode]
+60 seconds=43FD7,0
+90 seconds=43FD7,1
+120 seconds=43FD7,2
+∞=43FD7,3
+
+[Game difficulty]
+VERY EASY=43FD6,0
+EASY=43FD6,1
+NAMAL=43FD6,2
+HARD=43FD6,3
+STRONG=43FD6,4
+
+[Way of round]
+1st round=43FD8,0
+3rd round=43FD8,1
+5th round=43FD8,2
+
+[Location choice]
+area 1=43FD5,1
+area 2=43FD5,2
+area 3=43FD5,3
+area 4=43FD5,C
+area 5=43FD5,4
+area 6=43FD5,5
+area 7=43FD5,D
+area 8=43FD5,6
+area 9=43FD5,E
+area 10=43FD5,9
+area 11=43FD5,F
+area 12=43FD5,B
+area 13=43FD5,0
+
+[Have all sure-kill technique]
+ON=44044,1F,17,17,17,17
+
+[Ebable All character case]
+ON=44040,FF,FF,FF,FF
+
+[Enable Hidden Option]
+ON=44038,FF,1,FF,FF;4403F,FF;
+
+[P1 Character choice]
+RECCA（花菱 烈火）=43FD1,0
+DOMON（石岛 土门）=43FD1,1
+FUKO（雾泽 风子）=43FD1,2
+MIKAGAMI（水镜 冻季也）=43FD1,3
+KOGANEI（小金井 薰）=43FD1,4
+*CREY（红丽）=43FD1,5
+*RENGE（炼华）=43FD1,6
+*HIRUKO（蛭湖）=43FD1,7
+*KADOTSU（门都）=43FD1,8
+
+[P1Physical strength value ]
+Full =43FF1,64
+Zero =43FF1,0
+
+[P1 Energy value]
+Full =43FF9,64
+Zero=43FF9,0
+
+[P2 Character choice]
+RECCA（花菱 烈火）=43FD2,0
+DOMON（石岛 土门）=43FD2,1
+FUKO（雾泽 风子）=43FD2,2
+MIKAGAMI（水镜 冻季也）=43FD2,3
+KOGANEI（小金井 薰）=43FD2,4
+*CREY（红丽）=43FD2,5
+*RENGE（炼华）=43FD2,6
+*HIRUKO（蛭湖）=43FD2,7
+*KADOTSU（门都）=43FD2,8
+
+[P2 Physical strength value]
+Full =43FF5,64
+Zero =43FF5,0
+
+[P2 Energy value]
+Full =43FFD,64
+Zero =43FFD,0
+
+[GameInfo]
+Name=0260 - Flame of Recca (J)（烈火之炎）（J）FTG 64
+System=GBA
+Text=mxlee
+-----------------------------------------------------
+[Physical strength of our side]
+ON=43FF1,64
+
+[Our side tolerance]
+ON=43FF9,64
+
+[Physical strength of opposite side ]
+ON=43FF5,0
+
+[Opposite side energy]
+ON=43FFD,0
+
+[allow use of sure-kill technique]
+ON=44044,FF,FF,FF,FF,FF
+
+[Have all character]
+ON=44038,FF,FF
+
+[Entire fighting map]
+ON=4403A,FF,FF
+
+[The survival pattern open]
+ON=4403F,1
+
+[Perfect person material]
+ON=44040,FF,FF,FF,FF
+
+[GameInfo]
+Name=0260 - Flame of Recca (J)（烈火之炎）（J）FTG 64
+System=GBA
+Text=vicente

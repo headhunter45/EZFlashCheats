@@ -1,0 +1,24 @@
+[Does not reduce blood]
+ON=45450,6
+
+[Completely invincibility goes through]
+ON=4540C,0
+
+[Rotative speed]
+Normal=4543E,B6,0
+doesn't turn=4543E,0,0
+very slow=4543E,2D,0
+slow=4543E,5B,0
+fast=4543E,CF,1
+very fast=4543E,E7,3
+extremely fast=4543E,F,6
+
+[The entire miniature game (only corresponds first fence recording)] 
+ON=3C832,FF,FF
+
+[Freely choice entire page layout (only corresponds first fence recording)] 
+ON=3C9AA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;3C9BA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0;3C9CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[GameInfo]
+Name=0847 - Kururin Paradise (J£©PUZ 64
+System=GBA

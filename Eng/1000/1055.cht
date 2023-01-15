@@ -1,0 +1,10 @@
+[Invincible]
+ON=300133c,1
+
+[Infinite Lives]
+ON=3000fc8,63
+
+[GameInfo]
+Name=1055 - Donkey Kong Country (U) 
+System=GBA
+Text=

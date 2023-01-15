@@ -1,0 +1,29 @@
+[Time]
+ON=170E,63
+
+[HP]
+ON=37BC2,64
+
+[Lives]
+ON=16AD,9
+
+[Invisible]
+ON=37BBE,FF
+
+[Weapon On Hand]
+Bare Hand=37BA2,0
+Dagger=37BA2,10
+Stick=37BA2,11
+Whip=37BA2,12
+Dynamite=37BA2,13
+Morning Star=37BA2,14
+Axe=37BA2,15
+Metal Barrel=37BA2,20
+Stone=37BA2,21
+Short Stick=37BA2,30
+Nunchuck=37BA2,40
+
+[GameInfo]
+Name=1266 - Double Dragon Advance (U)
+System=GBA
+Text=

@@ -1,0 +1,19 @@
+[Player HP]
+ON=3ba2e,E7,3
+
+[Player N]
+ON=3ba32,E7,3
+
+[Enemy HP]
+ON=3be9e,0,0
+
+[Enemy EN]
+ON=3bea2,0,0
+
+[Max Money]
+ON=3eedc,E7,3
+
+[GameInfo]
+Name=1127 - Cyberdrive Zoids (J) 
+System=GBA
+Text=

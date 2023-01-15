@@ -1,0 +1,19 @@
+[Time]
+ON=459C8,0,0
+
+[Points]
+ON=904,FF,E0,F5,5
+
+[Entire racing]
+ON=A7D,FF
+
+[The free pattern barrier all open]
+ON=A70,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[The league matches pattern barrier all open]
+ON=CA1,F,F,F,14,F
+
+[GameInfo]
+Name=1775 - Need for Speed Underground 2 (U)（极品飞车-地下狂飙2）（M4） RCG 64
+System=GBA
+Text=vicente

@@ -1,0 +1,13 @@
+[All Stages]
+ON=41780,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[All Race Cars]
+ON=417A0,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[All Parts]
+ON=41CF0,7F;41CF2,7F
+
+[GameInfo]
+Name=1040 - GT Advanced 3 Pro Concept Racing (E) 
+System=GBA
+Text=

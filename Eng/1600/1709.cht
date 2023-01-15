@@ -1,0 +1,13 @@
+ [entire collection of floppy disk]
+ON=40920,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[entire map of challenging match]
+ON=40918,FF,FF
+
+[Small games all open]
+ON=4091A,FF
+
+[GameInfo]
+Name=1709 - Tron 2.0 Killer App (U)（电子世界争霸战2.0）（E）ACT 128
+System=GBA
+Text=vicente

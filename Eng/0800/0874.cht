@@ -1,0 +1,33 @@
+[Our side scored]
+0=40D48,0
+15=40D48,1
+30=40D48,2
+40=40D48,3
+set point=40D48,4
+
+[Opposite side scored]
+0=40D49,0
+15=40D49,1
+30=40D49,2
+40=40D49,3
+set point=40D49,4
+
+[Our side no. of rounds to win]
+1st match=40ED4,1
+2nd match=40ED4,2
+3rd match=40ED4,3
+4th match=40ED4,4
+5th match=40ED4,5
+game point=40ED4,6
+
+[The opposite side no. of rounds to win]
+1st match=40ED5,1
+2nd match=40ED5,2
+3rd match=40ED5,3
+4th match=40ED5,4
+5th match=40ED5,5
+game point=40ED5,6
+
+[GameInfo]
+Name=0874 - World Tennis Stars (E) SPG 32
+System=GBA

@@ -1,0 +1,22 @@
+[Infinite Energy]
+ON=66D0,64
+
+[HP]
+ON=022C,FF;022D,9B
+
+[Money]
+ON=0284,1C;0285,96;0286,98
+
+[Rank]
+S=4E3C,99
+
+[A move dies]
+ON=6850,01;6790,01;6910,01
+
+[Trades the sign trough to be full]
+ON=374F,40
+
+[GameInfo]
+Name=0003 - Battle Network Rockman EXE (J)
+System=GBA
+Text=0003 - Battle Network Rockman EXE (J)

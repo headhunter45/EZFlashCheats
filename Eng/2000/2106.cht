@@ -1,0 +1,19 @@
+[Fighting integral]
+ON=42926,F,27
+
+[Fighting durability]
+ON=42935,FF,FF,FF,FF,FF
+
+[Money]
+ON=4011C,FF,E0,F5,5
+
+[Racing all open]
+ON=402C4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[Racetrack all open]
+ON=402B2,0,0,0,0
+
+[GameInfo]
+Name=2106 - Monster Jam - Maximum Destruction (E)
+System=GBA
+Text=vicente 

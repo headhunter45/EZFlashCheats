@@ -1,0 +1,65 @@
+[Don't meet the enemy]
+ON=8EC4,0
+
+[Place all open
+ON=6B28,FF,FF,FF,FF
+
+[MG money]
+
+ON=6990,7F,96,98
+
+[EP]
+ON=698C,7F,96,98
+
+[Illustrated handbook of entire monster]
+ON=6B38,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Role grade]
+ON=3BB8,63
+
+[Pysical strength of role]
+ON=3BB4,F,27
+
+[Role magic]
+ON=3BB6,F,27
+
+[Pysical strength of role with an upper limit]
+ON=3BBA,F,27
+
+[Role magic  with an upper limit]
+ON=3BBC,F,27
+
+[Entire ability of role]
+ON=3BBE,E7,3,E7,3,E7,3;3BD4,E7,3,E7,3,E7,3,E7,3
+
+[Normal role condition]
+ON=3BB9,0
+
+[Upgrading value of role]
+ON=3BC4,7F,96,98
+
+[Highest rank of role skill]
+ON=3BC8,63,63,63,63,63,63,63,63,63,63,63,63
+
+[GameInfo]
+Name=1869 - Bouken Ou Beet Busters Road (J)（冒险王比特：克星之路）（J）ACT 64
+System=GBA
+Text=vicente
+------------------------------------------------------------------------------
+[Role ability]
+HP+MP全满=3BB4,F,27,F,27;3BBA,F,27,F,27
+LV99=3BB8,63
+全能力超强=3BBE,E7,3,E7,3,E7,3;3BC8,63,63,63,63,63,63;3BCF,63,63,63,63,63,E7,3,E7,3,E7,3,E7,3,E7,3
+升格值=3BC4,7F,96,98
+
+[MG 9999999]
+ON=6990,7F,96,98
+
+[Illustrated handbook of entire monster]
+
+ON=6B38,FE,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GAMEINFO]
+NAME=1870 - Bouken Ou Beet Busters Road (J)（冒险王比特：克星之路）（J）ACT 64
+SYSTEM=GBA
+TEXT=KRIZAL

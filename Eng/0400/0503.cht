@@ -1,0 +1,36 @@
+[Life]
+ON=5F1C,9 
+
+[Invincibility]
+OFF=0,0 
+ON=1388,2 
+
+[Armour] 
+None=214BA,0 
+Steel=214BA,1 
+Bronze=214BA,2 
+Silver=214BA,3 
+Gold=214BA,4 
+
+[Weapon
+Lance=214D3,0 
+Flaming Lance=214D3,1 
+Dagger=214D3,2 
+Laser Dagger=214D3,3 
+Crossbow=214D3,4 
+Magic Tracing Arrows=214D3,5 
+Scythe=214D3,6 
+Magic Scythe=214D3,7 
+Torch=214D3,8 
+Fireball=214D3,9 
+Aze=214D3,A 
+Double Bladed Axe=214D3,B 
+Shuriken=214D3,C 
+Triblade Shuriken=214D3,D 
+Nuclear=214D3,E 
+Tornado=214D3,F 
+
+[GameInfo] 
+Name=0503 - Chou Makaimura R (J)
+System=GBA
+Text=By MODaWii - OptimisticPessimist

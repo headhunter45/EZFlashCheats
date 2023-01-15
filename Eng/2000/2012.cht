@@ -1,0 +1,31 @@
+[DBB Population ]
+ON=36A4,63
+
+[DBB Collection]
+ON=3694,63
+
+[DBB The first barrir HP]
+ON=26708,4
+
+[DP Gold coin]
+ON=41856,E7,3
+
+[DP Life]
+ON=4189A,10
+
+[DP生命上限]
+ON=4189C,10
+
+[DP Invisible
+ON=41850,D
+
+[DP关开全开]
+ON=41874,FF,FF,FF
+
+[DP Enitre icon]
+ON=417E0,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=2012 - 2 Games in 1 - Disney Princesas + Hermano Oso (S)
+System=GBA
+Text=vicente 

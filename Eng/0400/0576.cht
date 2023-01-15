@@ -1,0 +1,76 @@
+[The biggest value] 
+Biggest=18543,FF;18545,FF;18547,FF;18549,FF;1854B,FF;1854D,FF 
+ 
+[Highest-level ]
+OK=1877C,FF 
+
+[Greatest EXP] 
+OK=18799,FF 
+
+[Money] 
+OK=1879C,1C,96,98
+
+[Leading role HP]
+ON=1854E,E7,03
+
+[Leading role MP] 
+ON=18550,E7,03
+
+[Infinite red heart quantity]
+ON=18794,FF
+
+[Invincibility]
+ON=0048c,0d
+
+[All stage properties]
+ON=187A0,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[All magic books]
+ON=1883E,FF
+
+[Along with attacking the stage prop]
+Flying dagger=1877E,01
+Axe=1877E,02
+Cross=1877E,03
+Blue medical bottle=1877E,04
+Holy book=1877E,05
+Kunckle=1877E,06
+shuriken=1877E,07
+
+[Completing the game time is zero]
+ON=00088,00
+
+[All whips]
+ON=187bC,FF,FF
+
+[All Demonic item]
+ON=1883F,FF,FF
+
+[The enemy's information]
+ON=18854,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Sercet information]
+ON=18843,FF,FF,FF,FF
+
+[Condition]
+Normal=1852E,00
+Poisoned=1852E,01
+Cursed 1=1852E,02
+Cursed 2=1852E,03
+Petrify 1=1852E,04
+Petrify 2=1852E,05
+Petrify 3=1852E,06
+Petrify 4=1852E,07
+
+[Fast upgrade]
+Method one=1878C,FF
+Method two=1878D,FF;1878C,FF
+Method three=1878E,FF;1878D,FF;1878C,FF
+
+[Walking speed]
+Normal=18533,00
+Slow=18533,01
+
+[GameInfo]
+Name=0576 - Castlevania: Harmony Of Dissonance (E)
+System=GBA

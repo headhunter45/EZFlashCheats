@@ -1,0 +1,43 @@
+[Play a role]
+米奇=12972,4
+唐老鸭=12972,C
+
+[Micky's clothing]
+无装束=12972,5
+铁甲=12972,6
+绿盾牌铁甲=12972,7
+魔法师=12972,8
+黄帽子陀螺装=12972,A
+红帽子陀螺装=12972,B
+
+[Donald's clothing]
+无装束=12972,D
+黄铁锤装=12972,E
+蓝铁锤装=12972,F
+紫衣神灯装=12972,10
+红衣神灯装=12972,11
+绿色陀螺装=12972,12
+红色陀螺装=12972,13
+
+[Gold coin]
+ON=12A40,E7,3
+
+[Blood does not reduce]
+ON=129F6,A
+
+[Population MAX]
+ON=12A42,9
+
+[Invisible]
+ON=129D6,64
+
+[The oxygen does not reduce in the water]
+ON=12A3D,A
+
+[The  weapon energy does not reduce]
+ON=12A48,38;12A49,38
+
+[GameInfo]
+Name=1423 - Disneys Magical Quest 3 (E) 迪士尼 米老鼠和唐老鸭3(E) ACT 32
+System=GBA
+Text=HOTSUMA

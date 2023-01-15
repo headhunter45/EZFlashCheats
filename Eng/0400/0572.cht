@@ -1,0 +1,118 @@
+[The letter long leads troops the number]
+ON=41CE0,F,27,F,27,F,27
+
+[The second person leads troops the number]
+ON=41D24,F,27,F,27,F,27
+
+[In forming/Morale]
+ON=424A4,C8
+
+[In forming/The gas gathers]
+ON=424A5,5,5
+
+[In forming/Entire skill]
+ON=424A8,1,1,1,1
+
+[In forming/Vanguard type]
+Too knife team=41CDD,1
+Gun team=41CDD,2
+Bow team=41CDD,3
+Hard artillery team=41CDD,4
+Rides a horse the team=41CDD,5
+Female clothes audiences=41CDD,6
+Rides a horse the hard artillery team=41CDD,7
+Naval units=41CDD,8
+Gross profit naval units=41CDD,9
+Pontoon naval units=41CDD,A
+A Kui soldier=41CDD,B
+A hard artillery Kui soldier=41CDD,C
+Monk soldier=41CDD,D
+The country collapses=41CDD,E
+Iraq He Ren=41CDD,F
+Three river audiences=41CDD,10
+West beautiful thick audiences=41CDD,11
+Mixed He Zhong=41CDD,12
+Wu Tian rides a horse the team=41CDD,13
+In village naval units=41CDD,14
+Goes crazy endures=41CDD,15
+A collar has the soldier=41CDD,16
+
+[In forming/Center half back type]
+Too knife team=41CDE,1
+Gun team=41CDE,2
+Bow team=41CDE,3
+Hard artillery team=41CDE,4
+Rides a horse the team=41CDE,5
+Female clothes audiences=41CDE,6
+Rides a horse the hard artillery team=41CDE,7
+Naval units=41CDE,8
+Gross profit naval units=41CDE,9
+Pontoon naval units=41CDE,A
+A Kui soldier=41CDE,B
+A hard artillery Kui soldier=41CDE,C
+Monk soldier=41CDE,D
+The country collapses=41CDE,E
+Iraq He Ren=41CDE,F
+Three river audiences=41CDE,10
+West beautiful thick audiences=41CDE,11
+Mixed He Zhong=41CDE,12
+Wu Tian rides a horse the team=41CDE,13
+In village naval units=41CDE,14
+Goes crazy endures=41CDE,15
+A collar has the soldier=41CDE,16
+
+[In forming/Fullback type]
+Too knife team=41CDF,1
+Gun team=41CDF,2
+Bow team=41CDF,3
+Hard artillery team=41CDF,4
+Rides a horse the team=41CDF,5
+Female clothes audiences=41CDF,6
+Rides a horse the hard artillery team=41CDF,7
+Naval units=41CDF,8
+Gross profit naval units=41CDF,9
+Pontoon naval units=41CDF,A
+A Kui soldier=41CDF,B
+A hard artillery Kui soldier=41CDF,C
+Monk soldier=41CDF,D
+The country collapses=41CDF,E
+Iraq He Ren=41CDF,F
+Three river audiences=41CDF,10
+West beautiful thick audiences=41CDF,11
+Mixed He Zhong=41CDF,12
+Wu Tian rides a horse the team=41CDF,13
+In village naval units=41CDF,14
+Goes crazy endures=41CDF,15
+A collar has the soldier=41CDF,16
+
+[In forming/Soldier quantity]
+ON=41CE0,FF,FF,FF,FF,FF,FF
+
+[In fight/Left military physical culture strength]
+Biggest=4503E,FF
+Least=4503E,0
+
+[In fight/The left armed forces gas gathers]
+Biggest=44FE7,5
+Least=44FE7,0
+
+[In fight/Left armed forces soldier quantity]
+Biggest=44FB6,FF,FF;44FBC,FF,FF;44FC2,FF,FF
+Least=44FB6,0,0;44FBC,0,0;44FC2,0,0
+
+[In fight/Right military physical culture strength]
+Biggest=4503F,FF
+Least=4503F,0
+
+[In fight/The right armed forces gas gathers]
+Biggest=44FE7,5
+Least=44FE7,0
+
+[In fight/Right armed forces soldier quantity]
+Biggest=44FC8,FF,FF;44FCE,FF,FF;44FD4,FF,FF
+Least=44FC8,0,0;44FCE,0,0;44FD4,0,0
+
+[GameInfo]
+Name=0572 - Nobunaga Ibun (J)
+System=GBA
+Text=0572 - Nobunaga Ibun (J)

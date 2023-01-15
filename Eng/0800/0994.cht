@@ -1,0 +1,26 @@
+[Character choice]
+naruto=B372,0
+Kakashi=B372,1
+sasuke=B372,2
+
+[HP Does not damage]
+ON=3CEC,C8
+
+[MP Does not damage]
+ON=3CF1,22
+
+[Infinite time]
+ON=15974,E7,3
+
+[The population does not reduce]
+ON=15971,63
+
+[Wooden leaf symbol]
+ON=411B8,63
+
+[BOSS must kill as soon as strikes]
+ON=3D2C,0
+
+[GameInfo]
+Name=0994 - Naruto (J) ACT 64
+System=GBA

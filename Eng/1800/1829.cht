@@ -1,0 +1,13 @@
+[Barrier all open ]
+ON=450D6,4,9
+
+[Heart]
+ON=450E0,6
+
+[Time]
+ON=45070,40,38
+
+[GameInfo]
+Name=1829 - Futari ha Precure Arienaai Yume no Kuni ha Daimeikyuu (J)（俏丽搭档-梦之国的大迷宫）（J）ACT 32
+System=GBA
+Text=vicente

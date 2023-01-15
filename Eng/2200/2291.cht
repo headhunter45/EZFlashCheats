@@ -1,0 +1,26 @@
+[Life]
+ON=E8AA,0
+
+[Population]
+ON=E8A9,9
+
+[Invisible]
+ON=F064,50
+
+[Collections]
+ON=E8AC,E7,3
+
+[Capture mouse]
+ON=E8FD,1
+
+[Barrier all open]
+ON=F40,B
+
+[Banana]
+ON=EF20,63
+
+[GameInfo]
+Name=2291 - Garfield: The Search for Pooky (U)
+System=GBA
+Text=vicente 
+loading...

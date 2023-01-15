@@ -1,0 +1,16 @@
+[Turbo/Speed Up]
+ON=403B8,20,4E
+
+[Petrol]
+ON=403A8,DF,FF,77
+
+[HP]
+ON=403AC,FF,FF,FF,2,FF,FF,2
+
+[Quick End]
+ON=403D2,5
+
+[GameInfo]
+Name=1091 - F1 2002 (U) 
+System=GBA
+Text=

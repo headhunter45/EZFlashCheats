@@ -1,0 +1,28 @@
+[Money]
+ON=BC,FF,E0,F5,5
+
+[Time]
+ON=54,B7,74,A
+
+[Entire fittings upgrade]
+ON=A6,5,5,5,5,5,5,5,5,5
+
+[Gas]
+ON=94,F,27
+
+[Oil storage with an upper limit ]
+ON=98,F,27
+
+[Durability]
+ON=9C,0,0
+
+[Durability with an upper limit]
+ON=A0,D0,7
+
+[Entire barrier + full star]
+ON=34,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+
+[GameInfo]
+Name=2219 - Big Mutha Truckers (U)
+System=GBA
+Text=vicente

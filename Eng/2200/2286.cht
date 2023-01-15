@@ -1,0 +1,25 @@
+[Game1Time]
+ON=B7E8,3B
+
+[Game1 Completion time]
+ON=1607,63
+
+[Game1Knowledge ]
+ON=B028,E7,3
+
+[Game1 Skill]
+ON=B02A,E7,3
+
+[Game1 Other decoration 2 Collections]
+ON=B3D8,1,1,1,1,1
+
+[Game2-2 Integral]
+ON=10218,10,27
+
+[Game2-2 Fast end]
+ON=10ED8,0,0
+
+[GameInfo]
+Name=2286 - Twin Series 1 (J)
+System=GBA
+Text=vicente 

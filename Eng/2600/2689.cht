@@ -1,0 +1,13 @@
+[999999 Gil]
+ON=01860,3F,42,0F,00
+
+[Terra Inf HP]
+ON=03BF4,0F,27
+
+[Terra Inf MP]
+ON=02E88,E7,03
+
+[GameInfo]
+Name=2689 - Final Fantasy VI (U)
+System=GBA
+Text=2689 - Final Fantasy VI (U)

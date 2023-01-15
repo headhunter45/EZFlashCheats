@@ -1,0 +1,13 @@
+[Lives]
+ON=12F40,9
+
+[Status Normal]
+ON=19EDA,0;19F96,0
+
+[Invisible]
+ON=19EDC,84;19F98,84
+
+[GameInfo]
+Name=1153 - Scooby Doo - Mystery Mayhem (U)
+System=GBA
+Text=

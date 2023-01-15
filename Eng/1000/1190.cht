@@ -1,0 +1,26 @@
+[Quick run]
+ON=43C9F,7f
+
+[Luigi's Item]
+ON=42C59,1,2,3,4,5,6,7,8,9,0a,0b,0c,0d,0e,0f
+
+[Character Status]
+Mini=43e17,0
+Mushroom=43e17,1
+Flowers=43e17,2
+Leave=43e17,3
+Frog=43e17,4
+Fox=43e17,5
+Armour=43e17,6
+Cape=43e17,7
+
+[Coins]
+99=42c83,63
+
+[Mario's Item]
+ON=42C2e,1,2,3,4,5,6,7,8,9,0a,0b,0c,0d,0e,0f
+
+[GameInfo]
+Name=1190 - Super Mario Advance 4 - Super Mario Bros. 3 (E)
+System=GBA
+Text=

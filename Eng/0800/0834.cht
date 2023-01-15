@@ -1,0 +1,32 @@
+[Version can be had (before the 3 customs must have been opened in La myself out before the end to kill off death by ultra-BOSS)]
+ON=415A4,0;41664,0
+OFF=0000,0;0000,0
+
+[Reduced physical]
+ON=45F98,64
+OFF=0000,0
+
+[Full tank Bisha]
+ON=45F9F,48
+OFF=0000,0
+
+[ARCADE model appears]
+ON=45FC3,1
+
+[The whole collection of weapons]
+ON=45FC5,FF,FF,FF;45FC9,FF,FF,FF;45FCD,FF
+
+[Character option]
+No mad Guiyan=411AA,0
+Red Tiger=411AA,1
+Sanada village=411AA,2
+Mibu Kyoshiro=411AA,3
+Shiina??= 411AA,4
+
+[Cut the number to increase rapidly]
+ON=45FA2,FF
+
+[GameInfo]
+Name=0834 - Samurai Deeper Kyo (J)
+System=GBA
+Text=0834 - Samurai Deeper Kyo (J)

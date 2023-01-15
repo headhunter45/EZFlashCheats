@@ -1,0 +1,43 @@
+[Time]
+1 point=43BC,1;43BE,0
+2 point=43BC,2;43BE,0
+3 point=43BC,3;43BE,0
+4 point=43BC,4;43BE,0
+5 point=43BC,5;43BE,0
+6 point=43BC,6;43BE,0
+7 point=43BC,7;43BE,0
+8 point=43BC,8;43BE,0
+9 point=43BC,9;43BE,0
+10 point=43BC,A;43BE,0
+11 point=43BC,B;43BE,0
+12 point=43BC,C;43BE,0
+13 point=43BC,D;43BE,0
+14 point=43BC,E;43BE,0
+15 point=43BC,F;43BE,0
+16 point=43BC,10;43BE,0
+17 point=43BC,11;43BE,0
+18 point=43BC,12;43BE,0
+19 point=43BC,13;43BE,0
+20 point=43BC,14;43BE,0
+21 point=43BC,15;43BE,0
+22 point=43BC,16;43BE,0
+23 point=43BC,17;43BE,0
+0 point=43BC,0;43BE,0
+
+[Temperature]
+0=43B9,0,0
+5=43B9,50,0
+10-43B9,A0,0
+15=43B9,F0,0
+20=43B9,40,1
+25=43B9,90,1
+30=43B9,E0,1
+35=43B9,30,2
+40=43B9,80,2
+
+[Depth of water]
+ON=281,C8
+
+[GameInfo]
+Name=0957 - Exciting Bass (J) ECT 64
+System=GBA

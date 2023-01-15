@@ -1,0 +1,34 @@
+[Life]
+ON=477AE,3D,3D
+
+[Energy]
+ON=477B0,43,44
+
+[Population]
+ON=477B2,6,6
+
+[Angry]
+ON=477B4,68,68
+
+[Points]
+ON=4774A,F,27,F,27
+
+[Entire ability]
+ON=4775A,FF,FF,FF,FF,63,63
+
+[Entire must kill]
+ON=47764,3,3
+
+[Entier stunt]
+ON=4774E,69,69,69,69,69,69,69,69,69,69,69,69
+
+[Barriers all open]
+ON=47760,D,D
+
+[Entire problem]
+ON=47766,FF
+
+[GameInfo]
+Name=1993 - Star Wars Episode III (E)
+System=GBA
+Text=vicente 

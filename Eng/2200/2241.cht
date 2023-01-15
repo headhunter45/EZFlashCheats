@@ -1,0 +1,16 @@
+[Figure life]
+ON=44264,9
+
+[Spaceship durability]
+ON=47430,8
+
+[Spaceship missile]
+ON=47431,1
+
+[Spaceship ammunition]
+ON=47434,38
+
+[GameInfo]
+Name=2241 - Atomic Betty (U)
+System=GBA
+Text=vicente

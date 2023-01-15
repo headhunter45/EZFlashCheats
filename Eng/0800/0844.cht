@@ -1,0 +1,52 @@
+[The vehicle  changes color]
+OFF=0,0
+red color=403D5,1
+black color=403D5,2
+bronze color=403D5,4
+sky-blue color=403D5,6
+yellow color=403D5,8
+white color=403D5,A
+bluish-yellow color=403D5,C
+dark green color=403D5,E
+light grey color=403D5,10
+grey color=403D5,12
+pink color=403D5,14
+bread car=403D5,16
+
+[Place No.x]
+OFF=0,0
+1st place=403D3,1
+2nd place=403D3,2
+3rd place=403D3,3
+4th place=403D3,4
+5th place=403D3,5
+
+[Speed MAX]
+ON=403B6,E7,3
+
+[No.x circle] 
+OFF=0,0
+1st round=403D2,1
+2nd round=403D2,2
+3rd round=403D2,3
+4th round=403D2,4
+5th round=403D2,5
+6th round=403D2,6
+7th round=403D2,7
+8th round=403D2,8
+9th round=403D2,A
+10th round=403D2,B
+
+[Always in No.x scale]
+OFF=0,0
+1st phase=403D6,1
+2nd phase=403D6,2
+3rd phase=403D6,3
+4th phase=403D6,4
+5th phase=403D6,5
+6th phase=403D6,6
+7th phase=403D6,7
+
+[GameInfo]
+Name=0844 - F1 2002£¨E£©RCG 32
+System=GBA

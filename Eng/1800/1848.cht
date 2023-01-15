@@ -1,0 +1,68 @@
+[Life]
+ON=43BA0,DC,5
+
+[Energy]
+ON=43BE2,3C
+
+[Population]
+ON=41F43,63
+
+[Must kill LV]
+ON=43BE4,E3
+
+[Jewel]
+ON=41F42,63
+
+[Invinsible]
+ON=43BA5,7C;43BA8,FF
+
+[Integral]
+ON=41F50,9F,86,1
+
+[Character choice]
+红衣战士=43BA7,0
+蓝衣战士=43BA7,1
+紫衣战士=43BA7,2
+
+[BOSS fights our side life]
+ON=43AA0,20,3
+
+[BOSS fights our side energy]
+ON=43AE2,E7,3
+
+[BOSS fights the opposite side life]
+ON=43CA2,0,0
+
+[BOSS fights the opposite side energy]
+ON=43CE2,0,0
+
+[The last pass]
+ON=41F48,4,3
+
+[Hideaway all open]
+ON=41F4A,FF
+
+[GameInfo]
+Name=1851 - Genseishin Justirisers Souchaku Chikyuu no Senshitachi (J)（幻星神正义战士-地球的战士们）（J）ACT 128
+System=GBA
+Text=vicente
+-----------------------------------------------------------------------------------------------------------------
+[Life ]
+ON=43BA0,DC,5
+
+[Physical strength]
+ON=43BE2,3C
+
+[Population]
+ON=41F43,63
+
+[Energy]
+ON=43BE4,E3
+
+[Invisible]
+ON=43BA8,63
+
+[GameInfo]
+Name=1848 - Genseishin Justirisers Souchaku Chikyuu no Senshitachi (J)（幻星神正义战士-地球的战士们）（J）ACT 128
+System=GBA
+Text=JACK

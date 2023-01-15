@@ -1,0 +1,22 @@
+[HP]
+ON=4408C,3
+
+[Invisible]
+ON=44102,20
+
+[Able to Vacumn Enemy]
+ON=44074,1;440FA,1
+
+[Vacumn Machine]
+ON=4410B,20
+
+[Money]
+ON=44118,99,9
+
+[Lives]
+ON=4411B,A
+
+[GameInfo]
+Name=1139 - Disney's Magical Quest 2 (E)
+System=GBA
+Text=

@@ -1,0 +1,29 @@
+[The host team scored]
+1 Goal=409BC,01
+3 Goals=409BC,03
+9 Goals=409BC,09
+99 Goals=409BC,63
+
+[The visiting team scored]
+1 Goal=409BD,01
+3 Goals=409BD,03
+9 Goals=409BD,09
+99 Goals=409BD,63
+
+[Fast end]
+ON=40BB0,0,0
+
+[Point sphere score]
+Home Team Win=409C6,3,0
+Away Team Win=409C6,0,3
+
+[Entire cup]
+ON=9DBC,FF,FF
+
+[Hideaway team ]
+ON=9DC3,FF
+
+[GameInfo]
+Name=0412 - Winning Eleven World Soccer (J)
+System=GBA
+Text=By MODaWii - OptimisticPessimist

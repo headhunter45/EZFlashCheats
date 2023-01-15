@@ -1,0 +1,13 @@
+[Movie fragment]
+ON=368C,FF,FF
+
+[Entire collection fo world butterfly]
+ON=36E3,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire auxiliary stage prop]
+ON=47058,1,1,1;4705C,1,1;4705F,1,1;47076,1,1,1,1,1;47080,1,1;470AA,1;470AD,1;470C0,1,1;470CA,1,1;470CD,1,1,1,1,1
+
+[GameInfo]
+Name=1871 - Lemony Snicket's A Series of Unfortunate Events (G)（雷蒙·斯尼奇的不幸历险）（G）AVG 128
+System=GBA
+Text=vicente

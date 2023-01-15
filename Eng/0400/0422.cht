@@ -1,0 +1,31 @@
+[Actor HP]
+ON=288,FF 
+
+[Actor GP]
+ON=32DB4,6
+
+[Actor empirical value]
+ON=32DB6,FF,C9,9A,3B
+
+[ActressHP]
+ON=364,FF
+
+[ActressGP]
+ON=32DC8,6
+
+[Actress empirical value]]
+ON=32DCA,FF,C9,9A,3B
+
+[Frog empirical value]]
+ON=32DEC,9F,86,1
+
+[Money]
+ON=32E1C,7F,96,98
+
+[Entire stage property]
+ON=32E23,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63;364,FF
+
+[GameInfo]
+Name=0422 - Kaeru B Back (J)£®«‡Õ‹ªÿº“£©£®J£©RPG 64
+System=GBA
+Text=haoxujie£®∂Òƒß£©

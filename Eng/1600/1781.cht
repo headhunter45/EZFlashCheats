@@ -1,0 +1,19 @@
+[Points]
+ON=1074,FF,E0,F5,5
+
+[Experience]
+ON=1078,9F,F
+
+[Power]
+ON=107C,63
+
+[Our side RAM]
+ON=402AC,F,27
+
+[The opposite side RAM]
+ON=402D8,0,0
+
+[GameInfo]
+Name=1781 - Beyblade G-Revolution (U)£¨±¬ÐýÍÓÂÝ-GµãÐý×ª£©£¨E£© ACT 32
+System=GBA
+Text=vicente

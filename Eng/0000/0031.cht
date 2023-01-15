@@ -1,0 +1,33 @@
+[Character]
+Character1=1BCEA,0
+Character2=1BCEA,1
+Character3=1BCEA,2
+Character4=1BCEA,3
+Character5=1BCEA,4
+Character6=1BCEA,5
+Character7=1BCEA,6
+Character8=1BCEA,7
+Character9=1BCEA,8
+Character10=1BCEA,9
+Character11=1BCEA, A
+Character12=1BCEA, B
+
+[Entire car license]
+ON=1BDBA,FF
+
+[Reveal the shown board]
+ON=1BDBC,FF,FF
+
+[S grade]
+ON=1BE5C,2
+
+[Money999]
+ON=1BE68,E7,3
+
+[Gold coin999]
+ON=1BFC2,E7,3
+
+[GameInfo]
+Name=0031 - Konami Krazy Racers (U)
+System=GBA
+Text=0031 - Konami Krazy Racers (U)

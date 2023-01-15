@@ -1,0 +1,31 @@
+[Life]
+ON=3C513,5
+
+[Population]
+ON=3C514,9
+
+[Invisible]
+ON=3F01,32
+
+[Leaf]
+ON=3C5E6,E7,3
+
+[Perfect person]
+ON=3C4D4,FF;3C4C8,1
+
+[Entire stage pro collections]
+ON=3C4E8,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire small game]
+ON=3C4CF,FF,FF
+
+[Music appreciation  mode open]
+ON=3C4D5,1
+
+[Entire paint]
+ON=3C4FE,FF,FF
+
+[GameInfo]
+Name=2296 - Ochainu no Bouken Jima (J)
+System=GBA
+Text=vicente 

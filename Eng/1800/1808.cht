@@ -1,0 +1,56 @@
+[Score Max]
+ON=B40,FF,E0,F5,5
+
+[Pisolite Max]
+ON=B34,42,1
+
+[Life Max]
+ON=B36,63
+
+[GameInfo]
+Name=1808 - Ms. Pac-Man Maze Madness (E)（小精灵大冒险）（M5）PUZ 32
+System=GBA
+Text=大胖子 整理提供
+--------------------------------------------------------------------
+[Life]
+ON=1C3B,3
+
+[Population]
+ON=1C3A,63
+
+[Invisible]
+ON=AEA,FF
+
+[Bean fraction]
+ON=1C38,E7,3
+
+[Integral]
+ON=1C30,FF,E0,F5,5
+
+[Barriers all open]
+ON=1C4C,FF,FF,FF
+
+[GameInfo]
+Name=1808 - Ms. Pac-Man Maze Madness (E)（小精灵大冒险）（M5）PUZ 32
+System=GBA
+Text=大胖子 整理提供
+--------------------------------------------------------------------
+[Life ]
+ON=B3E,FF
+
+[Number of elements]
+ON=B36,63
+
+[Bean fraction]
+ON=B34,E7,3
+
+[Invincible time]
+ON=A9C,56
+
+[Barriers all open]
+ON=31A8,FF,FF
+
+[GameInfo]
+Name=1808 - Ms. Pac-Man Maze Madness (E)（小精灵大冒险）（M5）PUZ 32
+System=GBA
+Text=vicente

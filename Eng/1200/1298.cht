@@ -1,0 +1,19 @@
+[Anger]
+ON=193FC,60;19454,60;1946C,60
+
+[HP]
+ON=B308,0;B848,0;B998,0
+
+[Invisible]
+ON=193CD,A;19425,A;1943D,A
+
+[Dragon]
+ON=193FD,9
+
+[Lives]
+ON=460E0,9
+
+[GameInfo]
+Name=1298 - Crouching Tiger Hidden Dragon 
+System=GBA
+Text=

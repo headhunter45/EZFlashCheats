@@ -1,0 +1,19 @@
+[Yellow Gauge]
+ON=407DC,FF
+
+[Red Gauge]
+ON=42120,FF
+
+[Invisible]
+ON=4084F,64
+
+[Lives]
+ON=43000,3
+
+[Time]
+ON=43148,9
+
+[GameInfo]
+Name=0466 - The Ripping Friends (E)（顶级朋友）（E）ACT 32
+System=GBA
+Text=大胖子 整理提供

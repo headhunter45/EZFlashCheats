@@ -1,0 +1,16 @@
+[Ammo]
+ON=463A0,9;463A2,63
+
+[Grenade]
+ON=463A4,9;463A6,63
+
+[Total Kills]
+ON=45C44,63
+
+[HP]
+ON=42667,8
+
+[GameInfo]
+Name=1000 - Medal of Honor Underground (E) 
+System=GBA
+Text=

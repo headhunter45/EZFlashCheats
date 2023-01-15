@@ -1,0 +1,19 @@
+[Life]
+ON=46904,6
+
+[Life with an upper limit]
+ON=468C8,6
+
+[Invisible]
+ON=46944,FF
+
+[Fast pass]
+ON=468BC,8
+
+[Small games all open]
+ON=40028,1,1,1,1,1,1,1,1
+
+[GameInfo]
+Name=2132 - Barbie and the Magic of Pegasus (U)
+System=GBA
+Text=vicente 

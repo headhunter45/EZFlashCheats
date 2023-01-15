@@ -1,0 +1,28 @@
+[LB Life]
+ON=43468,64
+
+[LB Population]
+ON=4346C,63
+
+[LB Energy]
+ON=43472,64
+
+[LB Diamond]
+ON=43466,63
+
+[LB head portrait]
+ON=43467,63
+
+[LKK Life]
+ON=F168,63
+
+[LKK Energy]
+ON=F418,0,0,1
+
+[LKK Barrier 100% reachment]
+ON=F64,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[GameInfo]
+Name=2007 - 2 Games in 1 - Lego Bionicle & Lego Knights Kingdom (E)
+System=GBA
+Text=vicente 

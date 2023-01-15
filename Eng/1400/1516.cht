@@ -1,0 +1,22 @@
+[Population]
+ON=47268,63
+
+[Time]
+ON=47293,C8
+
+[Bomb might]
+ON=47273,FF
+
+[Bomb quantity]
+ON=47274,9
+
+[Remote control bomb]
+ON=47277,1
+
+[Invisible]
+ON=47279,1
+
+[GameInfo]
+Name=1516 - NES Classic Bomberman (U)（经典任天堂-炸弹人）（E）ACT 8
+System=GBA
+Text=vicente

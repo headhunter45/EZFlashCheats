@@ -1,0 +1,22 @@
+[Pottery jar nunber]
+ON=16D10,63
+
+[Special ability]
+能力1=31BBA,1
+能力2=31BBA,2
+能力3=31BBA,3
+能力4=31BBA,4
+
+[Blood]
+ON=18953,3
+
+[Number of elements]
+ON=18958,9
+
+[Invisiblity after take a beating]
+ON=31BBE,0
+
+[GameInfo]
+Name=1648 - Home on the Range (E)（牧场是我家）（M4）ACT 64
+System=GBA
+Text=大胖子 整理提供

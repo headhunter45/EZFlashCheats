@@ -1,0 +1,16 @@
+[Killing the enemy  quantity]
+ON=98,E7,3
+
+[[Killing civilian  quantity]
+ON=94,0,0
+
+[Guns ammunition]
+ON=2D7F8,E7,3;2D7FC,E7,3;2D800,E7,3;2D804,E7,3;2D808,E7,3;2D80C,E7,3;2D810,E7,3;2D814,E7,3;2D818,E7,3
+
+[Blood]
+ON=2D798,C8
+
+[GameInfo]
+Name=1450 - Ice Nine (E)（冰冻九号）（M6）FPS 64
+System=GBA
+Text=大胖子 整理提供

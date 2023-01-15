@@ -1,0 +1,25 @@
+[Life does not reduce]
+ON=3755,63
+
+[Physical strength with an upper limit MAX]
+ON=3756,A
+
+[Physical strength  does not reduce]
+ON=27F7E,A
+
+[Invincibility]
+ON=27F80,64
+
+[Assist MAX]
+ON=3757,63;3760,5,5,5,5
+
+[Holding all replacements]
+ON=3754,FF
+
+[Infinite all replacements energy]
+ON=37B2,7F;37B5,18;37B6,38
+
+[GameInfo]
+Name=1479 - Crayon Shin-Chan - Arashi no Yobu Cinema-Land no Daibouken! (J)（蜡笔小新-电影乐园大冒险）（J）ACT 128
+System=GBA
+Text=大胖子 整理提供

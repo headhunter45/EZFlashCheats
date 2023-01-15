@@ -1,0 +1,34 @@
+[Energy]
+ON=37AC8,B4
+
+[Star]
+ON=2A778,0B
+
+[Favorable impression]
+ON=36DF4,28,28,2828;36DF8,28,28,28
+
+[The hideaway collection open]
+ON=3A193,FF
+
+[Entire clothing]
+ON=3A132,FF,FF;3A134,FF,FF,FF,FF;3A138,FF
+
+[Entire card]
+ON=3A12A,FF,FF;3A12C,FF,FF,FF,FF;3A130,FF
+
+[Entire small game]
+ON=3A139,FF;3A13A,FF
+
+[Perfect person image]
+ON=3A0F0,FF
+
+[Entire Picture]
+ON=3A0F4,FF,FF,FF,FF;3A0F8,FF,FF,FF,FF;3A0FC,FF,FF,FF,FF;3A100,FF,FF,FF,FF;3A104,FF,FF,FF,FF;3A108,FF,FF,FF,FF;3A10C,FF,FF,FF,FF;3A110,FF,FF,FF,FF;3A114,FF,FF,FF,FF;3A118,FF
+
+[Entire animation]
+ON=3A126,FF,FF;3A128,FF,FF
+
+[GameInfo]
+Name=1461 - Card Captor Sakura Card Friends (J)£®ø‚¬Âƒß∑® π-ø®∆¨≈Û”—£©£®J£©AVG 128
+System=GBA
+Text=vicente

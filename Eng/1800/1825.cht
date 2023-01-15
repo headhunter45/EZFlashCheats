@@ -1,0 +1,37 @@
+[SS brush]
+ON=40F32,63
+
+[SS population]
+ON=40F33,63
+
+[SS life]
+ON=412FA,0
+
+[SS invisible]
+ON=412FB,BA
+
+[SS ammunition]
+ON=412F5,63
+
+[SS barriers all open]
+ON=9C,FF;A0,FF,FF,FF
+
+[BBB life ]
+ON=3C0C,3
+
+[BBB population]
+ON=3C08,63
+
+[BBB hamburger]
+ON=3C10,14
+
+[BBB brush]
+ON=3C18,3
+
+[BBB barriers all open]
+ON=3BF8,FF
+
+[GameInfo]
+Name=1825 - SpongeBob SquarePants Gamepack 2 (E)（超级海绵笨伯-游戏第2卷）（E）ACT 128
+System=GBA
+Text=vicente

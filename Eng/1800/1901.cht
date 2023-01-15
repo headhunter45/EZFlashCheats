@@ -1,0 +1,46 @@
+[Physical strength ]
+ON=4345D,90
+
+[Invincibility]
+ON=43443,FF
+
+[DC badge]
+ON=4008B,FF
+
+[Duty index]
+ON=4008E,1
+
+[Time]
+ON=40090,0,0
+
+[Yellow diamonds]
+ON=40094,63
+
+[Blue diamonds]
+ON=40095,63
+
+[Ruby]
+ON=40096,63
+
+[Labyrinth game time]
+ON=433EE,70,17
+
+[Labyrinth game population]
+ON=433F0,4
+
+[Coordinate adjustment of labyrinth game ]
+ON=43672,5;43674,4
+
+[BOSS fight physical strenght of our side ]
+ON=43024,7F,70,7F,70
+
+[BOSSfight physical strength of the opposite side]
+ON=43894,0,0,0,0
+
+[BOSS fight entire equipment]
+ON=43417,4,0,1,5,2,3
+
+[GameInfo]
+Name=1901 - Power Rangers Dino Thunder (E)
+System=GBA
+Text=vicente 

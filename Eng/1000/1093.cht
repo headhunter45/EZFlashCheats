@@ -1,0 +1,42 @@
+[Lives]
+ON=42A6A,C8;42A6C,C8
+
+[Time]
+ON=43D0B,9,9,9
+
+[Money]
+ON=42C58,63;42C83,63
+
+[Condition After Consuming Powerup]
+Mini/Normal=43F5B,0
+Mushroom=43F5B,1
+Flower=43F5B,2
+Leaf=43F5B,3
+Frog=43F5B,4
+Bear=43F5B,5
+Turtle=43F5B,6
+
+[Invisible]
+ON=43F60,64
+
+[Item]
+ON=42C2E,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,8,8,8,8,8,8,8,8,8,8,8,8,8,8;42C59,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+
+[Invicible]
+ON=43F61,C8
+
+[World/Stages]
+1=42A69,0
+2=42A69,1
+3=42A69,2
+4=42A69,3
+5=42A69,4
+6=42A69,5
+7=42A69,6
+8=42A69,7
+All World/Stages=42A69,8
+
+[GameInfo]
+Name=1093 - Super Mario Advance 4
+System=GBA
+Text=

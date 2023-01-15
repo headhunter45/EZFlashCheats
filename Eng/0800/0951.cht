@@ -1,0 +1,14 @@
+[Physical strength value]
+max health=20,28
+death=20,1
+
+[Computer physical strength value]
+max health=88,28
+death=88,1
+
+[Time]
+ON=1AC,63
+
+[GameInfo]
+Name=0951 - Mortal Kombat Advance (E) FTG 64
+System=GBA

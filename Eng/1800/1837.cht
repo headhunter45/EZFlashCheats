@@ -1,0 +1,13 @@
+[Apple]
+ON=6F6C,F,27
+
+[Small games all open]
+ON=6F0A,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire card]
+ON=F5AC,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1837 - Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen (J)（古惑狼-友情大作战）（J）ACT 128
+System=GBA
+Text=vicente

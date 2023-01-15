@@ -1,0 +1,129 @@
+[First person]
+Can Be Arranged Manually=0,0
+
+[LV]
+50=762,50
+0=762,0
+
+[EXP]
+99=762,63
+0=762,0
+
+[property]
+Thunder=764,1
+Fire=764,2
+Earth=764,3
+Water=764,4
+Holy=764,5
+Dark=764,6
+
+[character]
+L=765,1
+N=765,2
+C=765,3
+
+[SEX]
+ÎÞ=76E,0
+ÄÐ=76E,1
+Å®=76E,2
+
+[HP]
+999=752,E7,3
+
+[MP]
+999=756,E7,3
+
+[STR]
+9999=758,FF,FF
+
+[INT]
+9999=75A,FF,FF
+
+[AGI]
+9999=75C,DC,FF
+
+[Head portrait]
+Main Male=75E,2
+Main Female=75E,3
+Esquire=75E,13
+Valkryie=75E,14
+??=75E,12
+??=75E,17
+???=75E,18
+
+[Career]
+???=75F,53
+Soldier(Male)=75F,1
+Soldier(Female)=75F,2
+Ninja(Male)=75F,3
+Ninja(Female)=75F,4
+Archer(Male)=75F,5
+Archer(Female)=75F,6
+Wizard(Male)=75F,7
+Wizard(Female)=75F,8
+Cleric(Male)=75F,9
+Cleric(Female)=75F,A
+Priest(Male)=75F,13
+Priest(Female)=75F,14
+Knight(Male)=75F,B
+Knight(Female)=75F,C
+Swordmaster(Male)=75F,D
+Swordmaster(Female)=75F,4F
+Summoner(Male)=75F,45
+Summoner(Female)=75F,46
+Zombie Soldier(Male)=75F,32
+Zombie Soldier(Female)=75F,33
+Shaman(Male)=75F,34
+Shaman(Female)=75F,35
+Zombie Knight(Male)=75F,36
+Zombie Knight(Female)=75F,37
+Angel Knight(Male)=75F,1B
+Angel Knight(Female)=75F,1C
+Dark Angel Knight(Male)=75F,22
+Dark Angel Knight(Female)=75F,23
+Gremlin=75F,1F
+Lesser Daemon=75F,4A
+Daemon=75F,20
+Dark Stalker=75F,39
+Hell Gigantes=75F,3A
+Predator=75F,3F
+Thunder Dragon=75F,24
+Fire Dragon=75F,25
+Earth Dragon=75F,26
+Ice Dragon=75F,27
+Mushus=75F,28
+Naga=75F,29
+Vrtra=75F,2A
+Dragon Zombie=75F,2B
+Dragoon=75F,E
+Duke Knight=75F,21
+Esquire=75F,4E
+Valkyrie=75F,F
+?????=75F,10
+??=75F,11
+??=75F,12
+Dragon Tamer=75F,15
+Beast Tamer=75F,16
+Hawkman=75F,17
+Mermaid=75F,18
+Fairy=75F,19
+Lich=75F,1A
+Ghost=75F,1D
+Gorgon=75F,1E
+Griffin=75F,2C
+Cockatrice=75F,2D
+Octopus=75F,2E
+Cerberus=75F,2F
+Giant=75F,30
+Bandit=75F,31
+????????=75F,42
+????=75F,43
+????=75F,4B
+?????=75F,4C
+??=75F,4D
+??=75F,52
+
+[GameInfo]
+Name=0432 - Tactics Ogre - The Knight of Lodis (U)
+System=GBA
+Text=By MODaWii - OptimisticPessimist

@@ -1,0 +1,31 @@
+[Entire ability]
+ON=588C,64,0,64,0,64,0,64
+
+[Full star]
+ON=58A4,A
+
+[Ilustrated handbook of entire pet]
+ON=58FC,FF,FF
+
+[Entire pet food]
+ON=58E3,9,9,9
+
+[Entire stage pro]
+ON=58D8,FF,FF
+
+[Entire jewelry]
+ON=58DA,FF,FF
+
+[Entire furniture]
+ON=58DE,FF,FF
+
+[Entire letter]
+ON=5958,FF,FF,FF,FF
+
+[Small games all open]
+ON=5910,FF,FF
+
+[GameInfo]
+Name=1794 - Gakuen Alice - DokiDoki Fushigi Taiken (J)（学院爱丽丝-不可思议的心跳体验）（J）AVG 64
+System=GBA
+Text=vicente

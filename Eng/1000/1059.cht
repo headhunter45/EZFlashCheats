@@ -1,0 +1,13 @@
+[All Modes]
+ON=7404,FF
+
+[All Boards and All Collectibles]
+ON=7405,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Enable To View On Staffs and All Race Tracks]
+ON=7536,FF,FF
+
+[GameInfo]
+Name=1059 - Disney Sports Snowboarding (J) 
+System=GBA
+Text=

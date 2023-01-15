@@ -1,0 +1,34 @@
+[Our side life]
+ON=36AAC,E7,3
+
+[Opposite side life]
+ON=374FC,0,0
+
+[Motion points]
+ON=469DC,E7,3
+
+[Fighting points]
+ON=469D8,E7,3
+
+[winning times]
+ON=469DA,E7,3
+
+[Holding the medal]
+ON=469DE,1
+
+[Entire card]
+ON=469EE,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3,E7,3
+
+[The place all open]
+ON=3182E,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+[Fighting  perfect person]
+ON=469E8,FF,FF,FF,FF
+
+[The question and answer pattern open]
+ON=469D4,FF
+
+[GameInfo]
+Name=2033 -  Konchu Ouja Mushiking (J)
+System=GBA
+Text=vicente

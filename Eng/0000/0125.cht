@@ -1,0 +1,94 @@
+[Infinite Health]
+ON=00D84,6A
+
+[Infinite Lives]
+ON=00D88,0A
+
+[Infinite Time]
+ON=00CD4,D3
+
+[Inf Mutant Power]
+ON=00DF0,FF
+
+[Play As Wolverine]
+ON=00D78,00
+
+[Play As Storm]
+ON=00D78,01
+
+[Play As Cyclops]
+ON=00D78,02
+
+[Play As Beast]
+ON=00D78,03
+
+[Play As Club Thug]
+ON=00D78,04
+
+[Play As Acolyte]
+ON=00D78,05
+
+[Play As Rogue]
+ON=00D78,07
+
+[Play As Colossus]
+ON=00D78,09
+
+[Play As Pheonix]
+ON=00D78,0A
+
+[Play As Nightcrawler]
+ON=00D78,0B
+
+[Play As Juggernaut]
+ON=00D78,0C
+
+[Play As Sentinal]
+ON=00D78,0D
+
+[Play As Slvr Samuari]
+ON=00D78,0E
+
+[Play As Cable]
+ON=00D78,0F
+
+[Play As Bishop]
+ON=00D78,10
+
+[Play As Magneto]
+ON=00D78,11
+
+[Play As Sauron]
+ON=00D78,12
+
+[Play As Arch Angel]
+ON=00D78,13
+
+[Play As Pyro]
+ON=00D78,15
+
+[Play As Weapon Omega]
+ON=00D78,18
+
+[Play As Aranger]
+ON=00D78,19
+
+[Play As Apocalypse]
+ON=00D78,1A
+
+[Play As Blob]
+ON=00D78,1B
+
+[Play As Sabertooth]
+ON=00D78,1C
+
+[Play As Psylocke]
+ON=00D78,1D
+
+[Play As Gambit]
+ON=00D78,1E
+
+[GameInfo]
+Name=0125 - X-Men - Reign of Apocalypse (U)
+System=GBA
+Text=0125 - X-Men - Reign of Apocalypse (U)

@@ -1,0 +1,61 @@
+[To fights the entire character]
+ON=432C0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
+[Hitting]
+ON=4305E,58,2
+
+[Throwing]
+ON=43060,58,2
+
+[Extremely]
+ON=43062,58,2
+
+[Twisting]
+ON=43064,58,2
+
+[Solid]
+ON=43066,58,2
+
+[Flying]
+ON=43068,58,2
+
+[Body]
+ON=4306A,58,2
+
+[Endurance]
+ON=4306C,58,2
+
+[Endurance]
+ON=4306E,58,2
+
+[Force of restitution]
+ON=43070,58,2
+
+[Efferent nerve]
+ON=43072,58,2
+
+[Reflection nerve]
+ON=43074,58,2
+
+[Human spirit]
+ON=43076,58,2
+
+[Fights the soul]
+ON=43078,58,2
+
+[Our physical strength]
+ON=43326,0
+
+[Our physical strength]
+ON=43328,FF,F
+
+[Opposite party physical strength]
+ON=4336E,59
+
+[Opposite party physical strength]
+ON=43370,0,0
+
+[GameInfo] 
+Name=0822 - Toukon Heat (J)
+System=GBA 
+Text=0822 - Toukon Heat (J)

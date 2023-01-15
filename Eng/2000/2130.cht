@@ -1,0 +1,58 @@
+[Hidden characters all open]
+ON=1D694,1;1D698,1;1D69C,1;1D6A4,1
+
+[Maps]
+ON=1D3FA,B,C;1D420,0,1,2,3,4,5,6,7,8,9,A,B
+
+[No.1 LP]
+最大=23A48,F,27
+最小=23A48,0,0
+
+[No.2 LP]
+最大=23A58,F,27
+最小=23A58,0,0
+
+[No.3 LP]
+最大=23A68,F,27
+最小=23A68,0,0
+
+[No.4 LP]
+最大=23A78,F,27
+最小=23A78,0,0
+
+[First star class]
+最大=23A4C,63
+最小=23A4C,0
+
+[Second star class]
+最大=23A5C,63
+最小=23A5C,0
+
+[Third star class]
+最大=23A6C,63
+最小=23A6C,0
+
+[Fourth star class]
+最大=23A7C,63
+最小=23A7C,0
+
+[No.1 SP Launch]
+有=23A50,8
+无=23A50,0
+
+[No.2 SP Launch]
+有=23A60,8
+无=23A60,0
+
+[No.3 SP Launch]
+有=23A70,8
+无=23A70,0
+
+[No.4 SP Launch]
+有=23A80,8
+无=23A80,0
+
+[GameInfo]
+Name=2130 - Yu-Gi-Oh! Destiny Board Traveler (E)
+System=GBA
+Text=vicente

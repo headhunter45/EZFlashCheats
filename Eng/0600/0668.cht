@@ -1,0 +1,25 @@
+[Outgoing number]
+0=E7,0
+1=E7,1
+2=E7,2
+3=E7,3
+
+[Bad ball number]
+3=E6,3
+2=E6,2
+1=E6,1
+0=E6,0
+
+[Good shot number]
+0=E5,0
+1=E5,1
+2=E5,2
+3=E5,3
+
+[We score points]
+ON=E1,63
+
+[GameInfo]
+Name=0668 - Gachinko Pro Yakyuu (J)
+System=GBA
+Text=0668 - Gachinko Pro Yakyuu (J)

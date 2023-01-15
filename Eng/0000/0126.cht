@@ -1,0 +1,19 @@
+[HP]
+ON=325BE,96
+
+[Bullet 1]
+ON=3269C,63
+
+[Lives]
+ON=325BC,9
+
+[Invicible] 
+ON=326B6,42
+
+[Gun 1]
+ON=325E0,9
+
+[GameInfo]
+Name=0126 - Dexter's Lab - Deesaster Strikes
+System=GBA
+Text=

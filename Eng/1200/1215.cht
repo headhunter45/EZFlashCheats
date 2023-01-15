@@ -1,0 +1,19 @@
+[SP]
+ON=426AF,C0
+
+[HP]
+ON=4268C,EC
+
+[invisible]
+ON=4268D,C8
+
+[Weapon Strength]
+ON=426AD,2
+
+[Lives]
+ON=4005D,9
+
+[GameInfo]
+Name=1215 - Power Rangers - Ninja Storm (E) 
+System=GBA
+Text=

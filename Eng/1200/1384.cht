@@ -1,0 +1,13 @@
+[Blood（The second barrier）]
+ON=E02C,6
+
+[Blood（The first barrier）]
+ON=DB1C,6
+
+[Flame number]
+ON=12FFD,63
+
+[GameInfo]
+Name=1384 - Pitfall - The Lost Expedition (E)（玛亚历险记-迷失的探险队）（E）AVG 32
+System=GBA
+Text=大胖子 整理提供

@@ -1,0 +1,48 @@
+[Retry Times decrease]
+ON=4000C,3
+
+[Self-piloting]
+ON(select+ио)=43BE1,A0
+OFF(select+об)=43BE1,80
+
+[Time00'00'00]
+ON=45C80,0
+
+[Gold coin99]
+ON=43D10,63
+
+[Select role]
+Mario=43BE4,0
+Luigi=43BE4,1
+Toad=43BE4,2
+Peach=43BE4,3
+Donkey Kong=43BE4,4
+Wario=43BE4,5
+Bowser=43BE4,6
+Yoshi=43BE4,7
+Bomberman=43BE4,8
+
+[Weapon]
+Green Shell=43D12,0,10
+Triple Green Shell=43D12,1,10
+Red Shell=43D12,2,10
+Triple Red Shell=43D12,3,10
+Spiked Shell=43D12,4,10
+Banana Skin=43D12,5,10
+Triple Banana Skin=43D12,6,10
+Mushroom=43D12,7,10
+Triple Mushroom=43D12,8,10
+Star=43D12,A,10
+Ghost=43D12,B,10
+Lightning Bolt=43D12,C,10
+
+[Direct end]
+ON(select+L)=43BE0,34
+
+[Score MAX]
+ON=43C5C,24
+
+[GameInfo]
+Name=0086 - Mario Kart Super Circuit (U)
+System=GBA
+TEXT=0086 - Mario Kart Super Circuit (U)

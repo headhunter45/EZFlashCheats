@@ -1,0 +1,16 @@
+[Lightning]
+ON=10160,63
+
+[Score]
+ON=10074,FF,E0,F5,5
+
+[HP]
+ON=10148,32
+
+[Lives]
+ON=10078,9
+
+[GameInfo]
+Name=1282 - Star Wars Flight of the Falcon (U) 
+System=GBA
+Text=

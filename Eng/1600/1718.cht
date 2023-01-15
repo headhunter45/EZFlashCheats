@@ -1,0 +1,25 @@
+[Durability]
+ON=15556,0,20
+
+[Speed]
+ON=15540,B8,B
+
+[Fast victory]
+ON=15578,2
+
+[Perfect person]
+ON=8064,FF,FF,FF,FF
+
+[Entire pattern ]
+ON=806C,FF;8070,FF,FF,FF,FF,FF
+
+[The story clue all open]
+ON=8078,FF,FF,FF,FF,FF,FF,FF
+
+[The role material all open]
+ON=80E8,FF,FF,FF,FF,FF
+
+[GameInfo]
+Name=1718 - F-Zero Climax (J)（零式赛车-高潮）（J）RCG 128
+System=GBA
+Text=vicente

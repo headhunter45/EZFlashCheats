@@ -1,0 +1,25 @@
+[Life]
+ON=44AF4:63
+
+[Population]
+ON=44AFC:63
+
+[Entire stage pro]
+ON=44B10,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63,0,0,1,63
+
+[Auxiliary stage prop]
+ON=44B40,FF,FF;44B44,FF,FF
+
+[Silver coin number]
+ON=44A68,63
+
+[Key number]
+ON=44BA8,63
+
+[Entire ability]
+ON=44A64,9;44AD4:09;44B80,9;44A70,1;44BCC,1;44BBC,1
+
+[GameInfo]
+Name=1869 - Hobbit No Bouken (J)（霍比特人的冒险）（J）ACT 128
+System=GBA
+Text=vicente

@@ -1,0 +1,32 @@
+[Time]
+1 point=23869,1,0
+2 point=23869,2,0
+3 point=23869,3,0
+4 point=23869,4,0
+5 point=23869,5,0
+6 point=23869,6,0
+7 point=23869,7,0
+8 point=23869,8,0
+9 point=23869,9,0
+10 point=23869,A,0
+11 point=23869,B,0
+12 point=23869,C,0
+13 point=23869,D,0
+14 point=23869,E,0
+15 point=23869,F,0
+16 point=23869,10,0
+17 point=23869,11,0
+18 point=23869,12,0
+19 point=23869,13,0
+20 point=23869,14,0
+21 point=23869,15,0
+22 point=23869,16,0
+23 point=23869,17,0
+0 point=23869,0,0
+
+[Money]
+ON=238A4,80,4A,5D,5
+
+[GameInfo]
+Name=0975 - Fancy Pocket (J) SLG 32
+System=GBA

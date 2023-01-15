@@ -1,0 +1,31 @@
+[Time]
+ON=3056,9
+
+[Intgral]
+ON=3060,3F,42,F
+
+[Pepole  life]
+ON=1B9DC,13
+
+[Gragon life]
+ON=1B98C,3B
+
+[Elimination dinosaur number]
+ON=90BC,63
+
+[Elimination person number]
+ON=2FFC,63
+
+[Dragon unlock]
+ON=86C,1
+
+[Waterwheel water volume]
+ON=2D08,20
+
+[The auxiliary vehicle is durable]
+ON=51E1,13
+
+[GameInfo]
+Name=1882 - Reign Of Fire (E)
+System=GBA
+Text=vicente 

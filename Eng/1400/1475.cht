@@ -1,0 +1,22 @@
+[Score MAX]
+ON=46328,FF,E0,F5,5
+
+[Receive gold coin as soons as get MAX]
+ON=46440,9F,86,1
+
+[Time does not reduce]
+ON=46324,C5
+
+[LifeX9]
+ON=46425,9
+
+[Invincibility]
+ON=4622B,0;
+
+[Physical strength does not reduce]
+ON=4643D,3
+
+[GameInfo]
+Name=1475 - Pyuu to Fuku Jaguar Byo to Deru Megane kun (J)（眼睛君）（J）ACT 64
+System=GBA
+TEXT=大胖子 整理提供

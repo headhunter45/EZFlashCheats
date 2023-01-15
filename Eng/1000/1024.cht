@@ -1,0 +1,13 @@
+[All Modes]
+ON=7404,FF
+
+[All Boards and Collectibles]
+ON=7405,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Enable View On Staffs And All Tracks]
+ON=7536,FF,FF
+
+[GameInfo]
+Name=1024 - Disney Sports Snowboarding (E) 
+System=GBA
+Text=

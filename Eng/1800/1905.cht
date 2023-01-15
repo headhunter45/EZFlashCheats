@@ -1,0 +1,71 @@
+[Money]
+ON=288A8,FF,C9,9A,3B
+
+[Do not meet the enemy]
+ON=20A05,F
+
+[First place organism HP]
+ON=20F22,F,27
+
+[First place organism MAXHP]
+ON=20F7E,F,27
+
+[First place organism EP]
+ON=20F80,F,27
+
+[First place organism GEP]
+ON=20F82,F,27
+
+[First place organism SPD]
+ON=20F84,F,27
+
+[First place organism AGI]
+ON=20F86,F,27
+
+[First place organism DEF]
+ON=20F88,F,27
+
+[First place organism MAXWP]
+ON=20F8A,F,27
+
+[First place organismTP]
+ON=20F8C,FF,C9,9A,3B
+
+[First place character LV]
+ON=27A52,63
+
+[First place character EXP]
+ON=27A54,FF,C9,9A,3B
+
+[First place character growup]
+ON=27A84,E7,3,E7,3,E7,3,E7,3,E7,3
+
+[Entire general stage pro]
+ON=28819,63,63,63,63,63,63,63,63,63
+
+[Entire equipment stage pro]
+ON=28751,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Entire ZIParts]
+ON=28823,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63,63
+
+[Entire ZIDate]
+ON=28888,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire Command]
+ON=2889C,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire illustrated handbook]
+ON=30504,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF
+
+[Entire HP in the fighting]
+ON=32ADA,F,27;32B6E,F,27;32C02,F,27;32C96,F,27;32D2A,F,27;32DBE,F,27
+
+[Entire EP in the fighting]
+ON=32ADC,F,27;32B70,F,27;32C04,F,27;32C98,F,27;32D2C,F,27;32DC0,F,27
+
+[GameInfo]
+Name=1905 - Zoids Saga Fuzors (J)
+System=GBA
+Text=vicente 
+

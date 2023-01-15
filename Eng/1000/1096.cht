@@ -1,0 +1,19 @@
+[HP]
+ON=4408C,A
+
+[Vacuum Machine Energy]
+ON=4410B,1B
+
+[Coin]
+ON=4408C,A;4410B,1B;44118,99,9
+
+[Costumes]
+Normal=44074,0;440FA,0,0
+Vacumn Suit=44074,1;440FA,1,1
+Adventure Suit=44074,2;440FA,2,2
+Little Pony Suit=44074,3;440FA,3,3
+
+[GameInfo]
+Name=1096 - Disneys Magical Quest 2 (J)
+System=GBA
+Text=

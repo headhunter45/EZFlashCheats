@@ -1,0 +1,30 @@
+[Time]
+ON=39269,0,0
+
+[Speed]
+ON=40C1D,20,3
+
+[GameInfo]
+Name=0560 - V - Rally 3 (J)
+System=GBA
+
+-------------------------------------------------
+[Time
+ON=39268,0,0,0,0
+
+[The vehicle race is durable]
+ON=392D2,0;392D5,0;392D8,0;392DB,0;392DE,0
+
+[Entire vehicle race]
+ON=392AB,0,0,0,0,0,0,0,0
+
+[Time entire racetrack]
+ON=39A9A,0,0,0,0,0,0,0,0
+
+[Cross entire racetrack]
+ON=3930A,0,0,0,0
+
+[GameInfo]
+Name=0560 - V - Rally 3 (J)
+System=GBA
+Text=vicente

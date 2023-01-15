@@ -1,0 +1,19 @@
+[Double hitx99]
+ON=43B18,63
+
+[ScoreMAX]
+43BA0,FF,FF
+
+[Physcial strength of three persons does not reduce ]
+ON=43D18,64;43D1A,64;43D1C,64
+
+[Pointsx999]
+ON=43D24,E7,3
+
+[Double hit score255]
+ON=43D40,FF
+
+[GameInfo]
+Name=1433 - The Powerpuff Girls-Mojo JoJo a Go Go (E)£¨ÅçÆøÅ®º¢-Ä§Å®à±à±Go - Go£©£¨E£©ACT 32
+System=GBA
+TEXT=HOTSUMA

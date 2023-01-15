@@ -1,0 +1,16 @@
+[Airplane durability]
+ON=401A3,5
+
+[Airplane number]
+ON=45ABC,5
+
+[Missile]
+ON=401D8,63
+
+[Entire battle]
+ON=441E0,10
+
+[GameInfo]
+Name=1911 - Super Army War (U)
+System=GBA
+Text=vicente 

@@ -1,0 +1,16 @@
+[Life]
+ON=43EA4,70,2
+
+[Time]
+ON=A4,0,0
+
+[integral]
+ON=43EB4,99,99,99
+
+[Entire equipment]
+ON=43EAC,FF
+
+[GameInfo]
+Name=1962 - Hugo The Evil Mirror (U)
+System=GBA
+Text=vicente

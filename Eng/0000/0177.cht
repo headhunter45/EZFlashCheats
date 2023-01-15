@@ -1,0 +1,13 @@
+[HP]
+ON=41A0C,5
+
+[Lives]
+ON=41A10,63
+
+[Coins]
+ON=41A08,E7,3
+
+[GameInfo]
+Name=0177 - Sponge Bob Square Pants - SuperSponge (U)
+System=GBA
+Text=

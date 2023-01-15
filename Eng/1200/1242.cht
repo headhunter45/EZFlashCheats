@@ -1,0 +1,29 @@
+[Infinite Money]
+ON=25BC4,3F,42,F
+
+[No Random Encounter]
+ON=26AB6,FF
+
+[Clock = 0]
+Hour=24EB2,0
+Minute=24EB4,0
+Hour + Minute=24EB2,0;24EB4,0
+
+[Enemy First Pokemon HP]
+0=24B00,0
+
+[First Pokemon HP]
+Max HP=44586,ff
+Max Current=44588,ff
+Max HP and Current HP=44586,21;44588,ff
+
+[Infinite Pokeball]
+ON=25D36,63;25D3A,63;25D3E,63;25D42,63;25D46,63;25D4A,63;25D4E,63;25D52,63;25D56,63;25D5A,63;25D5E,63;25D62,63;25D66,63;25D6A,63;25D6E,63
+
+[All Pokeball]
+ON=25D34,01;25D38,02;25D3C,03;25D40,04;25D44,05;25D48,06;25D4C,07;25D50,08;25D54,09;25D58,0A;25D5C,0B;25D60,0C
+
+[GameInfo]
+Name=1242 - Pokemon Ruby v1.1 (E) 
+System=GBA
+Text=

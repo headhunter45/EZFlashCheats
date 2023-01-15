@@ -1,0 +1,25 @@
+[Physical strength does not reduce]
+ON=405CD,A
+
+[Life does not reduce]
+ON=405CA,A
+
+[Invincibility]
+ON=40594,9
+
+[Apple does not reduce]
+ON=405CF,99
+
+[Emerald]
+ON=405D1,99
+
+[Ruby]
+ON=405E0,A
+
+[Diamond]
+ON=405D1,99
+
+[GameInfo]
+Name=1410 - Disney s Aladdin (E) £¨µÏÊ¿Äá °¢À­¶¡£©£¨E£©ACT 32M
+System=GBA
+Text=HOTSUMA

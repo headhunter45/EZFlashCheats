@@ -1,0 +1,110 @@
+[Life]
+ON=20646,0,4
+
+[Life with an upper limit]
+ON=20648,0,4
+
+[Population]
+ON=29F36,63
+
+[Invisible]
+ON=20658,20
+
+[Invincibility]
+ON=20651,2
+
+[Must kill]
+ON=2064B,4
+
+[Integral]
+ON=20660,FF,E0,F5,5
+
+[Entire stage pro]
+ON=29F58,FF,FF,FF,FF,FF,FF,FF
+
+[Entire barrier]
+ON=541,10
+
+[Limited barrier time]
+ON=28128,2C,1
+
+[ACTBOSS dies as soon as strike]
+ON=44174,0,0
+
+[对战关卡我方体力]
+ON=29986,0,1
+
+[Our side energy in the war barrier]]
+ON=29988,10
+
+[Our side must kill in the war barrier]
+ON=2998D,2
+
+[Physical strength of the opposite side in the war barrier]
+ON=29A56,0,0
+
+[The opposite energy in the war barrier]
+ON=29A58,0
+
+[The opposite side must kill in the war barrier]
+ON=29A5D,0
+
+[Perfect person in the war]
+ON=29F55,FF,FF,FF
+
+[Add-in open]
+ON=29F50,FF
+
+[Perfect person]
+ON=29F70,FF,FF,FF,FF
+
+[ACT select the person]
+ON=2066A,
+孙悟空=2066A,0
+小林=2066A,1
+乐平=2066A,2
+第1关BOSS=2066A,3
+人造人？=2066A,4
+忍者=2066A,5
+骷髅兵=2066A,6
+蓝将军=2066A,7
+蓝色机器人=2066A,8
+绿色机器人=2066A,9
+紫色机器人=2066A,A
+蝙蝠=2066A,B
+恶魔？=2066A,C
+魔族战士1=2066A,D
+魔族战士2=2066A,E
+龟仙人=2066A,F
+天津饭=2066A,10
+饺子=2066A,11
+孙悟饭=2066A,12
+短笛=2066A,13
+桃白白=2066A,14
+基兰=2066A,15
+南无=2066A,16
+飞龙=2066A,17
+猪士兵=2066A,18
+狗士兵=2066A,19
+狼=2066A,1A
+机器人=2066A,1B
+飞行器=2066A,1C
+魔族士兵=2066A,1D
+
+[Select the person in the war]
+孙悟空=29F82,0
+龟仙人=29F82,1
+天津饭=29F82,2
+桃白白=29F82,3
+孙悟饭=29F82,4
+小林=29F82,5
+短笛=29F82,6
+机械桃白白=29F82,7
+基兰=29F82,8
+南无=29F82,9
+饺子=29F82,A
+
+[GameInfo]
+Name=1961 - Dragonball Advance Adventure(K)
+System=GBA
+Text=vicente 

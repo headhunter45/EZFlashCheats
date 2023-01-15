@@ -1,0 +1,16 @@
+[Duck Mouth]
+ON=400B1,3
+
+[Rice]
+ON=4198D,63
+
+[Lives]
+ON=4198C,63
+
+[Time]
+ON=400B4,63
+
+[GameInfo]
+Name=1088 - Hachimon (J) 
+System=GBA
+Text=

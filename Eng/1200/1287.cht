@@ -1,0 +1,16 @@
+[HP]
+ON=40B7E,64
+
+[Anger]
+ON=40B84,64
+
+[Invicible]
+ON=40B74,2
+
+[Lives]
+ON=40B7C,9
+
+[GameInfo]
+Name=1287 - Mucha Lucha Mascaritas of the Lost Code (U)
+System=GBA
+Text=

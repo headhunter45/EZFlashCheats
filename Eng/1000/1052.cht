@@ -1,0 +1,19 @@
+[Lives]
+ON=40885,63
+
+[Invisible]
+ON=40934,80
+
+[Gems]
+ON=40884,C8
+
+[Ghost/Spirit]
+ON=40886,63
+
+[Score]
+ON=40880,3F,42,F
+
+[GameInfo]
+Name=1052 - Mahou no Pumpkin (J) 
+System=GBA
+Text=

@@ -1,0 +1,21 @@
+[Cross]
+ON=5FE2,9
+
+[R]
+ON=5FE1,9
+
+[L]
+ON=5FE0,9
+
+[B]
+ON=5FDF,9
+
+[A]
+ON=5FDE,9
+
+[Get Points]
+ON=6040,3F,42,F
+
+[GameInfo]
+Name=0581 - Disney Sports Skateboarding (J)
+System=GBA

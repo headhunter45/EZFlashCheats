@@ -1,0 +1,30 @@
+[Attacks the side fault number]
+0=42C2A,0
+1=42C2A,1
+2=42C2A,2
+3=42C2A,3
+
+[Defends the side fault number]
+0=42C2C,0
+1=42C2C,1
+2=42C2C,2
+3=42C2C,3
+
+[Opposite party score]
+0=4075D,0
+9=4075D,9
+
+[We leave office the population]
+0=40768,0
+1=40768,1
+2=40768,2
+4=40768,3
+
+[We score points]
+0=4075C,0
+9=4075C,9
+
+[GameInfo]
+Name=0889 - All Star Baseball 2004 (U)
+System=GBA
+Text=0889 - All Star Baseball 2004 (U)

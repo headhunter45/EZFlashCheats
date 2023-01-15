@@ -1,0 +1,13 @@
+[Highest speed]
+ON=43A64,0,4
+
+[Time]
+ON=43A04,0
+
+[Forever 00:00:00]
+ON=43A04,0,0
+
+[GameInfo]
+Name=0014 - Top Gear All-Japan GT Championship (J)
+System=GBA
+Text=0014 - Top Gear All-Japan GT Championship (J)

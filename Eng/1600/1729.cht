@@ -1,0 +1,58 @@
+[Hidyway character all open]
+ON=1D744,1;1D748,1;1D74C,1;1D754,1
+
+[Entire map]
+1D4CA,B,C;1D4F0,0,1,2,3,4,5,6,7,8,9,A,B
+
+[No.1LP]
+最大=23AF8,F,27
+最小=23AF8,0,0
+
+[No.2LP]
+最大=23B08,F,27
+最小=23B08,0,0
+
+[No.3 LP]
+最大=23B18,F,27
+最小=23B18,0,0
+
+[No.4 LP]
+最大=23B28,F,27
+最小=23B28,0,0
+
+[No.1 star rank]
+最大=23AFC,63
+最小=23AFC,0
+
+[No.2 star rank]
+最大=23B0C,63
+最小=23B0C,0
+
+[No.3 star rank]
+最大=23B1C,63
+最小=23B1C,0
+
+[No.4 star rank]
+最大=23B2C,63
+最小=23B2C,0
+
+[No.1 SP launch]
+有=23B00,8
+无=23B00,0
+
+[No.2SP launch]
+有=23B10,8
+无=23B10,0
+
+[No.3SP launch]
+有=23B20,8
+无=23B20,0
+
+[No.4SP launch]
+有=23B30,8
+无=23B30,0
+
+[GameInfo]
+Name=1729 - Yu-Gi-Oh Destiny Board Traveler (U)（游戏王-命运之旅）（E）CAG 64
+System=GBA
+Text=vicente

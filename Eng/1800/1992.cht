@@ -1,0 +1,10 @@
+[Points]
+ON=DD1C,F,27
+
+[Entire ability of beetle]
+ON=C880,FF,FF,FF,FF;D040,FF,FF,FF,FF;D810,FF,FF,FF,FF;EF80,FF,FF,FF,FF
+
+[GameInfo]
+Name=1992 - Konchu Monster Battle Stadium (J)
+System=GBA
+Text=vicente 

@@ -1,0 +1,28 @@
+[Each ability of bomb person]
+ON=35194,A,A,A,A
+
+[Invisible]
+ON=4259C,1;425D6,64
+
+[Money]
+ON=35198,F,27
+
+[Infinite Health]
+ON=35194,14
+
+[Max Health]
+ON=35195,14
+
+[Most bomb]
+ON=35196,9
+
+[Biggest detonation]
+ON=35197,9
+
+[Most golden coins]
+ON=35198,E7,3
+
+[GameInfo]
+Name=0058 - Bomberman Tournament (U)
+System=GBA
+Text=0058 - Bomberman Tournament (U)

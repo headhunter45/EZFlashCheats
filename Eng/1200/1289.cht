@@ -1,0 +1,27 @@
+[Star]
+ON=42E60,63
+
+[Great]
+99=42E20,63
+0=42E20,0
+
+[Good]
+99=42E24,63
+0=42E24,0
+
+[Normal]
+0=42E28,0
+99=42E28,63
+
+[Poor]
+0=42E2C,0
+99=42E2C,63
+
+[Poorest]
+0=42E30,0
+99=42E30,63
+
+[GameInfo]
+Name=1289 - American Idol (U) 
+System=GBA
+Text=

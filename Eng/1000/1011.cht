@@ -1,0 +1,16 @@
+[Weapons]
+ON=41290,63
+
+[HP]
+ON=41D72,5F
+
+[Invisible]
+ON=41DD6,64
+
+[Lives]
+ON=41268,9
+
+[GameInfo]
+Name=Buffy The Vampire Slayer - Return of the Dark King (G)
+System=GBA
+Text=

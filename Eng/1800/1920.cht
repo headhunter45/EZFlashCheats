@@ -1,0 +1,25 @@
+[Money]
+ON=32068,FF,C9,9A,3B
+
+[Entire fittings]
+ON=32084,63,63,63,63,63,63,63,63,63,63;32093,5,1,1,1,1,1,1,1,1,1,5,5,5,3
+
+[Perfect person]
+ON=381B8,1;381C0,1;381E0,1;381F8,1;38200,1
+
+[Entire barrier
+ON=380DC,1,2D,1,0,1,2D,1,0,1,2D,1,0,1,2D,1,0,1,2D,1,0,1
+
+[Racing durability]
+ON=23BEC,0,0
+
+[Time ]
+ON=38234,0,0,0,0
+
+[Fast victory]
+ON=23CEF,3
+
+[GameInfo]
+Name=1920 - Racing Gears Advance (U)（高速赛车）（M5）RCG 64
+System=GBA
+Text=vicente

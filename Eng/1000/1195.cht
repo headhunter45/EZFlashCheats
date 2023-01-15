@@ -1,0 +1,16 @@
+[snail]
+ON=2B08,28
+
+[HP]
+ON=1B0D0,4;1C150,4;1CDA8,4;22ED8,4;249A8,4
+
+[Time]
+ON=5FB8,0,0
+
+[Bomb]
+ON=2AD6,1
+
+[GameInfo]
+Name=1195 - Disneys The Lion King 1.5 (U)
+System=GBA
+Text=

@@ -1,0 +1,16 @@
+[HP]
+ON=40139,9
+
+[Lives]
+ON=4013C,9
+
+[Invincible]
+ON=40130,73
+
+[Bomb]
+ON=40A84,32
+
+[GameInfo]
+Name=0179 - Inspector Gadget - Advance Mission (E)
+System=GBA
+Text=

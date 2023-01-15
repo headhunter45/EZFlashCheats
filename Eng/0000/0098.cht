@@ -1,0 +1,57 @@
+[Health]
+ON=40A8A,14
+
+[Population]
+ON=45DCC,9
+
+[Stealth]
+ON=45DE1,9
+
+[Heavy Gun]
+ON=45DA2,1
+OFF=45DA2,0
+
+[Heavy Gun Ammo]
+ON=45DB8,63
+
+[Moonie Gun]
+ON=45DA5,1
+OFF=45DA5,0
+
+[Moonie Gun Ammo]
+ON=45DD4,63
+
+[Freeze Gun]
+ON=45DA1,1
+OFF=45DA1,0
+
+[Light Wave Gun]
+ON=45DA4,1
+OFF=45DA4,0
+
+[Freezes greatly the gun]
+ON=45DA3,1
+OFF=45DA3,0
+
+[Freezes greatly the gun bullet]
+ON=45DE4,63
+
+[Submachine Gun]
+ON=45DA6,1
+OFF=45DA6,0
+
+[Submachine Gun Ammo]
+ON=45DC4,63
+
+[Loses recalls the lamp]
+ON=45DA7,1
+OFF=45DA7,0
+
+[Eyeglasses]
+ON=45D60,1
+OFF=45D60,0
+
+[GameInfo]
+Name=0098 - Men in Black - The Series (E)
+System=GBA
+Text=0098 - Men in Black - The Series (E)

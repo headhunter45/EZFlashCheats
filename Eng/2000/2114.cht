@@ -1,0 +1,22 @@
+[P mode population]
+ON=46722,5
+
+[Pmode newspaper]
+ON=D3C2,A
+
+[P mode integral]
+ON=43614,3F,42,F
+
+[R mode population]
+ON=14234,9
+
+[R mode durability]
+ON=14236,20
+
+[Rmode integral]
+ON=14238,3F,42,F
+
+[GameInfo]
+Name=2114 - Paperboy Rampage (U)
+System=GBA
+Text=vicente

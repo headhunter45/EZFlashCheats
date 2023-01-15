@@ -1,0 +1,19 @@
+[Life does not reduce]
+ON=22D0,9
+
+[Physical strength with upper limit]
+ON=217F;F
+
+[Physical strength does not reduce]
+ON=217E;F
+
+[Red fruit255]
+ON=21DD;FF
+
+[Sheep]
+ON=21BF;6
+
+[GameInfo]
+Name=1413 - Tak and The Power of JuJu (E)（塔克和符咒的神力）（E）ACT 64
+System=GBA
+text=HOTSUMA

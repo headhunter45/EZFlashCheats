@@ -1,0 +1,22 @@
+[Life]
+ON=1C3B,3
+
+[Population]
+ON=1C3A,63
+
+[Invisible]
+ON=AEA,FF
+
+[Bean fraction]
+ON=1C38,E7,3
+
+[Integral]
+ON=1C30,FF,E0,F5,5
+
+[Barriers all open]
+ON=1C4C,FF,FF,FF
+
+[GameInfo]
+Name=1789 - Pac-Man World (U)（小精灵世界）（E） ACT 64
+System=GBA
+Text=vicente

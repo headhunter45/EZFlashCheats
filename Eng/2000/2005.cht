@@ -1,0 +1,22 @@
+[Money]
+ON=43C6E,7E,96,98
+
+[Do not meet the enemy]
+ON=43244,0,0
+
+[Entire memeber full HP]
+ON=43D41,F,27,F,27;43D49,F,27,F,27;43D51,F,27,F,27;43D59,F,27,F,27;43D61,F,27,F,27
+
+[Entire memeber fully attack /defence]
+ON=43D45,F,27,F,27;43D4D,F,27,F,27;43D55,F,27,F,27;43D5D,F,27,F,27;43D65,F,27,F,27
+
+[Full ability of entire member ]
+ON=3D6A,FF,FF,FF,FF,FF,FF,FF;43D72,FF,FF,FF,FF,FF,FF,FF;3D7A,FF,FF,FF,FF,FF,FF,FF;43D82,FF,FF,FF,FF,FF,FF,FF;43D9A,FF,FF,FF,FF,FF,FF,FF
+
+[Entire memeber ful EXP]
+ON=43C2F,7F,96,98;43C37,7F,96,98;43C3F,7F,96,98;43C47,7F,96,98;43C4F,7F,96,98
+
+[GameInfo]
+Name=2005 - Metal Max 2 Kai - version 1.1 (J)
+System=GBA
+Text=vicente 

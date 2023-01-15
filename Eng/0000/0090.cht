@@ -1,0 +1,43 @@
+[Infinite time]
+ON=40BF0,9
+
+[Infinite energy]
+ON=41910,8
+
+[Infinite gold coin]
+ON=40BF4,9F,86,01
+
+[Frog gold coin]
+ON=40008,E7,3
+
+[Under arms]
+ON=40C38,5
+
+[Pass the block, the compact disc and the key]
+ON=40C07,2,2,2,2,2,2
+
+[Condition]
+Normal=41898,0
+Bubble=41898,1
+Strange=41898,2
+Fat=41898,3
+Snowman=41898,4
+Poisoned=41898,5
+Unclear Condition=41898,6
+??=41898,7
+Ballon=41898,8
+Bat=41898,9
+??=41898,A
+
+[The channel can not open after pass(No locking)
+OFF=0000,0
+ON=40C0D,1
+
+[Transparent]
+OFF=0000,0
+ON=4189C,4B
+
+[GameInfo]
+Name=0090 - Wario Land 4 (J)
+System=GBA
+Text=0090 - Wario Land 4 (J)

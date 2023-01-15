@@ -1,0 +1,19 @@
+[HP]
+ON=46814,6
+
+[Fruits/Nuts]
+ON=4680E,63
+
+[Lives]
+ON=4680B,9
+
+[Money]
+ON=46806,E7,3
+
+[Invisible]
+ON=4680A,64;46817,2
+
+[GameInfo]
+Name=1160 - Mr. Nutz (E)
+System=GBA
+Text=

@@ -1,0 +1,43 @@
+[Gem quantity]
+ON=2EEA6,63
+
+[Quantity]
+ON=2EEA0,63
+
+[Health]
+ON=2FCF4,6
+
+[Invisible ]
+ON=2EEB4,1;2FCD4,30
+
+[Fist might]
+ON=23178,A
+
+[Use the ordinary fist]
+ON=2BEE4,1
+
+[Use the gold fist]
+ON=2EE8C,8
+
+[Life 99]
+ON=2EEA0,63
+
+[Blue ball 99]
+ON=2EEA6,63
+
+[Max Health ]
+ON=2EEA9,5
+
+[Great jump]
+ON=2FCC0,3
+
+[Invincibility]
+ON=2FCD4,64
+
+[Full Health]
+ON=2FCF4,5
+
+[GameInfo]
+Name=0051 - Rayman Advance (E)
+System=GBA
+Text=0051 - Rayman Advance (E)

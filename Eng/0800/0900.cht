@@ -1,0 +1,40 @@
+[Gem quantity*255]
+on=2340,ff
+
+[The blood does not reduce]
+ON=234D,A0
+
+[Money]
+ON=2340,E7,3;2341,3
+
+[Infinite bomb]
+ON=2323,63
+
+[Energy trough]
+ON=234E,80
+
+[Sword]
+level 1 sword=233D,1
+level 2 sword=233D,2
+level 3 sword=233D,3
+level 4 sword=233D,4
+
+[Arrow]
+ON=2357,63
+
+[Arrow does not reduce(Practice the target in the dark world)]
+ON=42FE5,5
+
+[Infinite time(The dark world)]
+ON=42D8C,1E
+OFF=0,0
+
+[Key]
+ON=234F,9
+
+[Invisible]
+ON=439DA,64
+
+[GameInfo]
+Name=0900 - The Legend Of Zelda Gods Triforce And Four Swords (J) A¡¤RPG 64
+System=GBA

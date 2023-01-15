@@ -1,0 +1,22 @@
+[Population]
+ON=1E4E,9
+
+[Life]
+ON=93FC,64
+
+[Police star]
+ON=93EE,0
+
+[Entire weapon]
+ON=9412,FF,7F,FF,7F,FF,7F,FF,7F,FF,7F,FF,7F,FF,7F
+
+[Integral]
+ON=9424,FF,E0,F5,5
+
+[Barriers all open ]
+ON=26D2,1,0,1,0,1,0,1,0,1,0
+
+[GameInfo]
+Name=1807 - Payback (E)£¨±¨¸´£©£¨E - F - G - I - S£©AVG 64
+System=GBA
+Text=vicente

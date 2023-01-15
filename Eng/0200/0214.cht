@@ -1,0 +1,14 @@
+[Our physical strength do not reduce ]
+  
+ON=4177C,0,0
+
+[Time]
+ON=41288,0
+
+[Computer without physical strength]
+ON=417EC,FF,FF
+
+[GameInfo]
+Name=0214 - Robot Wars - Advanced Destruction (E)（机器人大战-进化毁灭）（M）ACT 32
+System=GBA
+Text=大胖子 整理提供
